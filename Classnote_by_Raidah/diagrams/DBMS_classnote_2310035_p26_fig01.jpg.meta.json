@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn transaction state transition diagram showing states active, partially committed (PC), committed, failed, and aborted",
+  "source_image": "enhanced_026.jpg",
+  "crop_percentages": {
+    "top": 27.0,
+    "bottom": 57.4,
+    "left": 2.0,
+    "right": 34.0
+  },
+  "crop_pixels": {
+    "x1": 46,
+    "y1": 446,
+    "x2": 795,
+    "y2": 948
+  },
+  "crop_size": {
+    "width": 749,
+    "height": 502
+  },
+  "figure_id": "Fig_DBMS_p26_01"
+}

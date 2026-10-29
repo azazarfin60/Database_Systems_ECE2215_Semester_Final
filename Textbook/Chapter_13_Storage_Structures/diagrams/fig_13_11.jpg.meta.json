@@ -1,0 +1,21 @@
+{
+  "description": "Multitable clustering file structure",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 67.0,
+    "bottom": 88.2,
+    "left": 27.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 398,
+    "y1": 1222,
+    "x2": 1121,
+    "y2": 1609
+  },
+  "crop_size": {
+    "width": 723,
+    "height": 387
+  },
+  "figure_id": "Fig_13.11"
+}

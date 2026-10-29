@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with role indicators course_id and prereq_id on prereq relationship",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 9.77,
+    "bottom": 21.21,
+    "left": 30.02,
+    "right": 72.98
+  },
+  "crop_pixels": {
+    "x1": 442,
+    "y1": 178,
+    "x2": 1076,
+    "y2": 387
+  },
+  "crop_size": {
+    "width": 634,
+    "height": 209
+  },
+  "figure_id": "Fig_6.4"
+}

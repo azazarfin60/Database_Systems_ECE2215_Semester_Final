@@ -1,0 +1,21 @@
+{
+  "description": "Transaction state transition diagram showing states: active, partially committed, committed, failed, and aborted with transition arrows",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 13.0,
+    "bottom": 82.0,
+    "left": 21.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 560,
+    "y1": 195,
+    "x2": 2213,
+    "y2": 1230
+  },
+  "crop_size": {
+    "width": 1653,
+    "height": 1035
+  },
+  "figure_id": "Fig_L07_p08_01"
+}

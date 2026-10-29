@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram illustrating basic components: Instructor entity set with attributes ID, Name, Salary, connected via Advices relationship set to Student entity set with attributes ID, Name, Credits",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 13.0,
+    "bottom": 49.2,
+    "left": 3.0,
+    "right": 97.0
+  },
+  "crop_pixels": {
+    "x1": 49,
+    "y1": 304,
+    "x2": 1603,
+    "y2": 1150
+  },
+  "crop_size": {
+    "width": 1580,
+    "height": 775
+  },
+  "figure_id": "Fig_p021_01"
+}

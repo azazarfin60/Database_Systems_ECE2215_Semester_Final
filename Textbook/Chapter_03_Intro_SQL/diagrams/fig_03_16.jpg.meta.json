@@ -1,0 +1,21 @@
+{
+  "description": "The result relation for the query Find the average salary of instructors in those departments where the average salary is more than 42000",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 32.0,
+    "left": 20.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 182,
+    "x2": 1371,
+    "y2": 584
+  },
+  "crop_size": {
+    "width": 1076,
+    "height": 402
+  },
+  "figure_id": "Fig_3.16"
+}

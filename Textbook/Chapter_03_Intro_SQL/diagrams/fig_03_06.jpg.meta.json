@@ -1,0 +1,21 @@
+{
+  "description": "The Cartesian product of the instructor relation with the teaches relation",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 72.0,
+    "left": 16.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 182,
+    "x2": 1401,
+    "y2": 1314
+  },
+  "crop_size": {
+    "width": 1165,
+    "height": 1132
+  },
+  "figure_id": "Fig_3.6"
+}

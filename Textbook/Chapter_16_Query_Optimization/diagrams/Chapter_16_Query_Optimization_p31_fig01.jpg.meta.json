@@ -1,0 +1,21 @@
+{
+  "description": "Comparison of (a) Left-deep join tree versus (b) Non-left-deep join tree for relations r1 through r5",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 38.0,
+    "left": 21.0,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 155,
+    "x2": 1342,
+    "y2": 693
+  },
+  "crop_size": {
+    "width": 1033,
+    "height": 538
+  },
+  "figure_id": "Fig_16.8"
+}

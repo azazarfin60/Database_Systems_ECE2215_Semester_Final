@@ -1,0 +1,21 @@
+{
+  "description": "HTML form code allowing users to select person type from a menu and input a number in a text box",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 9.6,
+    "bottom": 43.2,
+    "left": 21.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 175,
+    "x2": 1386,
+    "y2": 788
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 613
+  },
+  "figure_id": "Fig_9.3"
+}

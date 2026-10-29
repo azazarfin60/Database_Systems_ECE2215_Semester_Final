@@ -1,0 +1,21 @@
+{
+  "description": "Complete extendable hash structure for the instructor file",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 8.8,
+    "bottom": 58.0,
+    "left": 14.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 160,
+    "x2": 1312,
+    "y2": 1058
+  },
+  "crop_size": {
+    "width": 1106,
+    "height": 898
+  },
+  "figure_id": "Fig_24.16"
+}

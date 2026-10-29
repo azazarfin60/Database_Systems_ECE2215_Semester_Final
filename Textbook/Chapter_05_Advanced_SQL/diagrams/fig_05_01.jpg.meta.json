@@ -1,0 +1,21 @@
+{
+  "description": "An example of JDBC code demonstrating connection creation, statement execution, and result set iteration",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 33.2,
+    "bottom": 94.5,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 605,
+    "x2": 1371,
+    "y2": 1724
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 1119
+  },
+  "figure_id": "Fig_5.1"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Secondary index on instructor file, on noncandidate key dept_name",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 38.6,
+    "left": 21.5,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 317,
+    "y1": 182,
+    "x2": 1371,
+    "y2": 704
+  },
+  "crop_size": {
+    "width": 1054,
+    "height": 522
+  },
+  "figure_id": "Fig_14.6"
+}

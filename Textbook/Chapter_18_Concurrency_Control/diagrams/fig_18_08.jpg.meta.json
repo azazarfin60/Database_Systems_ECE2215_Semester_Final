@@ -1,0 +1,21 @@
+{
+  "description": "Partial schedule under two-phase locking showing cascading rollback",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 42.7,
+    "left": 26.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 383,
+    "y1": 171,
+    "x2": 1135,
+    "y2": 779
+  },
+  "crop_size": {
+    "width": 752,
+    "height": 608
+  },
+  "figure_id": "Fig_18.8"
+}

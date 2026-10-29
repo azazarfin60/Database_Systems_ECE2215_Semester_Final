@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 6: a serial schedule that is equivalent to schedule 3",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 61.9,
+    "bottom": 84.89999999999999,
+    "left": 45.8,
+    "right": 69.0
+  },
+  "crop_pixels": {
+    "x1": 675,
+    "y1": 1129,
+    "x2": 1017,
+    "y2": 1549
+  },
+  "crop_size": {
+    "width": 342,
+    "height": 420
+  },
+  "figure_id": "Fig_17.8"
+}

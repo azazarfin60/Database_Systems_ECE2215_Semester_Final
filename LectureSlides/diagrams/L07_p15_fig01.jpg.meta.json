@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 4: A concurrent schedule that does not preserve the sum of A + B",
+  "source_image": "page_015.jpg",
+  "crop_percentages": {
+    "top": 22.0,
+    "bottom": 82.8,
+    "left": 49.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 1306,
+    "y1": 330,
+    "x2": 2240,
+    "y2": 1242
+  },
+  "crop_size": {
+    "width": 934,
+    "height": 912
+  },
+  "figure_id": "Fig_L07_p15_01"
+}

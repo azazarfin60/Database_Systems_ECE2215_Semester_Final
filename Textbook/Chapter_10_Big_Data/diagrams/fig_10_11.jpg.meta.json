@@ -1,0 +1,21 @@
+{
+  "description": "Routing of streams using (a) DAG representation of streaming data flow and (b) Publish-subscribe representation connecting Data Sources, Operators, and Data Sinks.",
+  "source_image": "page_042.jpg",
+  "crop_percentages": {
+    "top": 67.5,
+    "bottom": 95.0,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 1231,
+    "x2": 1327,
+    "y2": 1733
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 502
+  },
+  "figure_id": "Fig_10.11"
+}

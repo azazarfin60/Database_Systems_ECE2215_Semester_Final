@@ -1,0 +1,21 @@
+{
+  "description": "Hash-join algorithm pseudocode showing partitioning of s and r using hash function h, and build and probe phases using in-memory hash index",
+  "source_image": "page_028.jpg",
+  "crop_percentages": {
+    "top": 11.0,
+    "bottom": 62.7,
+    "left": 26.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 383,
+    "y1": 200,
+    "x2": 1194,
+    "y2": 1144
+  },
+  "crop_size": {
+    "width": 811,
+    "height": 944
+  },
+  "figure_id": "Fig_15.10"
+}

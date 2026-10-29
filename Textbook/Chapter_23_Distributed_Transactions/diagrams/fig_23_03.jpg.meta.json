@@ -1,0 +1,21 @@
+{
+  "description": "Implementation of persistent messaging using messages_to_send and received_messages relations with message delivery and receiving processes",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 45.4,
+    "left": 22.4,
+    "right": 92.3
+  },
+  "crop_pixels": {
+    "x1": 330,
+    "y1": 171,
+    "x2": 1361,
+    "y2": 828
+  },
+  "crop_size": {
+    "width": 1031,
+    "height": 657
+  },
+  "figure_id": "Fig_23.3"
+}

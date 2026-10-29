@@ -1,0 +1,21 @@
+{
+  "description": "Relationship set advisor with descriptive attribute date connecting instructor and student entity instances",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 34.0,
+    "bottom": 80.4,
+    "left": 10.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 200,
+    "y1": 510,
+    "x2": 1680,
+    "y2": 1206
+  },
+  "crop_size": {
+    "width": 1480,
+    "height": 696
+  },
+  "figure_id": "Fig_L05_p12_01"
+}

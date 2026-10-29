@@ -1,0 +1,21 @@
+{
+  "description": "Columnar data representation in the ORC file format",
+  "source_image": "page_028.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 65.7,
+    "left": 22.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 155,
+    "x2": 1194,
+    "y2": 1199
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 1044
+  },
+  "figure_id": "Fig_13.15"
+}

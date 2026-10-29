@@ -1,0 +1,6 @@
+{
+  "description": "Precedence graph for 2020 Q.6(a)(ii) Precedence Graph: r1(X); r3(X); w3(X); w1(X); r2(X): Cycle between T1 and T3",
+  "figure_id": "T10_2020_Q6aii_precedence_graph",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T10_diagrams.py"
+}

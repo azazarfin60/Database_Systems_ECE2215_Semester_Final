@@ -1,0 +1,21 @@
+{
+  "description": "Corrected versions of E-R diagrams avoiding common modeling errors",
+  "source_image": "page_043.jpg",
+  "crop_percentages": {
+    "top": 9.86,
+    "bottom": 48.04,
+    "left": 21.49,
+    "right": 95.44
+  },
+  "crop_pixels": {
+    "x1": 316,
+    "y1": 179,
+    "x2": 1407,
+    "y2": 876
+  },
+  "crop_size": {
+    "width": 1091,
+    "height": 697
+  },
+  "figure_id": "Fig_6.22"
+}

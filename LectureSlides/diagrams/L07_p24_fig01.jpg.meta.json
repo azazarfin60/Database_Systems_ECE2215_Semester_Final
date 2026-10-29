@@ -1,0 +1,21 @@
+{
+  "description": "Schedule involving transactions T1 and T5 producing same outcome as serial schedule but not conflict or view equivalent",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 29.0,
+    "bottom": 71.2,
+    "left": 30.0,
+    "right": 58.0
+  },
+  "crop_pixels": {
+    "x1": 800,
+    "y1": 435,
+    "x2": 1546,
+    "y2": 1068
+  },
+  "crop_size": {
+    "width": 746,
+    "height": 633
+  },
+  "figure_id": "Fig_L07_p24_01"
+}

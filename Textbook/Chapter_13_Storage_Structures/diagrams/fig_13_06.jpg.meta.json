@@ -1,0 +1,21 @@
+{
+  "description": "Slotted-page structure with block header and records",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 30.8,
+    "left": 24.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 182,
+    "x2": 1312,
+    "y2": 562
+  },
+  "crop_size": {
+    "width": 958,
+    "height": 380
+  },
+  "figure_id": "Fig_13.6"
+}

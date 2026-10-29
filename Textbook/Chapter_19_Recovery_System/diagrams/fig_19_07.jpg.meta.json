@@ -1,0 +1,21 @@
+{
+  "description": "Transaction rollback with logical undo operations showing log records and explanations for operation-begin, operation-end, and logical undo",
+  "source_image": "page_032.jpg",
+  "crop_percentages": {
+    "top": 50.0,
+    "bottom": 91.9,
+    "left": 13.5,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 199,
+    "y1": 912,
+    "x2": 1312,
+    "y2": 1677
+  },
+  "crop_size": {
+    "width": 1113,
+    "height": 765
+  },
+  "figure_id": "Fig_19.7"
+}

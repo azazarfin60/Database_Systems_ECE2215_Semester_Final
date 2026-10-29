@@ -1,0 +1,21 @@
+{
+  "description": "Specialization and generalization hierarchy with person, employee, student, instructor, and secretary",
+  "source_image": "page_035.jpg",
+  "crop_percentages": {
+    "top": 9.84,
+    "bottom": 39.63,
+    "left": 39.53,
+    "right": 75.28
+  },
+  "crop_pixels": {
+    "x1": 583,
+    "y1": 179,
+    "x2": 1110,
+    "y2": 723
+  },
+  "crop_size": {
+    "width": 527,
+    "height": 544
+  },
+  "figure_id": "Fig_6.18"
+}

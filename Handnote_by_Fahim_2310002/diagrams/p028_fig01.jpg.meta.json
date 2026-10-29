@@ -1,0 +1,21 @@
+{
+  "description": "One-to-one mapping cardinality between entity set A and entity set B",
+  "source_image": "page_028.jpg",
+  "crop_percentages": {
+    "top": 55.0,
+    "bottom": 79.2,
+    "left": 29.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 479,
+    "y1": 1286,
+    "x2": 1256,
+    "y2": 1852
+  },
+  "crop_size": {
+    "width": 777,
+    "height": 566
+  },
+  "figure_id": "p028_fig01"
+}

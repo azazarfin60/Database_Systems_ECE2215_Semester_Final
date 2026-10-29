@@ -1,0 +1,21 @@
+{
+  "description": "Result of Retrieve the names of all instructors, along with their department names and department building name",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 44.0,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 182,
+    "x2": 1371,
+    "y2": 803
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 621
+  },
+  "figure_id": "Fig_3.5"
+}

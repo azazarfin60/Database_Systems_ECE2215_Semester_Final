@@ -1,0 +1,21 @@
+{
+  "description": "Merge-join algorithm pseudocode showing pointer traversal pr and ps, matching join attribute values, and collecting matching tuples",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 11.0,
+    "bottom": 86.2,
+    "left": 25.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 200,
+    "x2": 1298,
+    "y2": 1573
+  },
+  "crop_size": {
+    "width": 930,
+    "height": 1373
+  },
+  "figure_id": "Fig_15.7"
+}

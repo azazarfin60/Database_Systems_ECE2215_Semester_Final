@@ -1,0 +1,21 @@
+{
+  "description": "The dept_advisor relationship set E-R diagram connecting instructor, department, and student",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 35.7,
+    "left": 17.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 155,
+    "x2": 1224,
+    "y2": 651
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 496
+  },
+  "figure_id": "Fig_7.6"
+}

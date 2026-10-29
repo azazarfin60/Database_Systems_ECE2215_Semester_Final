@@ -1,0 +1,21 @@
+{
+  "description": "Query processing flowchart showing parsing and translation into relational-algebra expressions, optimization using data statistics, and plan evaluation to produce query output",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 36.0,
+    "bottom": 93.4,
+    "left": 26.5,
+    "right": 78.5
+  },
+  "crop_pixels": {
+    "x1": 706,
+    "y1": 540,
+    "x2": 2093,
+    "y2": 1401
+  },
+  "crop_size": {
+    "width": 1387,
+    "height": 861
+  },
+  "figure_id": "Fig_L01_p25_01"
+}

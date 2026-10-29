@@ -1,0 +1,21 @@
+{
+  "description": "Django Python implementation of the person query application showing URL dispatch patterns and person_query_view function",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 27.0,
+    "bottom": 93.6,
+    "left": 14.5,
+    "right": 94.5
+  },
+  "crop_pixels": {
+    "x1": 213,
+    "y1": 492,
+    "x2": 1393,
+    "y2": 1708
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 1216
+  },
+  "figure_id": "Fig_9.10"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Summary chart of symbols used in E-R notation continued including primary keys, cardinality limits, roles, total participation, and specialization",
+  "source_image": "page_071.jpg",
+  "crop_percentages": {
+    "top": 20.0,
+    "bottom": 83.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 200,
+    "y1": 300,
+    "x2": 1800,
+    "y2": 1252
+  },
+  "crop_size": {
+    "width": 1600,
+    "height": 952
+  },
+  "figure_id": "Fig_L05_p71_01"
+}

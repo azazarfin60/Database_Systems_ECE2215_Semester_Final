@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with descriptive attribute grade attached to relationship set takes between student and section",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 77.31,
+    "bottom": 90.88,
+    "left": 27.96,
+    "right": 75.06
+  },
+  "crop_pixels": {
+    "x1": 412,
+    "y1": 1410,
+    "x2": 1107,
+    "y2": 1658
+  },
+  "crop_size": {
+    "width": 695,
+    "height": 248
+  },
+  "figure_id": "Fig_6.5"
+}

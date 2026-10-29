@@ -1,0 +1,21 @@
+{
+  "description": "Java servlet implementation example of PersonQueryServlet processing HTTP GET requests and generating dynamic HTML",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 25.0,
+    "bottom": 95.7,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 456,
+    "x2": 1298,
+    "y2": 1746
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 1290
+  },
+  "figure_id": "Fig_9.7"
+}

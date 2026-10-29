@@ -1,0 +1,21 @@
+{
+  "description": "Architecture of a typical data warehouse illustrating data extraction and loading from multiple sources into a DBMS data warehouse and query/analysis tools",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 63.0,
+    "bottom": 91.7,
+    "left": 18.5,
+    "right": 84.5
+  },
+  "crop_pixels": {
+    "x1": 272,
+    "y1": 1149,
+    "x2": 1246,
+    "y2": 1673
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 524
+  },
+  "figure_id": "Fig_11.1"
+}

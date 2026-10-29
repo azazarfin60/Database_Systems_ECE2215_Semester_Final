@@ -1,0 +1,21 @@
+{
+  "description": "Relationship set diagram showing mapping between Instructor entity set and Student entity set via Advices relationship set with descriptive attribute date",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 46.4,
+    "left": 6.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 99,
+    "y1": 222,
+    "x2": 1520,
+    "y2": 1085
+  },
+  "crop_size": {
+    "width": 1421,
+    "height": 863
+  },
+  "figure_id": "Fig_p024_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Hadoop Distributed File System (HDFS) architecture showing NameNode, BackupNode, DataNodes organized into Rack 1 and Rack 2, Client metadata ops, block read, block write, and block replication.",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 26.5,
+    "bottom": 96.7,
+    "left": 17.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 483,
+    "x2": 1268,
+    "y2": 1764
+  },
+  "crop_size": {
+    "width": 1018,
+    "height": 1281
+  },
+  "figure_id": "Fig_10.1"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "External sorting using sort-merge showing initial relation, creation of sorted runs, merge pass 1, merge pass 2, and sorted output",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 53.7,
+    "left": 25.0,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 182,
+    "x2": 1342,
+    "y2": 980
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 798
+  },
+  "figure_id": "Fig_15.4"
+}

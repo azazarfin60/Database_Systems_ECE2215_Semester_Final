@@ -1,0 +1,21 @@
+{
+  "description": "Recovery actions in ARIES illustrating analysis pass, redo pass, and undo pass on an example log with PrevLSN and UndoNextLSN pointers",
+  "source_image": "page_040.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 54.2,
+    "left": 22.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 173,
+    "x2": 1194,
+    "y2": 989
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 816
+  },
+  "figure_id": "Fig_19.10"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "General extendable hash structure with bucket address table and bucket depths",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 8.8,
+    "bottom": 45.5,
+    "left": 22.5,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 331,
+    "y1": 160,
+    "x2": 1187,
+    "y2": 830
+  },
+  "crop_size": {
+    "width": 856,
+    "height": 670
+  },
+  "figure_id": "Fig_24.8"
+}

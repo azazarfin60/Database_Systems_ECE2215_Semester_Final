@@ -1,0 +1,21 @@
+{
+  "description": "The result relation for the query Find the average salary in each department",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 69.5,
+    "bottom": 95.0,
+    "left": 20.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 1268,
+    "x2": 1371,
+    "y2": 1733
+  },
+  "crop_size": {
+    "width": 1076,
+    "height": 465
+  },
+  "figure_id": "Fig_3.14"
+}

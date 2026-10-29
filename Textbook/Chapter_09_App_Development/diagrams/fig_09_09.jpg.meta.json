@@ -1,0 +1,21 @@
+{
+  "description": "JavaServer Pages (JSP) document containing embedded Java scriptlet code intermixed with HTML",
+  "source_image": "page_015.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 34.8,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 191,
+    "x2": 1371,
+    "y2": 635
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 444
+  },
+  "figure_id": "Fig_9.9"
+}

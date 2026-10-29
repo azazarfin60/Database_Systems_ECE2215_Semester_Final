@@ -1,0 +1,21 @@
+{
+  "description": "Granularity hierarchy showing levels from database to record",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 65.5,
+    "bottom": 95.0,
+    "left": 14.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 1195,
+    "x2": 1298,
+    "y2": 1733
+  },
+  "crop_size": {
+    "width": 1092,
+    "height": 538
+  },
+  "figure_id": "Fig_18.15"
+}

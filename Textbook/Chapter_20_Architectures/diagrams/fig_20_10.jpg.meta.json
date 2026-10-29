@@ -1,0 +1,21 @@
+{
+  "description": "Cloud service models showing cloud clients connected via internet to application, platform, and infrastructure layers",
+  "source_image": "page_033.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 67.2,
+    "left": 42.5,
+    "right": 72.5
+  },
+  "crop_pixels": {
+    "x1": 626,
+    "y1": 164,
+    "x2": 1069,
+    "y2": 1226
+  },
+  "crop_size": {
+    "width": 443,
+    "height": 1062
+  },
+  "figure_id": "Fig_20.10"
+}

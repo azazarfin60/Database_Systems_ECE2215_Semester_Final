@@ -1,0 +1,21 @@
+{
+  "description": "Result of full outer join example",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 27.8,
+    "left": 23.5,
+    "right": 91.5
+  },
+  "crop_pixels": {
+    "x1": 346,
+    "y1": 178,
+    "x2": 1349,
+    "y2": 507
+  },
+  "crop_size": {
+    "width": 1003,
+    "height": 329
+  },
+  "figure_id": "Fig_4.6"
+}

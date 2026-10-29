@@ -1,0 +1,21 @@
+{
+  "description": "Incorrect summary problem table tracking transactions T1, T2 and intermediate database summary state leading to an inconsistent average",
+  "source_image": "page_033.jpg",
+  "crop_percentages": {
+    "top": 13.0,
+    "bottom": 92.6,
+    "left": 6.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 160,
+    "y1": 195,
+    "x2": 2346,
+    "y2": 1389
+  },
+  "crop_size": {
+    "width": 2186,
+    "height": 1194
+  },
+  "figure_id": "Fig_L07_p33_01"
+}

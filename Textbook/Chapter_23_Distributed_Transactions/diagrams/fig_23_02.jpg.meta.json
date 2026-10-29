@@ -1,0 +1,21 @@
+{
+  "description": "Successful execution of two-phase commit (2PC) protocol with Coordinator and Nodes N1 and N2 exchanging prepare, ready, commit, and ack messages",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 69.6,
+    "left": 16.5,
+    "right": 86.7
+  },
+  "crop_pixels": {
+    "x1": 243,
+    "y1": 171,
+    "x2": 1278,
+    "y2": 1270
+  },
+  "crop_size": {
+    "width": 1035,
+    "height": 1099
+  },
+  "figure_id": "Fig_23.2"
+}

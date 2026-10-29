@@ -1,0 +1,21 @@
+{
+  "description": "Precedence graph for (a) schedule 1 with edge T1 -> T2 and (b) schedule 2 with edge T2 -> T1",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 80.5,
+    "bottom": 91.8,
+    "left": 27.3,
+    "right": 75.6
+  },
+  "crop_pixels": {
+    "x1": 402,
+    "y1": 1469,
+    "x2": 1115,
+    "y2": 1675
+  },
+  "crop_size": {
+    "width": 713,
+    "height": 206
+  },
+  "figure_id": "Fig_17.10"
+}

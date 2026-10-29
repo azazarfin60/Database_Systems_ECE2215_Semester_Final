@@ -1,0 +1,21 @@
+{
+  "description": "Dirty read problem schedule where transaction T2 reads uncommitted data written by transaction T1 that later fails",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 44.0,
+    "bottom": 90.4,
+    "left": 8.0,
+    "right": 43.0
+  },
+  "crop_pixels": {
+    "x1": 213,
+    "y1": 660,
+    "x2": 1146,
+    "y2": 1356
+  },
+  "crop_size": {
+    "width": 933,
+    "height": 696
+  },
+  "figure_id": "Fig_L07_p29_01"
+}

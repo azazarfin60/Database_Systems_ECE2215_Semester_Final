@@ -1,0 +1,21 @@
+{
+  "description": "Illustration of topological sorting showing DAG (a) and its linear orderings (b) and (c)",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 56.3,
+    "left": 34.7,
+    "right": 68.2
+  },
+  "crop_pixels": {
+    "x1": 511,
+    "y1": 164,
+    "x2": 1005,
+    "y2": 1027
+  },
+  "crop_size": {
+    "width": 494,
+    "height": 863
+  },
+  "figure_id": "Fig_17.12"
+}

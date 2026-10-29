@@ -1,0 +1,21 @@
+{
+  "description": "Entity set instructor in ER diagram showing composite, multivalued, and derived attributes",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 15.0,
+    "bottom": 81.6,
+    "left": 38.0,
+    "right": 67.0
+  },
+  "crop_pixels": {
+    "x1": 760,
+    "y1": 225,
+    "x2": 1340,
+    "y2": 1223
+  },
+  "crop_size": {
+    "width": 580,
+    "height": 998
+  },
+  "figure_id": "Fig_L05_p19_01"
+}

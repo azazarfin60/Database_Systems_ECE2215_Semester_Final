@@ -1,0 +1,21 @@
+{
+  "description": "Schematic diagram of a magnetic disk showing platters, spindle, tracks, sectors, cylinder, read-write heads, arm, and arm assembly with rotation direction",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 46.400000000000006,
+    "left": 23.0,
+    "right": 80.0
+  },
+  "crop_pixels": {
+    "x1": 339,
+    "y1": 173,
+    "x2": 1180,
+    "y2": 846
+  },
+  "crop_size": {
+    "width": 841,
+    "height": 673
+  },
+  "figure_id": "Fig_12.2"
+}

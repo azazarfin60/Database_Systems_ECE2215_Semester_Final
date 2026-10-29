@@ -1,0 +1,21 @@
+{
+  "description": "Algorithm for block nested-loop join iterating over blocks Br of r and Bs of s and pairs of tuples tr and ts",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 62.5,
+    "bottom": 93.2,
+    "left": 21.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 1140,
+    "x2": 1253,
+    "y2": 1700
+  },
+  "crop_size": {
+    "width": 944,
+    "height": 560
+  },
+  "figure_id": "Fig_15.6"
+}

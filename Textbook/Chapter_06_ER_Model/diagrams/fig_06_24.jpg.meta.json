@@ -1,0 +1,21 @@
+{
+  "description": "Replacement of takes relationship set by registration entity set and two binary relationships",
+  "source_image": "page_045.jpg",
+  "crop_percentages": {
+    "top": 9.87,
+    "bottom": 30.34,
+    "left": 24.65,
+    "right": 90.25
+  },
+  "crop_pixels": {
+    "x1": 363,
+    "y1": 180,
+    "x2": 1331,
+    "y2": 553
+  },
+  "crop_size": {
+    "width": 968,
+    "height": 373
+  },
+  "figure_id": "Fig_6.24"
+}

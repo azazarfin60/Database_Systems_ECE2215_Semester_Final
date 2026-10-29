@@ -1,0 +1,21 @@
+{
+  "description": "Hash function mapping department names to 32-bit binary hash values",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 8.8,
+    "bottom": 28.8,
+    "left": 24.5,
+    "right": 78.5
+  },
+  "crop_pixels": {
+    "x1": 361,
+    "y1": 160,
+    "x2": 1157,
+    "y2": 525
+  },
+  "crop_size": {
+    "width": 796,
+    "height": 365
+  },
+  "figure_id": "Fig_24.9"
+}

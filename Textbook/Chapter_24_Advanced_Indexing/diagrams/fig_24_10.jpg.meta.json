@@ -1,0 +1,21 @@
+{
+  "description": "Initial extendable hash structure with empty bucket and global depth 0",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 77.0,
+    "bottom": 91.0,
+    "left": 24.5,
+    "right": 78.5
+  },
+  "crop_pixels": {
+    "x1": 361,
+    "y1": 1405,
+    "x2": 1157,
+    "y2": 1660
+  },
+  "crop_size": {
+    "width": 796,
+    "height": 255
+  },
+  "figure_id": "Fig_24.10"
+}

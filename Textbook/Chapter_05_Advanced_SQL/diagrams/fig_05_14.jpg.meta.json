@@ -1,0 +1,21 @@
+{
+  "description": "SQL function findAllPrereqs iteratively finding all prerequisites of a course using temporary tables",
+  "source_image": "page_033.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 95.5,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 164,
+    "x2": 1371,
+    "y2": 1742
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 1578
+  },
+  "figure_id": "Fig_5.14"
+}

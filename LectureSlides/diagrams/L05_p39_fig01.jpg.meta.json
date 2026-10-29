@@ -1,0 +1,21 @@
+{
+  "description": "Comprehensive E-R diagram for a university enterprise showing department, instructor, student, course, section, classroom, time_slot entity sets and their relationship sets",
+  "source_image": "page_039.jpg",
+  "crop_percentages": {
+    "top": 12.5,
+    "bottom": 96.6,
+    "left": 12.5,
+    "right": 83.5
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 187,
+    "x2": 1670,
+    "y2": 1449
+  },
+  "crop_size": {
+    "width": 1420,
+    "height": 1262
+  },
+  "figure_id": "Fig_L05_p39_01"
+}

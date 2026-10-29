@@ -1,0 +1,21 @@
+{
+  "description": "Representation of geometric constructs including line segment, triangle, polygon, and triangulated polygon with coordinate lists",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 62.7,
+    "left": 23.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 339,
+    "y1": 164,
+    "x2": 1327,
+    "y2": 1144
+  },
+  "crop_size": {
+    "width": 988,
+    "height": 980
+  },
+  "figure_id": "Fig_8.5"
+}

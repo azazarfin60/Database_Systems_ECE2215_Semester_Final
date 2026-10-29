@@ -1,0 +1,21 @@
+{
+  "description": "Display of HTML form from Figure 9.3 showing drop-down menu, text input, and Submit Query button",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 84.0,
+    "bottom": 94.5,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 1533,
+    "x2": 1371,
+    "y2": 1724
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 191
+  },
+  "figure_id": "Fig_9.4"
+}

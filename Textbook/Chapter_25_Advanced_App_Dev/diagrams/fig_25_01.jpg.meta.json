@@ -1,0 +1,21 @@
+{
+  "description": "Queues in a database system showing transaction source, transaction queue, transaction manager, concurrency-control manager with lock request/grant, CPU manager, disk manager with page request/reply, and buffer manager",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 54.5,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 164,
+    "x2": 1371,
+    "y2": 994
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 830
+  },
+  "figure_id": "Fig_25.1"
+}

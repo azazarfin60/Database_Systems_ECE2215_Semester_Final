@@ -1,0 +1,21 @@
+{
+  "description": "Relational model tabular representation of instructor table showing columns and rows, with portrait of Ted Codd (Turing Award 1981)",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 28.0,
+    "bottom": 93.2,
+    "left": 22.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 586,
+    "y1": 420,
+    "x2": 2400,
+    "y2": 1398
+  },
+  "crop_size": {
+    "width": 1814,
+    "height": 978
+  },
+  "figure_id": "Fig_L01_p12_01"
+}

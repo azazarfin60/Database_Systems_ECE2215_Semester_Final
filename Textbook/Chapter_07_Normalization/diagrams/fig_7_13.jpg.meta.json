@@ -1,0 +1,21 @@
+{
+  "description": "Tabular representation of alpha ->-> beta multivalued dependency condition",
+  "source_image": "page_035.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 25.7,
+    "left": 21.0,
+    "right": 79.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 155,
+    "x2": 1165,
+    "y2": 469
+  },
+  "crop_size": {
+    "width": 856,
+    "height": 314
+  },
+  "figure_id": "Fig_7.13"
+}

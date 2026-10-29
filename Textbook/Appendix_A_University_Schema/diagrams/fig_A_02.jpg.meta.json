@@ -1,0 +1,21 @@
+{
+  "description": "The classroom relation table with attributes building, room_number, and capacity",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 50.2,
+    "bottom": 63.9,
+    "left": 35.2,
+    "right": 67.8
+  },
+  "crop_pixels": {
+    "x1": 519,
+    "y1": 916,
+    "x2": 1000,
+    "y2": 1166
+  },
+  "crop_size": {
+    "width": 481,
+    "height": 250
+  },
+  "figure_id": "Fig_A.2"
+}

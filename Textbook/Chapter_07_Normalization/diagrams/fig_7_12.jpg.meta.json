@@ -1,0 +1,21 @@
+{
+  "description": "Dependency-preserving lossless decomposition into 3NF using canonical cover Fc",
+  "source_image": "page_032.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 56.2,
+    "left": 17.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 164,
+    "x2": 1224,
+    "y2": 1025
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 861
+  },
+  "figure_id": "Fig_7.12"
+}

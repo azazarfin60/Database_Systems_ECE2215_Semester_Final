@@ -1,0 +1,21 @@
+{
+  "description": "Relational schema representing part of the system metadata",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 53.0,
+    "bottom": 96.2,
+    "left": 20.0,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 967,
+    "x2": 1342,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 788
+  },
+  "figure_id": "Fig_13.12"
+}

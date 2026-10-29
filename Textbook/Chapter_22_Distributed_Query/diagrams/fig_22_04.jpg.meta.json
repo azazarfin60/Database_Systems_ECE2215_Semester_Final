@@ -1,0 +1,21 @@
+{
+  "description": "Parallel processing of MapReduce job showing User Program, Master assigning map and reduce tasks to workers, input file partitions, local write to intermediate files, remote read and sort, and output files",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 39.7,
+    "left": 28.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 164,
+    "x2": 1283,
+    "y2": 724
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 560
+  },
+  "figure_id": "Fig_22.4"
+}

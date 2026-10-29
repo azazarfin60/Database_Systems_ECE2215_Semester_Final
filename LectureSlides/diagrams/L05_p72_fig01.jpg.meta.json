@@ -1,0 +1,21 @@
+{
+  "description": "Alternative ER diagram notations comparison chart showing Chen notation, IDE1FX notation, and standard ER notation",
+  "source_image": "page_072.jpg",
+  "crop_percentages": {
+    "top": 25.0,
+    "bottom": 71.0,
+    "left": 8.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 160,
+    "y1": 375,
+    "x2": 1880,
+    "y2": 1065
+  },
+  "crop_size": {
+    "width": 1720,
+    "height": 690
+  },
+  "figure_id": "Fig_L05_p72_01"
+}

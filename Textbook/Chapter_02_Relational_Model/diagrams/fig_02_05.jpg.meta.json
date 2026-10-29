@@ -1,0 +1,21 @@
+{
+  "description": "The department relation table with columns dept_name, building, and budget",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 72.0,
+    "bottom": 89.6,
+    "left": 42.1,
+    "right": 72.8
+  },
+  "crop_pixels": {
+    "x1": 620,
+    "y1": 1314,
+    "x2": 1073,
+    "y2": 1635
+  },
+  "crop_size": {
+    "width": 453,
+    "height": 321
+  },
+  "figure_id": "Fig_2.5"
+}

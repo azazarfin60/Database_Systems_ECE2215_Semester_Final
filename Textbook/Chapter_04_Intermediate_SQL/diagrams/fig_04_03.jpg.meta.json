@@ -1,0 +1,21 @@
+{
+  "description": "The natural join of the student relation with the takes relation",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 61.2,
+    "left": 17.0,
+    "right": 85.5
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 178,
+    "x2": 1261,
+    "y2": 1116
+  },
+  "crop_size": {
+    "width": 1011,
+    "height": 938
+  },
+  "figure_id": "Fig_4.3"
+}

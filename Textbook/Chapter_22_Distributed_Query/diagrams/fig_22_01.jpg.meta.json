@@ -1,0 +1,21 @@
+{
+  "description": "Parallel sorting algorithms comparing (a) range partitioning sort with local sort and (b) parallel external sort-merge with local sort and range partition merge",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 33.400000000000006,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 173,
+    "x2": 1298,
+    "y2": 609
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 436
+  },
+  "figure_id": "Fig_22.1"
+}

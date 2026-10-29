@@ -1,0 +1,21 @@
+{
+  "description": "Visual equation showing the union of course_id tables resulting in combined distinct course_id tuples",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 38.0,
+    "bottom": 79.4,
+    "left": 5.0,
+    "right": 81.5
+  },
+  "crop_pixels": {
+    "x1": 100,
+    "y1": 570,
+    "x2": 1630,
+    "y2": 1191
+  },
+  "crop_size": {
+    "width": 1530,
+    "height": 621
+  },
+  "figure_id": "Fig_L02_p22_1"
+}

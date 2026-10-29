@@ -1,0 +1,21 @@
+{
+  "description": "Double-pipelined join algorithm pseudocode showing concurrent tuple arrival from inputs r and s with incremental join results",
+  "source_image": "page_044.jpg",
+  "crop_percentages": {
+    "top": 11.0,
+    "bottom": 65.7,
+    "left": 25.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 200,
+    "x2": 1194,
+    "y2": 1199
+  },
+  "crop_size": {
+    "width": 826,
+    "height": 999
+  },
+  "figure_id": "Fig_15.13"
+}

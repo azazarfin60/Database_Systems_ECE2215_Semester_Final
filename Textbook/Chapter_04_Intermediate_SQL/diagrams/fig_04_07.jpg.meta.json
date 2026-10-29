@@ -1,0 +1,21 @@
+{
+  "description": "Join types and join conditions",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 79.5,
+    "bottom": 94.8,
+    "left": 29.5,
+    "right": 73.5
+  },
+  "crop_pixels": {
+    "x1": 435,
+    "y1": 1450,
+    "x2": 1084,
+    "y2": 1730
+  },
+  "crop_size": {
+    "width": 649,
+    "height": 280
+  },
+  "figure_id": "Fig_4.7"
+}

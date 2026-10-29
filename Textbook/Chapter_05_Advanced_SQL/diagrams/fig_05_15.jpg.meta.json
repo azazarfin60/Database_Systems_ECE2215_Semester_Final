@@ -1,0 +1,21 @@
+{
+  "description": "Execution trace showing prerequisites of CS-347 found in iterations of function findAllPrereqs",
+  "source_image": "page_034.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 29.5,
+    "left": 20.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 186,
+    "x2": 1224,
+    "y2": 538
+  },
+  "crop_size": {
+    "width": 929,
+    "height": 352
+  },
+  "figure_id": "Fig_5.15"
+}

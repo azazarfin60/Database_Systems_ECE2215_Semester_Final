@@ -1,0 +1,21 @@
+{
+  "description": "Relationship cardinalities shown with directed and undirected edges in E-R diagrams",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 34.08,
+    "bottom": 88.73,
+    "left": 28.25,
+    "right": 74.74
+  },
+  "crop_pixels": {
+    "x1": 416,
+    "y1": 621,
+    "x2": 1102,
+    "y2": 1619
+  },
+  "crop_size": {
+    "width": 686,
+    "height": 998
+  },
+  "figure_id": "Fig_6.11"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Converting non-binary relationships to binary form showing (a) ternary relationship R and (b) equivalent binary representation using created entity set E and relationships RA, RB, RC",
+  "source_image": "page_067.jpg",
+  "crop_percentages": {
+    "top": 59.0,
+    "bottom": 95.0,
+    "left": 5.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 100,
+    "y1": 885,
+    "x2": 1900,
+    "y2": 1425
+  },
+  "crop_size": {
+    "width": 1800,
+    "height": 540
+  },
+  "figure_id": "Fig_L05_p67_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The result of takes natural right outer join student",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 63.0,
+    "left": 17.0,
+    "right": 85.5
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 178,
+    "x2": 1261,
+    "y2": 1149
+  },
+  "crop_size": {
+    "width": 1011,
+    "height": 971
+  },
+  "figure_id": "Fig_4.5"
+}

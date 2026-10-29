@@ -1,0 +1,21 @@
+{
+  "description": "An example of sales relation showing columns item name, color, clothes size, and quantity",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 86.2,
+    "left": 29.5,
+    "right": 73.5
+  },
+  "crop_pixels": {
+    "x1": 435,
+    "y1": 155,
+    "x2": 1084,
+    "y2": 1573
+  },
+  "crop_size": {
+    "width": 649,
+    "height": 1418
+  },
+  "figure_id": "Fig_11.3"
+}

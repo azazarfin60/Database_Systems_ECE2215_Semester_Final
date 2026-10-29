@@ -1,0 +1,21 @@
+{
+  "description": "Lock-compatibility matrix with increment lock mode",
+  "source_image": "page_059.jpg",
+  "crop_percentages": {
+    "top": 9.2,
+    "bottom": 28.0,
+    "left": 27.0,
+    "right": 87.5
+  },
+  "crop_pixels": {
+    "x1": 398,
+    "y1": 167,
+    "x2": 1290,
+    "y2": 511
+  },
+  "crop_size": {
+    "width": 892,
+    "height": 344
+  },
+  "figure_id": "Fig_18.25"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "An instance of the classroom relation with building, room_number, and capacity",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 74.0,
+    "bottom": 96.7,
+    "left": 19.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 280,
+    "y1": 1350,
+    "x2": 1194,
+    "y2": 1764
+  },
+  "crop_size": {
+    "width": 914,
+    "height": 414
+  },
+  "figure_id": "Fig_7.5"
+}

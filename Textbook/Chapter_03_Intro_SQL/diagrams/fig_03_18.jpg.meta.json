@@ -1,0 +1,21 @@
+{
+  "description": "Banking database schema",
+  "source_image": "page_054.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 31.0,
+    "left": 20.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 209,
+    "x2": 1253,
+    "y2": 565
+  },
+  "crop_size": {
+    "width": 958,
+    "height": 356
+  },
+  "figure_id": "Fig_3.18"
+}

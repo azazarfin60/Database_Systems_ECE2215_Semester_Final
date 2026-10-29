@@ -1,0 +1,21 @@
+{
+  "description": "Application deployment alternatives: (a) multiple applications on a single machine, (b) multiple applications using virtual machines, and (c) multiple applications using containers",
+  "source_image": "page_036.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 34.2,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 164,
+    "x2": 1283,
+    "y2": 624
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 460
+  },
+  "figure_id": "Fig_20.11"
+}

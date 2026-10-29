@@ -1,0 +1,21 @@
+{
+  "description": "Batch update in JDBC showing PreparedStatement creation, addBatch calls, and executeBatch execution",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 11.0,
+    "bottom": 43.0,
+    "left": 25.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 200,
+    "x2": 1327,
+    "y2": 784
+  },
+  "crop_size": {
+    "width": 959,
+    "height": 584
+  },
+  "figure_id": "Fig_25.2"
+}

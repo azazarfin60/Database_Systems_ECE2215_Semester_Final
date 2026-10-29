@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 2: a serial schedule in which T2 is followed by T1",
+  "source_image": "page_015.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 45.599999999999994,
+    "left": 42.3,
+    "right": 72.5
+  },
+  "crop_pixels": {
+    "x1": 623,
+    "y1": 162,
+    "x2": 1069,
+    "y2": 832
+  },
+  "crop_size": {
+    "width": 446,
+    "height": 670
+  },
+  "figure_id": "Fig_17.3"
+}

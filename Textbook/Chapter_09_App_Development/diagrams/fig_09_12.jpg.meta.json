@@ -1,0 +1,21 @@
+{
+  "description": "HTML page using JavaScript and Ajax to dynamically fetch and display person data without full page reload",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 88.6,
+    "left": 19.5,
+    "right": 98.5
+  },
+  "crop_pixels": {
+    "x1": 287,
+    "y1": 182,
+    "x2": 1452,
+    "y2": 1616
+  },
+  "crop_size": {
+    "width": 1165,
+    "height": 1434
+  },
+  "figure_id": "Fig_9.12"
+}

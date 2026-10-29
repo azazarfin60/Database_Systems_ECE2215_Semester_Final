@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn precedence graph (conflict serializability graph) showing directed edges between transactions T1, T2, and T3",
+  "source_image": "enhanced_026.jpg",
+  "crop_percentages": {
+    "top": 14.0,
+    "bottom": 25.0,
+    "left": 76.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 1777,
+    "y1": 231,
+    "x2": 2058,
+    "y2": 413
+  },
+  "crop_size": {
+    "width": 281,
+    "height": 182
+  },
+  "figure_id": "Fig_DBMS_p26_02"
+}

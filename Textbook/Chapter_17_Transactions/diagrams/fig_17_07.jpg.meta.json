@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 5: schedule 3 after swapping a pair of nonconflicting instructions",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 31.8,
+    "left": 45.8,
+    "right": 69.0
+  },
+  "crop_pixels": {
+    "x1": 675,
+    "y1": 162,
+    "x2": 1017,
+    "y2": 580
+  },
+  "crop_size": {
+    "width": 342,
+    "height": 418
+  },
+  "figure_id": "Fig_17.7"
+}

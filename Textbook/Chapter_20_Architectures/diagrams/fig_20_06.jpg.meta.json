@@ -1,0 +1,21 @@
+{
+  "description": "Architecture of a modern shared-memory system (NUMA), showing multiple processor nodes with local memory, interconnected via fast interconnect system, and connecting to I/O controllers",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 64.0,
+    "bottom": 91.0,
+    "left": 28.5,
+    "right": 86.5
+  },
+  "crop_pixels": {
+    "x1": 420,
+    "y1": 1168,
+    "x2": 1275,
+    "y2": 1660
+  },
+  "crop_size": {
+    "width": 855,
+    "height": 492
+  },
+  "figure_id": "Fig_20.6"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Wait-for graph without a cycle between transactions T17, T18, T19, and T20 indicating no deadlock",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 33.0,
+    "bottom": 81.0,
+    "left": 38.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 1013,
+    "y1": 495,
+    "x2": 2053,
+    "y2": 1215
+  },
+  "crop_size": {
+    "width": 1040,
+    "height": 720
+  },
+  "figure_id": "Fig_L08_p24_01"
+}

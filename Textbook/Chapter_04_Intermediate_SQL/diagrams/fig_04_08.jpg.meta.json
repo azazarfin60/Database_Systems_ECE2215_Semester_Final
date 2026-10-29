@@ -1,0 +1,21 @@
+{
+  "description": "Relations instructor and department after insertion of tuples",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 71.0,
+    "left": 22.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 178,
+    "x2": 1194,
+    "y2": 1295
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 1117
+  },
+  "figure_id": "Fig_4.8"
+}

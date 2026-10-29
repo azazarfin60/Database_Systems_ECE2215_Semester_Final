@@ -1,0 +1,21 @@
+{
+  "description": "Design alternatives for adding phone attribute to instructor entity set",
+  "source_image": "page_044.jpg",
+  "crop_percentages": {
+    "top": 9.86,
+    "bottom": 23.13,
+    "left": 22.68,
+    "right": 80.38
+  },
+  "crop_pixels": {
+    "x1": 334,
+    "y1": 179,
+    "x2": 1185,
+    "y2": 422
+  },
+  "crop_size": {
+    "width": 851,
+    "height": 243
+  },
+  "figure_id": "Fig_6.23"
+}

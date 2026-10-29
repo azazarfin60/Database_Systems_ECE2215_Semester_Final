@@ -1,0 +1,21 @@
+{
+  "description": "Global primary and secondary indices on student relation showing (a) Primary index on ID and (b) Secondary index on name with partition tables and tablets",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 43.400000000000006,
+    "left": 14.5,
+    "right": 88.5
+  },
+  "crop_pixels": {
+    "x1": 213,
+    "y1": 155,
+    "x2": 1305,
+    "y2": 792
+  },
+  "crop_size": {
+    "width": 1092,
+    "height": 637
+  },
+  "figure_id": "Fig_21.6"
+}

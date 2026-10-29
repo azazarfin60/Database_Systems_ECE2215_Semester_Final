@@ -1,0 +1,21 @@
+{
+  "description": "Banking database schema for Exercise 5.6 showing branch, customer, loan, borrower, account, depositor relations",
+  "source_image": "page_052.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 31.0,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 186,
+    "x2": 1283,
+    "y2": 565
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 379
+  },
+  "figure_id": "Fig_5.21"
+}

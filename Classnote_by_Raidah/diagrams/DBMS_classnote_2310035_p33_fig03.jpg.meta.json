@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn RAID 6 architecture diagram showing block-interleaved dual distributed parity (P+Q parity: Ap/Aq, Bp/Bq, Cp/Cq, Dp/Dq) across Disks 0-4",
+  "source_image": "enhanced_033.jpg",
+  "crop_percentages": {
+    "top": 4.0,
+    "bottom": 30.4,
+    "left": 53.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 1239,
+    "y1": 66,
+    "x2": 2245,
+    "y2": 502
+  },
+  "crop_size": {
+    "width": 1006,
+    "height": 436
+  },
+  "figure_id": "Fig_DBMS_p33_03"
+}

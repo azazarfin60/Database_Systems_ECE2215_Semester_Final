@@ -1,0 +1,21 @@
+{
+  "description": "File of Figure 13.1, with record 3 deleted and final record moved",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 39.7,
+    "left": 23.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 339,
+    "y1": 164,
+    "x2": 1327,
+    "y2": 724
+  },
+  "crop_size": {
+    "width": 988,
+    "height": 560
+  },
+  "figure_id": "Fig_13.3"
+}

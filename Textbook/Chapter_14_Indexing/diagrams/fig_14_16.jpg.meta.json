@@ -1,0 +1,21 @@
+{
+  "description": "Insertion of entry in a B+-tree algorithm",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 51.0,
+    "bottom": 96.2,
+    "left": 20.5,
+    "right": 94.5
+  },
+  "crop_pixels": {
+    "x1": 302,
+    "y1": 930,
+    "x2": 1393,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 1091,
+    "height": 825
+  },
+  "figure_id": "Fig_14.16"
+}

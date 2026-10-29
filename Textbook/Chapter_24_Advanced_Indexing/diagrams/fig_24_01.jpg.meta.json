@@ -1,0 +1,21 @@
+{
+  "description": "Log-structured merge tree with three levels showing L0 in memory and L1, L2, L3 on disk",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 65.5,
+    "bottom": 90.5,
+    "left": 15.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 1195,
+    "x2": 1253,
+    "y2": 1651
+  },
+  "crop_size": {
+    "width": 1032,
+    "height": 456
+  },
+  "figure_id": "Fig_24.1"
+}

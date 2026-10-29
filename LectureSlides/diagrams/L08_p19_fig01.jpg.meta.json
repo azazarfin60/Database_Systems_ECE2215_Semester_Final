@@ -1,0 +1,21 @@
+{
+  "description": "Strict and Rigorous 2PL lock timing diagram showing locks acquired up to T End where all locks are released simultaneously at commit",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 13.0,
+    "bottom": 56.0,
+    "left": 65.0,
+    "right": 99.0
+  },
+  "crop_pixels": {
+    "x1": 1733,
+    "y1": 195,
+    "x2": 2640,
+    "y2": 840
+  },
+  "crop_size": {
+    "width": 907,
+    "height": 645
+  },
+  "figure_id": "Fig_L08_p19_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The prereq relation table with attributes course_id and prereq_id",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 65.8,
+    "bottom": 83.1,
+    "left": 47.1,
+    "right": 67.7
+  },
+  "crop_pixels": {
+    "x1": 694,
+    "y1": 1200,
+    "x2": 998,
+    "y2": 1516
+  },
+  "crop_size": {
+    "width": 304,
+    "height": 316
+  },
+  "figure_id": "Fig_A.12"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Database system structure showing users (naive users, application programmers, sophisticated users, database administrators), query processor components, storage manager components, and disk storage",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 86.5,
+    "left": 18.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 265,
+    "y1": 182,
+    "x2": 1268,
+    "y2": 1578
+  },
+  "crop_size": {
+    "width": 1003,
+    "height": 1396
+  },
+  "figure_id": "Fig_1.3"
+}

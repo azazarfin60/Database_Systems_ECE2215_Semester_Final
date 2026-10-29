@@ -1,0 +1,21 @@
+{
+  "description": "Summary of symbols used in UML class diagram notation corresponding to E-R constructs",
+  "source_image": "page_052.jpg",
+  "crop_percentages": {
+    "top": 9.75,
+    "bottom": 71.1,
+    "left": 19.51,
+    "right": 81.29
+  },
+  "crop_pixels": {
+    "x1": 287,
+    "y1": 177,
+    "x2": 1199,
+    "y2": 1297
+  },
+  "crop_size": {
+    "width": 912,
+    "height": 1120
+  },
+  "figure_id": "Fig_6.28"
+}

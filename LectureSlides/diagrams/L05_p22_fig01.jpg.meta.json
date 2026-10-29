@@ -1,0 +1,21 @@
+{
+  "description": "Mapping cardinalities diagrams showing (a) Many-to-one mapping and (b) Many-to-many mapping between sets A and B",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 19.0,
+    "bottom": 73.2,
+    "left": 19.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 380,
+    "y1": 285,
+    "x2": 1780,
+    "y2": 1098
+  },
+  "crop_size": {
+    "width": 1400,
+    "height": 813
+  },
+  "figure_id": "Fig_L05_p22_01"
+}

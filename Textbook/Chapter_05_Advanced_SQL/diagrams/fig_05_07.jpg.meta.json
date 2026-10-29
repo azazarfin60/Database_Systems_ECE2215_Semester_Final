@@ -1,0 +1,21 @@
+{
+  "description": "Table function in SQL: instructor_of returning a table of instructors for a given department",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 38.5,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 186,
+    "x2": 1283,
+    "y2": 702
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 516
+  },
+  "figure_id": "Fig_5.7"
+}

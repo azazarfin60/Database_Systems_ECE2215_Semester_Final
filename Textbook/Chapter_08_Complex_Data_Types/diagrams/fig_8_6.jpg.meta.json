@@ -1,0 +1,21 @@
+{
+  "description": "Complex three-dimensional objects showing (a) Difference of cylinders and (b) Union of cylinders",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 33.7,
+    "left": 24.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 164,
+    "x2": 1327,
+    "y2": 615
+  },
+  "crop_size": {
+    "width": 973,
+    "height": 451
+  },
+  "figure_id": "Fig_8.6"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with redundant relationships between instructor, student, and project",
+  "source_image": "page_038.jpg",
+  "crop_percentages": {
+    "top": 59.59,
+    "bottom": 90.89,
+    "left": 27.3,
+    "right": 75.64
+  },
+  "crop_pixels": {
+    "x1": 402,
+    "y1": 1087,
+    "x2": 1115,
+    "y2": 1658
+  },
+  "crop_size": {
+    "width": 713,
+    "height": 571
+  },
+  "figure_id": "Fig_6.19"
+}

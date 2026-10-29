@@ -1,0 +1,21 @@
+{
+  "description": "Result of Find the names of all instructors in the Computer Science department who have salary greater than 70000",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 24.0,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 182,
+    "x2": 1283,
+    "y2": 438
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 256
+  },
+  "figure_id": "Fig_3.4"
+}

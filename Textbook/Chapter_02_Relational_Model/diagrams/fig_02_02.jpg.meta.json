@@ -1,0 +1,21 @@
+{
+  "description": "The course relation table with columns course_id, title, dept_name, and credits",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 60.2,
+    "bottom": 90.5,
+    "left": 23.3,
+    "right": 79.8
+  },
+  "crop_pixels": {
+    "x1": 343,
+    "y1": 1098,
+    "x2": 1177,
+    "y2": 1651
+  },
+  "crop_size": {
+    "width": 834,
+    "height": 553
+  },
+  "figure_id": "Fig_2.2"
+}

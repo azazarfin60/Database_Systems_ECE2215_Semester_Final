@@ -1,0 +1,21 @@
+{
+  "description": "Extendable hash structure after six insertions with global depth 3",
+  "source_image": "page_028.jpg",
+  "crop_percentages": {
+    "top": 8.8,
+    "bottom": 44.8,
+    "left": 23.5,
+    "right": 79.5
+  },
+  "crop_pixels": {
+    "x1": 346,
+    "y1": 160,
+    "x2": 1172,
+    "y2": 817
+  },
+  "crop_size": {
+    "width": 826,
+    "height": 657
+  },
+  "figure_id": "Fig_24.13"
+}

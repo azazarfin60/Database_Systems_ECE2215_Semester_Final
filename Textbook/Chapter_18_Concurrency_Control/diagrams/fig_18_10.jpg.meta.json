@@ -1,0 +1,21 @@
+{
+  "description": "Lock table showing hash table of lock heads and granted and waiting lock requests",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 64.7,
+    "left": 32.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 472,
+    "y1": 164,
+    "x2": 1209,
+    "y2": 1180
+  },
+  "crop_size": {
+    "width": 737,
+    "height": 1016
+  },
+  "figure_id": "Fig_18.10"
+}

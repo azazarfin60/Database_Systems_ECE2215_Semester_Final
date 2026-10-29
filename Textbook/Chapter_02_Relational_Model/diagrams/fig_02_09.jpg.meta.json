@@ -1,0 +1,21 @@
+{
+  "description": "Schema diagram for the university database showing relations, primary keys, and referential integrity constraints",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 8.21,
+    "bottom": 45.2,
+    "left": 1.35,
+    "right": 96.27
+  },
+  "crop_pixels": {
+    "x1": 19,
+    "y1": 149,
+    "x2": 1419,
+    "y2": 824
+  },
+  "crop_size": {
+    "width": 1400,
+    "height": 675
+  },
+  "figure_id": "Fig_2.9"
+}

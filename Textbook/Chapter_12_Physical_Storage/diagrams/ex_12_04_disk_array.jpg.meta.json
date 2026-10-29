@@ -1,0 +1,21 @@
+{
+  "description": "Table showing block arrangement across Disk 1, Disk 2, Disk 3, Disk 4 with data blocks B1 to B10 and parity blocks P1, P2",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 23.2,
+    "left": 42.0,
+    "right": 78.0
+  },
+  "crop_pixels": {
+    "x1": 619,
+    "y1": 146,
+    "x2": 1150,
+    "y2": 423
+  },
+  "crop_size": {
+    "width": 531,
+    "height": 277
+  },
+  "figure_id": "Ex_12.4"
+}

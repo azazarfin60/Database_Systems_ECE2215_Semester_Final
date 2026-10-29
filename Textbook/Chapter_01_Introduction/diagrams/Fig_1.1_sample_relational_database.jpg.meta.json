@@ -1,0 +1,21 @@
+{
+  "description": "Sample relational database showing (a) the instructor table with ID, name, dept_name, salary and (b) the department table with dept_name, building, budget",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 68.4,
+    "left": 28.0,
+    "right": 75.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 146,
+    "x2": 1106,
+    "y2": 1248
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 1102
+  },
+  "figure_id": "Fig_1.1"
+}

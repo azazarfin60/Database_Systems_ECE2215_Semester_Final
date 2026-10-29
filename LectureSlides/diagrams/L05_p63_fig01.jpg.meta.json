@@ -1,0 +1,21 @@
+{
+  "description": "Common mistakes in E-R diagrams continued showing (b) erroneous use of relationship attributes, (c) correct alternative using weak entity set assignment, and (d) correct alternative using complex attribute assignment_marks",
+  "source_image": "page_063.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 94.2,
+    "left": 3.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 60,
+    "y1": 172,
+    "x2": 1900,
+    "y2": 1413
+  },
+  "crop_size": {
+    "width": 1840,
+    "height": 1241
+  },
+  "figure_id": "Fig_L05_p63_01"
+}

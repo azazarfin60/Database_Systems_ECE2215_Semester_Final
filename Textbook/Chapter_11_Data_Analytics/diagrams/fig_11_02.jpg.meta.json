@@ -1,0 +1,21 @@
+{
+  "description": "Star schema for a data warehouse with a central sales fact table and item_info, store, date_info, customer dimension tables",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 42.7,
+    "left": 24.5,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 361,
+    "y1": 155,
+    "x2": 1327,
+    "y2": 779
+  },
+  "crop_size": {
+    "width": 966,
+    "height": 624
+  },
+  "figure_id": "Fig_11.2"
+}

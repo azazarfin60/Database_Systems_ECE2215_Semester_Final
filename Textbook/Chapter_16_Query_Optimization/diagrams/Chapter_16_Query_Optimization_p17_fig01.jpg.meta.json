@@ -1,0 +1,21 @@
+{
+  "description": "Example of an equi-width histogram showing value ranges 1-5 through 21-25 with frequencies",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 39.5,
+    "left": 32.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 472,
+    "y1": 155,
+    "x2": 1194,
+    "y2": 720
+  },
+  "crop_size": {
+    "width": 722,
+    "height": 565
+  },
+  "figure_id": "Fig_16.6"
+}

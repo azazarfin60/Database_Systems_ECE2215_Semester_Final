@@ -1,0 +1,21 @@
+{
+  "description": "Schema diagram for the university database showing all relational schemas with primary keys and foreign key constraints",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 46.0,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 164,
+    "x2": 1298,
+    "y2": 839
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 675
+  },
+  "figure_id": "Fig_A.1"
+}

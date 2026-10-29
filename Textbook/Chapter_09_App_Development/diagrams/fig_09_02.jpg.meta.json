@@ -1,0 +1,21 @@
+{
+  "description": "Display of HTML source from Figure 9.1 showing rendered table with columns ID, Name, and Department",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 80.5,
+    "bottom": 94.5,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 1469,
+    "x2": 1283,
+    "y2": 1724
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 255
+  },
+  "figure_id": "Fig_9.2"
+}

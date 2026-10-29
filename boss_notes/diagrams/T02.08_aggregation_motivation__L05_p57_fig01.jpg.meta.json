@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with ternary relationship proj_guide and overlapping relationship eval_for connecting instructor, student, project, and evaluation entity sets",
+  "source_image": "page_057.jpg",
+  "crop_percentages": {
+    "top": 26.5,
+    "bottom": 87.0,
+    "left": 22.5,
+    "right": 79.5
+  },
+  "crop_pixels": {
+    "x1": 450,
+    "y1": 397,
+    "x2": 1590,
+    "y2": 1305
+  },
+  "crop_size": {
+    "width": 1140,
+    "height": 908
+  },
+  "figure_id": "Fig_L05_p57_01"
+}

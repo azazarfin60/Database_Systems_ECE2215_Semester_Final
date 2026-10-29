@@ -1,0 +1,21 @@
+{
+  "description": "Comprehensive E-R diagram for a university enterprise",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 9.77,
+    "bottom": 64.44,
+    "left": 15.66,
+    "right": 87.35
+  },
+  "crop_pixels": {
+    "x1": 230,
+    "y1": 178,
+    "x2": 1288,
+    "y2": 1176
+  },
+  "crop_size": {
+    "width": 1058,
+    "height": 998
+  },
+  "figure_id": "Fig_6.15"
+}

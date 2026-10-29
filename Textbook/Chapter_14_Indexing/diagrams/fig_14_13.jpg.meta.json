@@ -1,0 +1,21 @@
+{
+  "description": "Split of leaf node on insertion of Adams",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 19.2,
+    "left": 22.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 182,
+    "x2": 1194,
+    "y2": 350
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 168
+  },
+  "figure_id": "Fig_14.13"
+}

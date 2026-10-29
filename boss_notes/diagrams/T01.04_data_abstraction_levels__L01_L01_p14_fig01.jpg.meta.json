@@ -1,0 +1,21 @@
+{
+  "description": "Three levels of data abstraction architecture showing view level (view 1 to view n), logical level, and physical level",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 31.0,
+    "bottom": 84.4,
+    "left": 28.0,
+    "right": 79.0
+  },
+  "crop_pixels": {
+    "x1": 746,
+    "y1": 465,
+    "x2": 2106,
+    "y2": 1266
+  },
+  "crop_size": {
+    "width": 1360,
+    "height": 801
+  },
+  "figure_id": "Fig_L01_p14_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Instructor relation schema showing columns as attributes and rows as tuples with pointing annotations",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 17.0,
+    "bottom": 95.8,
+    "left": 15.0,
+    "right": 97.0
+  },
+  "crop_pixels": {
+    "x1": 300,
+    "y1": 255,
+    "x2": 1940,
+    "y2": 1437
+  },
+  "crop_size": {
+    "width": 1640,
+    "height": 1182
+  },
+  "figure_id": "Fig_L02_p03_1"
+}

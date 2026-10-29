@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram showing entity sets instructor and student with attributes",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 9.78,
+    "bottom": 20.45,
+    "left": 35.11,
+    "right": 67.89
+  },
+  "crop_pixels": {
+    "x1": 517,
+    "y1": 178,
+    "x2": 1001,
+    "y2": 373
+  },
+  "crop_size": {
+    "width": 484,
+    "height": 195
+  },
+  "figure_id": "Fig_6.1"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Database structure showing Database containing Table 1 and Table 2 with Data",
+  "source_image": "page_032.jpg",
+  "crop_percentages": {
+    "top": 34.0,
+    "bottom": 54.2,
+    "left": 17.0,
+    "right": 66.0
+  },
+  "crop_pixels": {
+    "x1": 281,
+    "y1": 795,
+    "x2": 1090,
+    "y2": 1267
+  },
+  "crop_size": {
+    "width": 809,
+    "height": 472
+  },
+  "figure_id": "p032_fig01"
+}

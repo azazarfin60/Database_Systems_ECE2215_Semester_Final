@@ -1,0 +1,21 @@
+{
+  "description": "Log-structured merge tree with three levels",
+  "source_image": "page_044.jpg",
+  "crop_percentages": {
+    "top": 64.0,
+    "bottom": 95.7,
+    "left": 24.0,
+    "right": 79.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 1168,
+    "x2": 1165,
+    "y2": 1746
+  },
+  "crop_size": {
+    "width": 811,
+    "height": 578
+  },
+  "figure_id": "Fig_14.26"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Partitioned parallel join showing Step 1 partitioning relation r into r1' through rm', Step 2 partitioning s into s1' through sm', and Step 3 local join computation ri' bowtie si' at each node",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 65.5,
+    "bottom": 92.2,
+    "left": 32.0,
+    "right": 72.0
+  },
+  "crop_pixels": {
+    "x1": 472,
+    "y1": 1195,
+    "x2": 1062,
+    "y2": 1682
+  },
+  "crop_size": {
+    "width": 590,
+    "height": 487
+  },
+  "figure_id": "Fig_22.2"
+}

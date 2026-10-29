@@ -1,0 +1,21 @@
+{
+  "description": "Failure recovery actions with logical undo operations showing redo pass, undo pass, and compensation log records for incomplete operations",
+  "source_image": "page_034.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 54.4,
+    "left": 14.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 155,
+    "x2": 1312,
+    "y2": 992
+  },
+  "crop_size": {
+    "width": 1106,
+    "height": 837
+  },
+  "figure_id": "Fig_19.8"
+}

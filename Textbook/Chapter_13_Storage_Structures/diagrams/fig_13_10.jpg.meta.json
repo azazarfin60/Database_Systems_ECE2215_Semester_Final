@@ -1,0 +1,21 @@
+{
+  "description": "The instructor relation",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 26.0,
+    "left": 30.0,
+    "right": 73.0
+  },
+  "crop_pixels": {
+    "x1": 442,
+    "y1": 173,
+    "x2": 1076,
+    "y2": 474
+  },
+  "crop_size": {
+    "width": 634,
+    "height": 301
+  },
+  "figure_id": "Fig_13.10"
+}

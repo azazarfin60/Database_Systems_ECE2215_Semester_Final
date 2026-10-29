@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing many-to-one relationship between instructor and student with directed arrow to student",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 37.0,
+    "bottom": 62.2,
+    "left": 19.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 380,
+    "y1": 555,
+    "x2": 1740,
+    "y2": 933
+  },
+  "crop_size": {
+    "width": 1360,
+    "height": 378
+  },
+  "figure_id": "Fig_L05_p25_01"
+}

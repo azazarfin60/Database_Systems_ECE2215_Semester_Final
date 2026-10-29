@@ -1,0 +1,21 @@
+{
+  "description": "Overview of query processing steps showing parser and translator converting query to relational-algebra expression, optimizer using statistics to produce execution plan, and evaluation engine executing plan with data to produce query output",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 11.0,
+    "bottom": 45.2,
+    "left": 13.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 191,
+    "y1": 200,
+    "x2": 1327,
+    "y2": 824
+  },
+  "crop_size": {
+    "width": 1136,
+    "height": 624
+  },
+  "figure_id": "Fig_15.1"
+}

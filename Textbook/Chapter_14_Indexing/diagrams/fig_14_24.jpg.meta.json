@@ -1,0 +1,21 @@
+{
+  "description": "Typical nodes of a B-tree: (a) Leaf node, (b) Nonleaf node",
+  "source_image": "page_034.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 27.2,
+    "left": 20.0,
+    "right": 82.5
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 182,
+    "x2": 1216,
+    "y2": 496
+  },
+  "crop_size": {
+    "width": 921,
+    "height": 314
+  },
+  "figure_id": "Fig_14.24"
+}

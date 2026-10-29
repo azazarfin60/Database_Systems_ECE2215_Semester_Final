@@ -1,0 +1,21 @@
+{
+  "description": "The result relation for the query Find the number of instructors in each department who teach a course in the Spring 2018 semester",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 74.5,
+    "bottom": 95.0,
+    "left": 15.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 1359,
+    "x2": 1327,
+    "y2": 1733
+  },
+  "crop_size": {
+    "width": 1106,
+    "height": 374
+  },
+  "figure_id": "Fig_3.15"
+}

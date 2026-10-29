@@ -1,0 +1,21 @@
+{
+  "description": "Storage device hierarchy showing cache at the top, followed by main memory, flash memory, magnetic disk, optical disk, and magnetic tapes at the bottom, with bidirectional arrows between levels",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 47.7,
+    "left": 23.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 339,
+    "y1": 173,
+    "x2": 1135,
+    "y2": 870
+  },
+  "crop_size": {
+    "width": 796,
+    "height": 697
+  },
+  "figure_id": "Fig_12.1"
+}

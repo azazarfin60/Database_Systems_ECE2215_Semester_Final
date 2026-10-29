@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with aggregation enclosing proj_guide relationship and eval_for relationship",
+  "source_image": "page_039.jpg",
+  "crop_percentages": {
+    "top": 9.79,
+    "bottom": 44.95,
+    "left": 30.58,
+    "right": 84.33
+  },
+  "crop_pixels": {
+    "x1": 451,
+    "y1": 178,
+    "x2": 1243,
+    "y2": 820
+  },
+  "crop_size": {
+    "width": 792,
+    "height": 642
+  },
+  "figure_id": "Fig_6.20"
+}

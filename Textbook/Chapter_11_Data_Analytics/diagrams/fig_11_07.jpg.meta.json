@@ -1,0 +1,21 @@
+{
+  "description": "Cross-tabulation of sales with hierarchy on item name showing womenswear and menswear subtotals",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 32.7,
+    "left": 22.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 155,
+    "x2": 1194,
+    "y2": 596
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 441
+  },
+  "figure_id": "Fig_11.7"
+}

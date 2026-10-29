@@ -1,0 +1,21 @@
+{
+  "description": "Specialization hierarchy with higher-level entity set person specialized into employee and student, and employee further specialized into instructor and secretary",
+  "source_image": "page_051.jpg",
+  "crop_percentages": {
+    "top": 31.5,
+    "bottom": 88.9,
+    "left": 23.0,
+    "right": 67.0
+  },
+  "crop_pixels": {
+    "x1": 460,
+    "y1": 472,
+    "x2": 1340,
+    "y2": 1333
+  },
+  "crop_size": {
+    "width": 880,
+    "height": 861
+  },
+  "figure_id": "Fig_L05_p51_01"
+}

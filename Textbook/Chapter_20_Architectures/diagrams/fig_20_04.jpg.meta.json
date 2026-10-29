@@ -1,0 +1,21 @@
+{
+  "description": "Interconnection networks: (a) bus, (b) ring, (c) mesh, (d) hypercube, and (e) tree-like topology",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 66.7,
+    "left": 25.5,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 376,
+    "y1": 164,
+    "x2": 1320,
+    "y2": 1217
+  },
+  "crop_size": {
+    "width": 944,
+    "height": 1053
+  },
+  "figure_id": "Fig_20.4"
+}

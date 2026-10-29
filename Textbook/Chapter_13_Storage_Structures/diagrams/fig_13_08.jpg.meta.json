@@ -1,0 +1,21 @@
+{
+  "description": "Sequential file after an insertion",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 48.2,
+    "left": 28.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 155,
+    "x2": 1283,
+    "y2": 879
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 724
+  },
+  "figure_id": "Fig_13.8"
+}

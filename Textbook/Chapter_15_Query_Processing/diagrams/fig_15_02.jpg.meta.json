@@ -1,0 +1,21 @@
+{
+  "description": "A query-evaluation plan tree showing projection on salary over selection salary < 75000 using index 1 over instructor relation",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 68.0,
+    "bottom": 95.2,
+    "left": 36.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 531,
+    "y1": 1241,
+    "x2": 1135,
+    "y2": 1737
+  },
+  "crop_size": {
+    "width": 604,
+    "height": 496
+  },
+  "figure_id": "Fig_15.2"
+}

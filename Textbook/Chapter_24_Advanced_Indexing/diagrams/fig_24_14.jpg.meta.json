@@ -1,0 +1,21 @@
+{
+  "description": "Extendable hash structure after seven insertions",
+  "source_image": "page_028.jpg",
+  "crop_percentages": {
+    "top": 48.2,
+    "bottom": 91.0,
+    "left": 23.5,
+    "right": 79.5
+  },
+  "crop_pixels": {
+    "x1": 346,
+    "y1": 879,
+    "x2": 1172,
+    "y2": 1660
+  },
+  "crop_size": {
+    "width": 826,
+    "height": 781
+  },
+  "figure_id": "Fig_24.14"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn RAID 1 architecture diagram showing data disk mirroring between Disk 0 and Disk 1",
+  "source_image": "enhanced_032.jpg",
+  "crop_percentages": {
+    "top": 48.0,
+    "bottom": 62.0,
+    "left": 56.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 1309,
+    "y1": 793,
+    "x2": 1777,
+    "y2": 1024
+  },
+  "crop_size": {
+    "width": 468,
+    "height": 231
+  },
+  "figure_id": "Fig_DBMS_p32_02"
+}

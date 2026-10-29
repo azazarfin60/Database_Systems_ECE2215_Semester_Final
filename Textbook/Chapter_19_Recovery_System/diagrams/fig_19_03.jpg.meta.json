@@ -1,0 +1,21 @@
+{
+  "description": "State of system log and database corresponding to transactions T0 and T1 showing the relative order of log records and database writes",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 32.7,
+    "left": 36.0,
+    "right": 67.0
+  },
+  "crop_pixels": {
+    "x1": 531,
+    "y1": 173,
+    "x2": 988,
+    "y2": 596
+  },
+  "crop_size": {
+    "width": 457,
+    "height": 423
+  },
+  "figure_id": "Fig_19.3"
+}

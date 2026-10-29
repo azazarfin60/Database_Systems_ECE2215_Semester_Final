@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing ternary relationship proj_guide connecting instructor, student, and project entity sets",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 37.0,
+    "bottom": 73.6,
+    "left": 15.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 300,
+    "y1": 555,
+    "x2": 1620,
+    "y2": 1103
+  },
+  "crop_size": {
+    "width": 1320,
+    "height": 548
+  },
+  "figure_id": "Fig_L05_p16_01"
+}

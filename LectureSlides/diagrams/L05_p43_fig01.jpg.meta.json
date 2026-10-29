@@ -1,0 +1,21 @@
+{
+  "description": "Entity set instructor with composite attributes name and address, multivalued phone_number, and derived attribute age()",
+  "source_image": "page_043.jpg",
+  "crop_percentages": {
+    "top": 18.0,
+    "bottom": 84.9,
+    "left": 5.0,
+    "right": 31.5
+  },
+  "crop_pixels": {
+    "x1": 100,
+    "y1": 270,
+    "x2": 630,
+    "y2": 1273
+  },
+  "crop_size": {
+    "width": 530,
+    "height": 1003
+  },
+  "figure_id": "Fig_L05_p43_01"
+}

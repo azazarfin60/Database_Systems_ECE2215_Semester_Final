@@ -1,0 +1,21 @@
+{
+  "description": "Example of a schedule that is not conflict serializable between transactions T3 and T4",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 24.0,
+    "bottom": 52.8,
+    "left": 33.0,
+    "right": 67.0
+  },
+  "crop_pixels": {
+    "x1": 880,
+    "y1": 360,
+    "x2": 1786,
+    "y2": 792
+  },
+  "crop_size": {
+    "width": 906,
+    "height": 432
+  },
+  "figure_id": "Fig_L07_p21_01"
+}

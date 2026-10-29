@@ -1,0 +1,21 @@
+{
+  "description": "The three levels of data abstraction: view level (view 1, view 2, ..., view n), logical level, and physical level",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 38.5,
+    "left": 31.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 457,
+    "y1": 173,
+    "x2": 1224,
+    "y2": 702
+  },
+  "crop_size": {
+    "width": 767,
+    "height": 529
+  },
+  "figure_id": "Fig_1.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Three-dimensional data cube showing sales relation across dimensions item name, color, and clothes size",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 40.2,
+    "left": 23.5,
+    "right": 78.5
+  },
+  "crop_pixels": {
+    "x1": 346,
+    "y1": 155,
+    "x2": 1157,
+    "y2": 733
+  },
+  "crop_size": {
+    "width": 811,
+    "height": 578
+  },
+  "figure_id": "Fig_11.5"
+}

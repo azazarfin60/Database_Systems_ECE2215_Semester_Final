@@ -1,0 +1,21 @@
+{
+  "description": "Relational schema diagram for the University Database showing relations, attributes, primary keys, and foreign key dependencies",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 15.0,
+    "bottom": 96.8,
+    "left": 0,
+    "right": 100
+  },
+  "crop_pixels": {
+    "x1": 0,
+    "y1": 225,
+    "x2": 2000,
+    "y2": 1452
+  },
+  "crop_size": {
+    "width": 2000,
+    "height": 1227
+  },
+  "figure_id": "Fig_L02_p08_1"
+}

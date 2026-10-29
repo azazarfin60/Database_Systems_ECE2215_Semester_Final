@@ -1,0 +1,21 @@
+{
+  "description": "Database system structure diagram illustrating centralized/shared-memory architecture including query processor, storage manager, and disk storage subsystems",
+  "source_image": "page_032.jpg",
+  "crop_percentages": {
+    "top": 13.8,
+    "bottom": 96.13,
+    "left": 16.0,
+    "right": 77.5
+  },
+  "crop_pixels": {
+    "x1": 426,
+    "y1": 207,
+    "x2": 2066,
+    "y2": 1441
+  },
+  "crop_size": {
+    "width": 1640,
+    "height": 1234
+  },
+  "figure_id": "Fig_L01_p32_01"
+}

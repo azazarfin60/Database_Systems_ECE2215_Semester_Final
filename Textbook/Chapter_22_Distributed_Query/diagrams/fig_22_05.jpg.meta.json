@@ -1,0 +1,21 @@
+{
+  "description": "Producer and consumer with buffer showing (a) producer-consumer communication via shared memory buffer and (b) producer-consumer communication across a network with send and receive buffers",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 45.2,
+    "left": 27.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 398,
+    "y1": 164,
+    "x2": 1121,
+    "y2": 824
+  },
+  "crop_size": {
+    "width": 723,
+    "height": 660
+  },
+  "figure_id": "Fig_22.5"
+}

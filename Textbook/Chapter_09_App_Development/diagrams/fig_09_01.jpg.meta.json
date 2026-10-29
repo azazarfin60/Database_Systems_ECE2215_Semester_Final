@@ -1,0 +1,21 @@
+{
+  "description": "Tabular data represented in HTML format with table headers and data rows",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 9.6,
+    "bottom": 37.7,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 175,
+    "x2": 1298,
+    "y2": 688
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 513
+  },
+  "figure_id": "Fig_9.1"
+}

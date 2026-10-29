@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram showing total participation of student in advisor relationship using double lines",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 76.67,
+    "bottom": 87.24,
+    "left": 28.41,
+    "right": 86.47
+  },
+  "crop_pixels": {
+    "x1": 419,
+    "y1": 1399,
+    "x2": 1275,
+    "y2": 1592
+  },
+  "crop_size": {
+    "width": 856,
+    "height": 193
+  },
+  "figure_id": "Fig_6.12"
+}

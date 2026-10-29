@@ -1,0 +1,21 @@
+{
+  "description": "Pseudocode of map-reduce job for word counting in a set of files showing the map(String record) and reduce(String key, List value_list) functions.",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 40.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 209,
+    "x2": 1327,
+    "y2": 739
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 530
+  },
+  "figure_id": "Fig_10.3"
+}

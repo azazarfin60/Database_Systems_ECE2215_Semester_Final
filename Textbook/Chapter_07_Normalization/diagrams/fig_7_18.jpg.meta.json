@@ -1,0 +1,21 @@
+{
+  "description": "Relation of Exercise 7.2 with attributes A, B, C",
+  "source_image": "page_051.jpg",
+  "crop_percentages": {
+    "top": 76.0,
+    "bottom": 96.7,
+    "left": 24.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 1387,
+    "x2": 1121,
+    "y2": 1764
+  },
+  "crop_size": {
+    "width": 767,
+    "height": 377
+  },
+  "figure_id": "Fig_7.18"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Bitmap indices on relation instructor_info",
+  "source_image": "page_049.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 36.5,
+    "left": 25.0,
+    "right": 88.5
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 173,
+    "x2": 1305,
+    "y2": 666
+  },
+  "crop_size": {
+    "width": 937,
+    "height": 493
+  },
+  "figure_id": "Fig_14.28"
+}

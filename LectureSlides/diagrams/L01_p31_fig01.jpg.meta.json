@@ -1,0 +1,21 @@
+{
+  "description": "Database application user categories (naive users, application programmers, sophisticated users, DBAs) and their interaction with application interfaces, programs, query tools, and query processor components",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 16.0,
+    "bottom": 98.4,
+    "left": 15.5,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 240,
+    "x2": 2146,
+    "y2": 1476
+  },
+  "crop_size": {
+    "width": 1733,
+    "height": 1236
+  },
+  "figure_id": "Fig_L01_p31_01"
+}

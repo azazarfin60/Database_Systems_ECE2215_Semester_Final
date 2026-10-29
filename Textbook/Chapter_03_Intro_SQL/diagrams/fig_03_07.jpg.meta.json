@@ -1,0 +1,21 @@
+{
+  "description": "Result of For all instructors in the university who have taught some course, find their names and the course ID of all courses they taught",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 50.0,
+    "left": 16.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 182,
+    "x2": 1298,
+    "y2": 912
+  },
+  "crop_size": {
+    "width": 1062,
+    "height": 730
+  },
+  "figure_id": "Fig_3.7"
+}

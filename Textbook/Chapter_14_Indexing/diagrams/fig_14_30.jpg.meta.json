@@ -1,0 +1,21 @@
+{
+  "description": "An R-tree for spatial data",
+  "source_image": "page_053.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 40.8,
+    "left": 26.0,
+    "right": 88.5
+  },
+  "crop_pixels": {
+    "x1": 383,
+    "y1": 173,
+    "x2": 1305,
+    "y2": 744
+  },
+  "crop_size": {
+    "width": 922,
+    "height": 571
+  },
+  "figure_id": "Fig_14.30"
+}

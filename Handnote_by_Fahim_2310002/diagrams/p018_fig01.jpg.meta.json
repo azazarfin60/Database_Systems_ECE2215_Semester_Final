@@ -1,0 +1,21 @@
+{
+  "description": "Schema diagram displaying the Student relation schema with attributes Name, Roll, Branch, and Address",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 71.5,
+    "bottom": 80.8,
+    "left": 12.0,
+    "right": 64.0
+  },
+  "crop_pixels": {
+    "x1": 198,
+    "y1": 1672,
+    "x2": 1057,
+    "y2": 1889
+  },
+  "crop_size": {
+    "width": 859,
+    "height": 217
+  },
+  "figure_id": "Fig_p018_01"
+}

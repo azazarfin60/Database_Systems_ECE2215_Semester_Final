@@ -1,0 +1,21 @@
+{
+  "description": "Example partition table after tablet split and tablet move, showing Tablet0 through Tablet7 mapped to Node0, Node1, Node2",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 68.5,
+    "bottom": 92.2,
+    "left": 28.0,
+    "right": 75.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 1250,
+    "x2": 1106,
+    "y2": 1682
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 432
+  },
+  "figure_id": "Fig_21.4"
+}

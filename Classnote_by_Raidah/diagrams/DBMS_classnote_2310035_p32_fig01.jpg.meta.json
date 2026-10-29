@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn RAID 0 architecture diagram showing block-level data stripping across Disk 0 and Disk 1",
+  "source_image": "enhanced_032.jpg",
+  "crop_percentages": {
+    "top": 23.0,
+    "bottom": 39.0,
+    "left": 56.0,
+    "right": 74.0
+  },
+  "crop_pixels": {
+    "x1": 1309,
+    "y1": 380,
+    "x2": 1730,
+    "y2": 644
+  },
+  "crop_size": {
+    "width": 421,
+    "height": 264
+  },
+  "figure_id": "Fig_DBMS_p32_01"
+}

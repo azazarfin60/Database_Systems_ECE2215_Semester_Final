@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram example illustrating reduction of weak entity set section and identifying relationship sec_course to course",
+  "source_image": "page_042.jpg",
+  "crop_percentages": {
+    "top": 58.0,
+    "bottom": 82.4,
+    "left": 17.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 340,
+    "y1": 870,
+    "x2": 1860,
+    "y2": 1236
+  },
+  "crop_size": {
+    "width": 1520,
+    "height": 366
+  },
+  "figure_id": "Fig_L05_p42_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Library database schema",
+  "source_image": "page_057.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 25.0,
+    "left": 25.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 209,
+    "x2": 1253,
+    "y2": 456
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 247
+  },
+  "figure_id": "Fig_3.20"
+}

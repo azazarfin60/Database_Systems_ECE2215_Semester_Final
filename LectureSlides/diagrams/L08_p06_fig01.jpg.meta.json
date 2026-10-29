@@ -1,0 +1,21 @@
+{
+  "description": "Illustration of cascading rollback and dirty read problem showing transaction T1 updating database value A to 50, transactions T2, T3, and T4 reading dirty value, and T1 failing requiring rollback",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 30.0,
+    "bottom": 98.0,
+    "left": 12.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 320,
+    "y1": 450,
+    "x2": 2266,
+    "y2": 1470
+  },
+  "crop_size": {
+    "width": 1946,
+    "height": 1020
+  },
+  "figure_id": "Fig_L08_p06_01"
+}

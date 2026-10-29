@@ -1,0 +1,21 @@
+{
+  "description": "Word count application in Java using Apache Spark RDDs and lambda expressions.",
+  "source_image": "page_033.jpg",
+  "crop_percentages": {
+    "top": 7.6,
+    "bottom": 70.2,
+    "left": 10.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 138,
+    "x2": 1386,
+    "y2": 1281
+  },
+  "crop_size": {
+    "width": 1239,
+    "height": 1143
+  },
+  "figure_id": "Fig_10.10"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Pseudocode of reduce functions for counting file accesses summing counts per filename key.",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 70.0,
+    "bottom": 99.8,
+    "left": 22.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 1277,
+    "x2": 1357,
+    "y2": 1821
+  },
+  "crop_size": {
+    "width": 1033,
+    "height": 544
+  },
+  "figure_id": "Fig_10.6"
+}

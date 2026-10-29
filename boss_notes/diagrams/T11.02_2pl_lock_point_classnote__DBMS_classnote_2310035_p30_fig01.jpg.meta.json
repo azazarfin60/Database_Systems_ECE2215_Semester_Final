@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn Two-Phase Locking (2PL) protocol graph illustrating growing phase, lock point = 3, and shrinking phase for transactions T1 and T2",
+  "source_image": "enhanced_030.jpg",
+  "crop_percentages": {
+    "top": 5.0,
+    "bottom": 44.4,
+    "left": 56.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 1309,
+    "y1": 82,
+    "x2": 2198,
+    "y2": 733
+  },
+  "crop_size": {
+    "width": 889,
+    "height": 651
+  },
+  "figure_id": "Fig_DBMS_p30_01"
+}

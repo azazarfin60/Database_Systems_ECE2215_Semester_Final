@@ -1,0 +1,21 @@
+{
+  "description": "Sorted relations r and s on join attribute a1 with pointers pr and ps for merge join",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 37.2,
+    "left": 31.0,
+    "right": 73.0
+  },
+  "crop_pixels": {
+    "x1": 457,
+    "y1": 164,
+    "x2": 1076,
+    "y2": 678
+  },
+  "crop_size": {
+    "width": 619,
+    "height": 514
+  },
+  "figure_id": "Fig_15.8"
+}

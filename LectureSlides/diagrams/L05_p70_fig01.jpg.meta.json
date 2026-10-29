@@ -1,0 +1,21 @@
+{
+  "description": "Summary chart of symbols used in E-R notation including entity set, weak entity set, relationship set, identifying relationship, and attributes",
+  "source_image": "page_070.jpg",
+  "crop_percentages": {
+    "top": 19.5,
+    "bottom": 77.0,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 200,
+    "y1": 292,
+    "x2": 1800,
+    "y2": 1155
+  },
+  "crop_size": {
+    "width": 1600,
+    "height": 863
+  },
+  "figure_id": "Fig_L05_p70_01"
+}

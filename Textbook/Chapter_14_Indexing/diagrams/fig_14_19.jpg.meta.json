@@ -1,0 +1,21 @@
+{
+  "description": "Deletion of Singh and Wu from the B+-tree of Figure 14.18",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 72.5,
+    "bottom": 96.2,
+    "left": 14.5,
+    "right": 88.5
+  },
+  "crop_pixels": {
+    "x1": 213,
+    "y1": 1323,
+    "x2": 1305,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 1092,
+    "height": 432
+  },
+  "figure_id": "Fig_14.19"
+}

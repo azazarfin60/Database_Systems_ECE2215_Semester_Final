@@ -1,0 +1,21 @@
+{
+  "description": "Instructor relation and resulting table after select dept_name = Physics",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 51.7,
+    "bottom": 96.96,
+    "left": 1.7,
+    "right": 98.3
+  },
+  "crop_pixels": {
+    "x1": 34,
+    "y1": 775,
+    "x2": 1966,
+    "y2": 1454
+  },
+  "crop_size": {
+    "width": 1932,
+    "height": 679
+  },
+  "figure_id": "Fig_L02_p11_1"
+}

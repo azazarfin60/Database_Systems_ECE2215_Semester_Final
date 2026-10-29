@@ -1,0 +1,21 @@
+{
+  "description": "Result of student natural left outer join takes",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 63.0,
+    "left": 23.0,
+    "right": 91.5
+  },
+  "crop_pixels": {
+    "x1": 339,
+    "y1": 178,
+    "x2": 1349,
+    "y2": 1149
+  },
+  "crop_size": {
+    "width": 1010,
+    "height": 971
+  },
+  "figure_id": "Fig_4.4"
+}

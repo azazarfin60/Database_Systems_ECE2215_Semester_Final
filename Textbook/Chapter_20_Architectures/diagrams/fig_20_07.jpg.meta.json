@@ -1,0 +1,21 @@
+{
+  "description": "Multilevel cache system showing 4 CPU cores, each with private L1 and L2 caches, and all sharing an L3 cache",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 72.0,
+    "bottom": 89.2,
+    "left": 33.0,
+    "right": 70.0
+  },
+  "crop_pixels": {
+    "x1": 486,
+    "y1": 1314,
+    "x2": 1032,
+    "y2": 1627
+  },
+  "crop_size": {
+    "width": 546,
+    "height": 313
+  },
+  "figure_id": "Fig_20.7"
+}

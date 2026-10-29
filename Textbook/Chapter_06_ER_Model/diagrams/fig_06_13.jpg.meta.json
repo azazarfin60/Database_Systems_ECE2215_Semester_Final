@@ -1,0 +1,21 @@
+{
+  "description": "Cardinality limits (min..max) on edges between entity sets and relationship set advisor",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 9.72,
+    "bottom": 20.29,
+    "left": 22.5,
+    "right": 80.56
+  },
+  "crop_pixels": {
+    "x1": 331,
+    "y1": 177,
+    "x2": 1188,
+    "y2": 370
+  },
+  "crop_size": {
+    "width": 857,
+    "height": 193
+  },
+  "figure_id": "Fig_6.13"
+}

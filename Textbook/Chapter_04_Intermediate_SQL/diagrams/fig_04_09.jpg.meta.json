@@ -1,0 +1,21 @@
+{
+  "description": "SQL data definition for part of the university database",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 9.2,
+    "bottom": 94.0,
+    "left": 22.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 167,
+    "x2": 1209,
+    "y2": 1715
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 1548
+  },
+  "figure_id": "Fig_4.9"
+}

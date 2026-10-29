@@ -1,0 +1,21 @@
+{
+  "description": "Example of range partitioning vector showing split values 15, 40, 75 mapping ranges [-inf, 15), [15, 40), [40, 75), [75, +inf) to Node 1, Node 2, Node 3, and Node 4",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 37.2,
+    "left": 29.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 427,
+    "y1": 209,
+    "x2": 1239,
+    "y2": 678
+  },
+  "crop_size": {
+    "width": 812,
+    "height": 469
+  },
+  "figure_id": "Fig_21.1"
+}

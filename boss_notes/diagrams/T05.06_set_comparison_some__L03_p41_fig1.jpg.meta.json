@@ -1,0 +1,21 @@
+{
+  "description": "Evaluation examples for SQL 'some' comparisons with relation tuples",
+  "source_image": "page_041.jpg",
+  "crop_percentages": {
+    "top": 26.0,
+    "bottom": 80.2,
+    "left": 15.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 300,
+    "y1": 390,
+    "x2": 1860,
+    "y2": 1203
+  },
+  "crop_size": {
+    "width": 1560,
+    "height": 813
+  },
+  "figure_id": "Fig_L03_p41_1"
+}

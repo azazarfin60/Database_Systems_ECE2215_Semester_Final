@@ -1,0 +1,21 @@
+{
+  "description": "An R-tree showing bounding boxes BB1 to BB9 for spatial objects and hierarchical tree nodes",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 37.5,
+    "left": 19.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 280,
+    "y1": 164,
+    "x2": 1239,
+    "y2": 684
+  },
+  "crop_size": {
+    "width": 959,
+    "height": 520
+  },
+  "figure_id": "Fig_24.5"
+}

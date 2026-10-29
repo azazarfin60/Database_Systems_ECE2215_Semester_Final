@@ -1,0 +1,21 @@
+{
+  "description": "Shared memory and process structure in a transaction-server architecture, showing connection manager, worker processes, shared memory (with lock table, buffer pool, query plan cache, log buffer), disk files, and background processes",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 43.0,
+    "bottom": 90.7,
+    "left": 29.0,
+    "right": 73.5
+  },
+  "crop_pixels": {
+    "x1": 427,
+    "y1": 784,
+    "x2": 1084,
+    "y2": 1655
+  },
+  "crop_size": {
+    "width": 657,
+    "height": 871
+  },
+  "figure_id": "Fig_20.1"
+}

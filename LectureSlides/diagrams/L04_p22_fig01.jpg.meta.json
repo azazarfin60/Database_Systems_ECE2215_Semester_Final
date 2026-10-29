@@ -1,0 +1,21 @@
+{
+  "description": "Result relation for course inner join prereq on course.course_id = prereq.course_id",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 26.5,
+    "bottom": 41.7,
+    "left": 20.5,
+    "right": 84.5
+  },
+  "crop_pixels": {
+    "x1": 410,
+    "y1": 397,
+    "x2": 1690,
+    "y2": 625
+  },
+  "crop_size": {
+    "width": 1280,
+    "height": 228
+  },
+  "figure_id": "Fig_L04_p22_01"
+}

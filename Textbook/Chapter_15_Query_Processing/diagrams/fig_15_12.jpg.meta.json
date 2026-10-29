@@ -1,0 +1,21 @@
+{
+  "description": "Query plan with pipelining comparing (a) Logical Query with join and aggregation, and (b) Pipelined Plan with blocking partition and in-memory aggregation",
+  "source_image": "page_043.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 30.2,
+    "left": 20.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 164,
+    "x2": 1357,
+    "y2": 551
+  },
+  "crop_size": {
+    "width": 1062,
+    "height": 387
+  },
+  "figure_id": "Fig_15.12"
+}

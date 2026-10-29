@@ -1,0 +1,21 @@
+{
+  "description": "Venn diagrams representing SQL join types: Inner Join, Left Join, Right Join, and Full Join (Outer Joins)",
+  "source_image": "page_050.jpg",
+  "crop_percentages": {
+    "top": 56.5,
+    "bottom": 82.5,
+    "left": 6.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 99,
+    "y1": 1321,
+    "x2": 1553,
+    "y2": 1929
+  },
+  "crop_size": {
+    "width": 1454,
+    "height": 608
+  },
+  "figure_id": "p050_fig01"
+}

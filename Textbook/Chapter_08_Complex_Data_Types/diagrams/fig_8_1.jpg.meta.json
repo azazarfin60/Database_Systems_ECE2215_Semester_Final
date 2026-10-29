@@ -1,0 +1,21 @@
+{
+  "description": "Example of JSON data representing an instructor entity with ID, name, deptname, and children array",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 37.4,
+    "left": 19.5,
+    "right": 85.5
+  },
+  "crop_pixels": {
+    "x1": 287,
+    "y1": 178,
+    "x2": 1261,
+    "y2": 682
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 504
+  },
+  "figure_id": "Fig_8.1"
+}

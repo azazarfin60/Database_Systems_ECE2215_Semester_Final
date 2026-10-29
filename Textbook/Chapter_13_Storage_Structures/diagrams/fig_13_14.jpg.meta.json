@@ -1,0 +1,21 @@
+{
+  "description": "Columnar representation of the instructor relation",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 63.0,
+    "bottom": 95.2,
+    "left": 26.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 383,
+    "y1": 1149,
+    "x2": 1298,
+    "y2": 1737
+  },
+  "crop_size": {
+    "width": 915,
+    "height": 588
+  },
+  "figure_id": "Fig_13.14"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Pictorial tree representation of relational algebra expression Pi_name(sigma_building='Watson'(department) bowtie instructor)",
+  "source_image": "page_038.jpg",
+  "crop_percentages": {
+    "top": 67.0,
+    "bottom": 96.2,
+    "left": 29.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 427,
+    "y1": 1222,
+    "x2": 1135,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 708,
+    "height": 533
+  },
+  "figure_id": "Fig_15.11"
+}

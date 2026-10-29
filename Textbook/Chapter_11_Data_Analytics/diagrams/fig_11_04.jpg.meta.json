@@ -1,0 +1,21 @@
+{
+  "description": "Cross-tabulation of sales by item name and color with clothes size all and row and column totals",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 30.7,
+    "left": 30.5,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 449,
+    "y1": 155,
+    "x2": 1239,
+    "y2": 560
+  },
+  "crop_size": {
+    "width": 790,
+    "height": 405
+  },
+  "figure_id": "Fig_11.4"
+}

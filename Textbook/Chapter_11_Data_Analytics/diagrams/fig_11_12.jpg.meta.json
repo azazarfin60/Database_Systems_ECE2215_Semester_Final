@@ -1,0 +1,21 @@
+{
+  "description": "Example of a Support Vector Machine classifier with data points in class A and B and maximum margin line",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 59.0,
+    "bottom": 90.2,
+    "left": 30.5,
+    "right": 72.5
+  },
+  "crop_pixels": {
+    "x1": 449,
+    "y1": 1076,
+    "x2": 1069,
+    "y2": 1646
+  },
+  "crop_size": {
+    "width": 620,
+    "height": 570
+  },
+  "figure_id": "Fig_11.12"
+}

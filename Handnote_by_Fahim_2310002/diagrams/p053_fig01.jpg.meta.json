@@ -1,0 +1,21 @@
+{
+  "description": "Venn diagram representing Left Exclusive Join (A - B) with set A shaded excluding the intersection",
+  "source_image": "page_053.jpg",
+  "crop_percentages": {
+    "top": 62.5,
+    "bottom": 76.9,
+    "left": 52.0,
+    "right": 77.5
+  },
+  "crop_pixels": {
+    "x1": 859,
+    "y1": 1461,
+    "x2": 1281,
+    "y2": 1798
+  },
+  "crop_size": {
+    "width": 422,
+    "height": 337
+  },
+  "figure_id": "Fig_p053_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "A temporal version of the course relation with valid-time interval attributes start and end",
+  "source_image": "page_046.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 26.2,
+    "left": 11.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 162,
+    "y1": 155,
+    "x2": 1312,
+    "y2": 478
+  },
+  "crop_size": {
+    "width": 1150,
+    "height": 323
+  },
+  "figure_id": "Fig_7.17"
+}

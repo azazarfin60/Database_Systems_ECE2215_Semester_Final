@@ -1,0 +1,21 @@
+{
+  "description": "Weak entity set section linked to course via sec_course",
+  "source_image": "page_048.jpg",
+  "crop_percentages": {
+    "top": 46.0,
+    "bottom": 70.0,
+    "left": 14.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 280,
+    "y1": 690,
+    "x2": 1840,
+    "y2": 1050
+  },
+  "crop_size": {
+    "width": 1560,
+    "height": 360
+  },
+  "figure_id": "Fig_L05_p48_01"
+}

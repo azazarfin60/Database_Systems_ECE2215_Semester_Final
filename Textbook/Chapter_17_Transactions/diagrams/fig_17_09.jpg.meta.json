@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 7: concurrent operations of T3 and T4 that are not conflict serializable",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 22.0,
+    "left": 39.7,
+    "right": 63.2
+  },
+  "crop_pixels": {
+    "x1": 585,
+    "y1": 162,
+    "x2": 932,
+    "y2": 401
+  },
+  "crop_size": {
+    "width": 347,
+    "height": 239
+  },
+  "figure_id": "Fig_17.9"
+}

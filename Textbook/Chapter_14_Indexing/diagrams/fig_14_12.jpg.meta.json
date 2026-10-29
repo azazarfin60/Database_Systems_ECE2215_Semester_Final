@@ -1,0 +1,21 @@
+{
+  "description": "Range query on a B+-tree algorithm",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 79.2,
+    "left": 21.5,
+    "right": 93.5
+  },
+  "crop_pixels": {
+    "x1": 317,
+    "y1": 182,
+    "x2": 1379,
+    "y2": 1445
+  },
+  "crop_size": {
+    "width": 1062,
+    "height": 1263
+  },
+  "figure_id": "Fig_14.12"
+}

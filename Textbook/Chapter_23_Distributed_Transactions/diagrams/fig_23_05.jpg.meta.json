@@ -1,0 +1,21 @@
+{
+  "description": "Global wait-for graph for Figure 23.4 combining wait-for edges across sites S1 and S2 revealing a cycle among transactions T1, T2, T3, T4, T5",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 75.1,
+    "bottom": 95.39999999999999,
+    "left": 34.8,
+    "right": 80.1
+  },
+  "crop_pixels": {
+    "x1": 513,
+    "y1": 1370,
+    "x2": 1181,
+    "y2": 1741
+  },
+  "crop_size": {
+    "width": 668,
+    "height": 371
+  },
+  "figure_id": "Fig_23.5"
+}

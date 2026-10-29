@@ -1,0 +1,21 @@
+{
+  "description": "Result of projection operation on ID, name, salary from instructor relation",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 10.03,
+    "bottom": 37.37,
+    "left": 37.22,
+    "right": 65.76
+  },
+  "crop_pixels": {
+    "x1": 548,
+    "y1": 183,
+    "x2": 969,
+    "y2": 682
+  },
+  "crop_size": {
+    "width": 421,
+    "height": 499
+  },
+  "figure_id": "Fig_2.11"
+}

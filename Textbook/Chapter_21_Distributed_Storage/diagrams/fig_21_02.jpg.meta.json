@@ -1,0 +1,21 @@
+{
+  "description": "Histogram showing frequency on the vertical axis (from 0 to 50) and attribute value ranges on the horizontal axis (1-5, 6-10, 11-15, 16-20, 21-25)",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 66.5,
+    "bottom": 92.2,
+    "left": 36.0,
+    "right": 79.0
+  },
+  "crop_pixels": {
+    "x1": 531,
+    "y1": 1213,
+    "x2": 1165,
+    "y2": 1682
+  },
+  "crop_size": {
+    "width": 634,
+    "height": 469
+  },
+  "figure_id": "Fig_21.2"
+}

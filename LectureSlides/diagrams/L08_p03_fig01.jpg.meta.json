@@ -1,0 +1,21 @@
+{
+  "description": "Hierarchy diagram of schedules based on recoverability showing Schedules encompassing Recoverable, Cascadeless, and Strict categories",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 17.0,
+    "bottom": 91.0,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 266,
+    "y1": 255,
+    "x2": 2400,
+    "y2": 1365
+  },
+  "crop_size": {
+    "width": 2134,
+    "height": 1110
+  },
+  "figure_id": "Fig_L08_p03_01"
+}

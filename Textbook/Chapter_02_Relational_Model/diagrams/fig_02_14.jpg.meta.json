@@ -1,0 +1,21 @@
+{
+  "description": "Courses offered in either Fall 2017, Spring 2018, or both semesters",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 71.07,
+    "bottom": 90.58,
+    "left": 45.83,
+    "right": 57.15
+  },
+  "crop_pixels": {
+    "x1": 675,
+    "y1": 1297,
+    "x2": 842,
+    "y2": 1653
+  },
+  "crop_size": {
+    "width": 167,
+    "height": 356
+  },
+  "figure_id": "Fig_2.14"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Many-to-many mapping cardinality between entity set A and entity set B",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 55.0,
+    "bottom": 82.2,
+    "left": 23.0,
+    "right": 71.0
+  },
+  "crop_pixels": {
+    "x1": 380,
+    "y1": 1286,
+    "x2": 1173,
+    "y2": 1922
+  },
+  "crop_size": {
+    "width": 793,
+    "height": 636
+  },
+  "figure_id": "p030_fig02"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The result relation for c1 intersect c2",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 74.5,
+    "bottom": 88.5,
+    "left": 25.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 1359,
+    "x2": 1253,
+    "y2": 1615
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 256
+  },
+  "figure_id": "Fig_3.11"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "BCNF decomposition algorithm for relation schema R with functional dependencies F",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 38.7,
+    "left": 17.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 164,
+    "x2": 1401,
+    "y2": 706
+  },
+  "crop_size": {
+    "width": 1151,
+    "height": 542
+  },
+  "figure_id": "Fig_7.11"
+}

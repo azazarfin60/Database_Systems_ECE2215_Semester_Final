@@ -1,0 +1,21 @@
+{
+  "description": "The section table showing course_id, sec_id, semester, year, building, room_number, and time_slot_id",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 17.2,
+    "bottom": 85.75999999999999,
+    "left": 8.2,
+    "right": 92.8
+  },
+  "crop_pixels": {
+    "x1": 164,
+    "y1": 258,
+    "x2": 1856,
+    "y2": 1286
+  },
+  "crop_size": {
+    "width": 1692,
+    "height": 1028
+  },
+  "figure_id": "Fig_L02_p21_1"
+}

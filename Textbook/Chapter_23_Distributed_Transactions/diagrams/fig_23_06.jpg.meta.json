@@ -1,0 +1,21 @@
+{
+  "description": "False cycles in the global wait-for graph due to transient edge addition and deletion across site S1, site S2, and coordinator",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 47.099999999999994,
+    "left": 32.9,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 485,
+    "y1": 171,
+    "x2": 1194,
+    "y2": 859
+  },
+  "crop_size": {
+    "width": 709,
+    "height": 688
+  },
+  "figure_id": "Fig_23.6"
+}

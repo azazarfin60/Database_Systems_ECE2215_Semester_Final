@@ -1,0 +1,21 @@
+{
+  "description": "The section relation table with attributes course_id, sec_id, semester, year, building, room_number, and time_slot_id",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 43.8,
+    "left": 17.2,
+    "right": 85.8
+  },
+  "crop_pixels": {
+    "x1": 253,
+    "y1": 187,
+    "x2": 1265,
+    "y2": 799
+  },
+  "crop_size": {
+    "width": 1012,
+    "height": 612
+  },
+  "figure_id": "Fig_A.6"
+}

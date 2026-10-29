@@ -1,0 +1,21 @@
+{
+  "description": "Equivalent expression trees showing initial expression (a) and transformed expression with selection pushed down (b)",
+  "source_image": "page_002.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 38.5,
+    "left": 18.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 265,
+    "y1": 155,
+    "x2": 1253,
+    "y2": 702
+  },
+  "crop_size": {
+    "width": 988,
+    "height": 547
+  },
+  "figure_id": "Fig_16.1"
+}

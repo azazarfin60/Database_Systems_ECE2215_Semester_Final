@@ -1,0 +1,21 @@
+{
+  "description": "Insertion of Lamport into the B+-tree of Figure 14.14",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 29.7,
+    "left": 20.5,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 302,
+    "y1": 155,
+    "x2": 1386,
+    "y2": 542
+  },
+  "crop_size": {
+    "width": 1084,
+    "height": 387
+  },
+  "figure_id": "Fig_14.15"
+}

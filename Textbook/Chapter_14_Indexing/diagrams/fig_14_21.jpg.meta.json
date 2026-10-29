@@ -1,0 +1,21 @@
+{
+  "description": "Deletion of entry from a B+-tree algorithm",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 7.5,
+    "bottom": 93.7,
+    "left": 18.5,
+    "right": 85.5
+  },
+  "crop_pixels": {
+    "x1": 272,
+    "y1": 136,
+    "x2": 1261,
+    "y2": 1710
+  },
+  "crop_size": {
+    "width": 989,
+    "height": 1574
+  },
+  "figure_id": "Fig_14.21"
+}

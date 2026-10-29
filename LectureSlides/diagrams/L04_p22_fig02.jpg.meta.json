@@ -1,0 +1,21 @@
+{
+  "description": "Result relation for course left outer join prereq on course.course_id = prereq.course_id",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 58.0,
+    "bottom": 76.2,
+    "left": 22.0,
+    "right": 84.5
+  },
+  "crop_pixels": {
+    "x1": 440,
+    "y1": 870,
+    "x2": 1690,
+    "y2": 1143
+  },
+  "crop_size": {
+    "width": 1250,
+    "height": 273
+  },
+  "figure_id": "Fig_L04_p22_02"
+}

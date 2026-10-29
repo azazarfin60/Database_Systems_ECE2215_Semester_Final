@@ -1,0 +1,21 @@
+{
+  "description": "Courses offered in the Fall 2017 semester but not in Spring 2018 semester",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 81.59,
+    "bottom": 89.26,
+    "left": 51.8,
+    "right": 63.12
+  },
+  "crop_pixels": {
+    "x1": 764,
+    "y1": 1489,
+    "x2": 931,
+    "y2": 1628
+  },
+  "crop_size": {
+    "width": 167,
+    "height": 139
+  },
+  "figure_id": "Fig_2.16"
+}

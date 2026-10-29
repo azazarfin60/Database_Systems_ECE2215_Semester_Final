@@ -1,0 +1,21 @@
+{
+  "description": "Stepped-merge index with multiple trees at each level from L0 in memory to L2 on disk",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 9.2,
+    "bottom": 38.6,
+    "left": 34.5,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 508,
+    "y1": 167,
+    "x2": 1187,
+    "y2": 704
+  },
+  "crop_size": {
+    "width": 679,
+    "height": 537
+  },
+  "figure_id": "Fig_24.2"
+}

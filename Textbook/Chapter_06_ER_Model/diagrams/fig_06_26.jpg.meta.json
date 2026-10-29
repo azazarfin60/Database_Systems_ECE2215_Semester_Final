@@ -1,0 +1,21 @@
+{
+  "description": "Summary table of symbols used in standard E-R notation",
+  "source_image": "page_048.jpg",
+  "crop_percentages": {
+    "top": 9.88,
+    "bottom": 72.84,
+    "left": 20.45,
+    "right": 80.1
+  },
+  "crop_pixels": {
+    "x1": 301,
+    "y1": 180,
+    "x2": 1181,
+    "y2": 1329
+  },
+  "crop_size": {
+    "width": 880,
+    "height": 1149
+  },
+  "figure_id": "Fig_6.26"
+}

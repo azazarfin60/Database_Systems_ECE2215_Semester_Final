@@ -1,0 +1,21 @@
+{
+  "description": "Complete Java implementation in Hadoop of the word count application showing Map and Reduce classes and Job configuration.",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 86.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 164,
+    "x2": 1327,
+    "y2": 1578
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 1414
+  },
+  "figure_id": "Fig_10.9"
+}

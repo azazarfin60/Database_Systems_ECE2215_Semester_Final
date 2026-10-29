@@ -1,0 +1,21 @@
+{
+  "description": "Block storage operations showing data transfer between main memory buffer blocks and disk storage via input(A) and output(B)",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 65.5,
+    "bottom": 91.7,
+    "left": 33.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 486,
+    "y1": 1195,
+    "x2": 1209,
+    "y2": 1673
+  },
+  "crop_size": {
+    "width": 723,
+    "height": 478
+  },
+  "figure_id": "Fig_19.1"
+}

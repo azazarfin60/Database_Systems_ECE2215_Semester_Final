@@ -1,0 +1,21 @@
+{
+  "description": "The takes relation table showing ID, course_id, sec_id, semester, year, and grade",
+  "source_image": "page_002.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 62.0,
+    "left": 26.0,
+    "right": 76.5
+  },
+  "crop_pixels": {
+    "x1": 383,
+    "y1": 178,
+    "x2": 1128,
+    "y2": 1131
+  },
+  "crop_size": {
+    "width": 745,
+    "height": 953
+  },
+  "figure_id": "Fig_4.2"
+}

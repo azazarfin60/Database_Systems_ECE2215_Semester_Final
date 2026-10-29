@@ -1,0 +1,21 @@
+{
+  "description": "Java utility function printTable to output JDBC ResultSet metadata and data rows formatted as an HTML table",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 59.7,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 173,
+    "x2": 1298,
+    "y2": 1089
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 916
+  },
+  "figure_id": "Fig_9.8"
+}

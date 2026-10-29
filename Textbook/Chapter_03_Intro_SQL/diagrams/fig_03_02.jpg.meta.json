@@ -1,0 +1,21 @@
+{
+  "description": "Result of select name from instructor",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 42.5,
+    "left": 28.0,
+    "right": 75.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 182,
+    "x2": 1106,
+    "y2": 775
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 593
+  },
+  "figure_id": "Fig_3.2"
+}

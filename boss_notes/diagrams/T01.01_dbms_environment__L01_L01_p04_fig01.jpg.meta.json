@@ -1,0 +1,21 @@
+{
+  "description": "DBMS architecture connecting underlying database storage to applications and users via APIs",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 40.0,
+    "bottom": 91.0,
+    "left": 58.0,
+    "right": 94.5
+  },
+  "crop_pixels": {
+    "x1": 1546,
+    "y1": 600,
+    "x2": 2520,
+    "y2": 1365
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 765
+  },
+  "figure_id": "Fig_L01_p04_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Trigger setnull using set to change an inserted value to null",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 72.2,
+    "bottom": 94.8,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 1317,
+    "x2": 1371,
+    "y2": 1730
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 413
+  },
+  "figure_id": "Fig_5.11"
+}

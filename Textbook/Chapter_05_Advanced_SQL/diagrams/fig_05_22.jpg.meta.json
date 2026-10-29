@@ -1,0 +1,21 @@
+{
+  "description": "The relation r for Exercise 5.24 with building, room_number, time_slot_id, course_id, sec_id",
+  "source_image": "page_055.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 29.5,
+    "left": 30.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 442,
+    "y1": 186,
+    "x2": 1253,
+    "y2": 538
+  },
+  "crop_size": {
+    "width": 811,
+    "height": 352
+  },
+  "figure_id": "Fig_5.22"
+}

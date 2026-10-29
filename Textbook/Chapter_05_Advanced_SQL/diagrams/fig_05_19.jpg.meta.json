@@ -1,0 +1,21 @@
+{
+  "description": "Query result relation for group by rollup(item_name, color)",
+  "source_image": "page_047.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 51.5,
+    "left": 32.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 472,
+    "y1": 173,
+    "x2": 1209,
+    "y2": 939
+  },
+  "crop_size": {
+    "width": 737,
+    "height": 766
+  },
+  "figure_id": "Fig_5.19"
+}

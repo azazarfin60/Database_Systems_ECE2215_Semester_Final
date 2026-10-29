@@ -1,0 +1,21 @@
+{
+  "description": "Table of cost estimates and reasons for selection algorithms A1 through A6 including linear search and B+-tree index scans",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 17.0,
+    "bottom": 96.2,
+    "left": 14.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 310,
+    "x2": 1312,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 1106,
+    "height": 1445
+  },
+  "figure_id": "Fig_15.3"
+}

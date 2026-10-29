@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 4: a concurrent schedule resulting in an inconsistent state",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 45.599999999999994,
+    "left": 42.3,
+    "right": 72.5
+  },
+  "crop_pixels": {
+    "x1": 623,
+    "y1": 162,
+    "x2": 1069,
+    "y2": 832
+  },
+  "crop_size": {
+    "width": 446,
+    "height": 670
+  },
+  "figure_id": "Fig_17.5"
+}

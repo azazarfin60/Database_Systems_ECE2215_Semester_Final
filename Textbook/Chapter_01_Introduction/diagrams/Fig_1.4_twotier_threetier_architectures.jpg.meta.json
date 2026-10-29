@@ -1,0 +1,21 @@
+{
+  "description": "Two-tier and three-tier architectures: (a) Two-tier architecture with client (user, application) communicating over network to server (database system); (b) Three-tier architecture with client (user, application client) communicating over network to server (application server, database system)",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 58.0,
+    "bottom": 97.2,
+    "left": 25.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 1058,
+    "x2": 1401,
+    "y2": 1773
+  },
+  "crop_size": {
+    "width": 1033,
+    "height": 715
+  },
+  "figure_id": "Fig_1.4"
+}

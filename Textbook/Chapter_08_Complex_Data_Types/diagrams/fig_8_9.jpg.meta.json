@@ -1,0 +1,21 @@
+{
+  "description": "E-R specialization and generalization hierarchy showing person with subtypes employee and student, and employee with subtypes instructor and secretary",
+  "source_image": "page_038.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 41.7,
+    "left": 29.0,
+    "right": 71.0
+  },
+  "crop_pixels": {
+    "x1": 427,
+    "y1": 164,
+    "x2": 1047,
+    "y2": 761
+  },
+  "crop_size": {
+    "width": 620,
+    "height": 597
+  },
+  "figure_id": "Fig_8.9"
+}

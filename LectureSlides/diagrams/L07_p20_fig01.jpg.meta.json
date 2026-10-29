@@ -1,0 +1,21 @@
+{
+  "description": "Conflict equivalence between Schedule 1 and serial Schedule 2 through swapping non-conflicting instructions",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 33.0,
+    "bottom": 81.4,
+    "left": 21.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 560,
+    "y1": 495,
+    "x2": 2213,
+    "y2": 1221
+  },
+  "crop_size": {
+    "width": 1653,
+    "height": 726
+  },
+  "figure_id": "Fig_L07_p20_01"
+}

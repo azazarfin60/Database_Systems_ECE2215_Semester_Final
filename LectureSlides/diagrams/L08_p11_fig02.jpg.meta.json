@@ -1,0 +1,21 @@
+{
+  "description": "Schedule diagram under simple locking protocol where serializability cannot be assured for transactions T1 and T2",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 3.0,
+    "bottom": 93.0,
+    "left": 64.0,
+    "right": 98.0
+  },
+  "crop_pixels": {
+    "x1": 1706,
+    "y1": 45,
+    "x2": 2613,
+    "y2": 1395
+  },
+  "crop_size": {
+    "width": 907,
+    "height": 1350
+  },
+  "figure_id": "Fig_L08_p11_02"
+}

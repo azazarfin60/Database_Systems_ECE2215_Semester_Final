@@ -1,0 +1,21 @@
+{
+  "description": "Examples of incorrect E-R diagrams illustrating common design mistakes",
+  "source_image": "page_042.jpg",
+  "crop_percentages": {
+    "top": 9.73,
+    "bottom": 42.26,
+    "left": 27.87,
+    "right": 75.21
+  },
+  "crop_pixels": {
+    "x1": 411,
+    "y1": 177,
+    "x2": 1109,
+    "y2": 771
+  },
+  "crop_size": {
+    "width": 698,
+    "height": 594
+  },
+  "figure_id": "Fig_6.21"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The result relation for c1 except c2",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 23.5,
+    "left": 25.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 182,
+    "x2": 1253,
+    "y2": 428
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 246
+  },
+  "figure_id": "Fig_3.12"
+}

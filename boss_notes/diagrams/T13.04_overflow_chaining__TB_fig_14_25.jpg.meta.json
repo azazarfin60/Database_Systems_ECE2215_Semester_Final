@@ -1,0 +1,21 @@
+{
+  "description": "Overflow chaining in a disk-based hash structure",
+  "source_image": "page_038.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 47.2,
+    "left": 22.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 164,
+    "x2": 1194,
+    "y2": 861
+  },
+  "crop_size": {
+    "width": 870,
+    "height": 697
+  },
+  "figure_id": "Fig_14.25"
+}

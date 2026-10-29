@@ -1,0 +1,21 @@
+{
+  "description": "Hash index on search key ID of instructor file showing hash buckets and pointer chains",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 8.8,
+    "bottom": 66.0,
+    "left": 20.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 160,
+    "x2": 1401,
+    "y2": 1204
+  },
+  "crop_size": {
+    "width": 1106,
+    "height": 1044
+  },
+  "figure_id": "Fig_24.6"
+}

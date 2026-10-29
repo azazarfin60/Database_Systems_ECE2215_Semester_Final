@@ -1,0 +1,21 @@
+{
+  "description": "Nonserializable schedule with degree-two consistency for T32 and T33",
+  "source_image": "page_046.jpg",
+  "crop_percentages": {
+    "top": 65.4,
+    "bottom": 94.7,
+    "left": 21.0,
+    "right": 82.5
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 1193,
+    "x2": 1216,
+    "y2": 1728
+  },
+  "crop_size": {
+    "width": 907,
+    "height": 535
+  },
+  "figure_id": "Fig_18.21"
+}

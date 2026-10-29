@@ -1,0 +1,21 @@
+{
+  "description": "File of Figure 13.1, with free list after deletion of records 1, 4, and 6",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 59.5,
+    "bottom": 96.2,
+    "left": 22.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 1085,
+    "x2": 1357,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 1033,
+    "height": 670
+  },
+  "figure_id": "Fig_13.4"
+}

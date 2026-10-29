@@ -1,0 +1,21 @@
+{
+  "description": "Nonserializable schedule under snapshot isolation for T30 and T31 showing write skew",
+  "source_image": "page_042.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 37.0,
+    "left": 22.5,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 331,
+    "y1": 171,
+    "x2": 1187,
+    "y2": 675
+  },
+  "crop_size": {
+    "width": 856,
+    "height": 504
+  },
+  "figure_id": "Fig_18.20"
+}

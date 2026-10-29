@@ -1,0 +1,21 @@
+{
+  "description": "Three-layer web application architecture diagram showing Web Browser, Web Server, Application Server, and Database System",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 39.2,
+    "left": 21.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 173,
+    "x2": 1386,
+    "y2": 715
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 542
+  },
+  "figure_id": "Fig_9.5"
+}

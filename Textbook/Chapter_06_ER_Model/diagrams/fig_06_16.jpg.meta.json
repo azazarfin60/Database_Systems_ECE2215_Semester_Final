@@ -1,0 +1,21 @@
+{
+  "description": "Relational schemas derived from strong entity sets in university E-R diagram",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 75.0,
+    "bottom": 91.0,
+    "left": 20.0,
+    "right": 80.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 1368,
+    "x2": 1180,
+    "y2": 1660
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 292
+  },
+  "figure_id": "Fig_6.16"
+}

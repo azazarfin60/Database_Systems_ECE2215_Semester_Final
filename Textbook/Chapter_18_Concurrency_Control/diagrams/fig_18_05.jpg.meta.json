@@ -1,0 +1,21 @@
+{
+  "description": "Transaction T3 (transaction T1 with unlocking delayed to the end)",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 39.0,
+    "left": 27.0,
+    "right": 87.5
+  },
+  "crop_pixels": {
+    "x1": 398,
+    "y1": 187,
+    "x2": 1290,
+    "y2": 711
+  },
+  "crop_size": {
+    "width": 892,
+    "height": 524
+  },
+  "figure_id": "Fig_18.5"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 4 showing Thomas write rule execution for T27 and T28",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 25.0,
+    "left": 43.0,
+    "right": 71.0
+  },
+  "crop_pixels": {
+    "x1": 634,
+    "y1": 171,
+    "x2": 1047,
+    "y2": 456
+  },
+  "crop_size": {
+    "width": 413,
+    "height": 285
+  },
+  "figure_id": "Fig_18.18"
+}

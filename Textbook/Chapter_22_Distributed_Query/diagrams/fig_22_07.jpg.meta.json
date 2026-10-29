@@ -1,0 +1,21 @@
+{
+  "description": "Parallel query execution plans: (a) Logical query tree with join and aggregation, (b) Sequential plan with local partitioning, pipelined hash join and hash aggregation, (c) Parallel plan with exchange operators E1 through E4, (d) Parallel plan with partial aggregation HA1 and HA2",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 66.7,
+    "left": 16.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 164,
+    "x2": 1194,
+    "y2": 1217
+  },
+  "crop_size": {
+    "width": 958,
+    "height": 1053
+  },
+  "figure_id": "Fig_22.7"
+}

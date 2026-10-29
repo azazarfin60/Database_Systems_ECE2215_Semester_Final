@@ -1,0 +1,21 @@
+{
+  "description": "Flow of keys and values in a MapReduce job showing map inputs, map outputs with intermediate keys/values, shuffle/grouping, and reduce inputs.",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 49.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 182,
+    "x2": 1327,
+    "y2": 903
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 721
+  },
+  "figure_id": "Fig_10.7"
+}

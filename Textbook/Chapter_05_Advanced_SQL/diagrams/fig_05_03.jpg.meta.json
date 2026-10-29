@@ -1,0 +1,21 @@
+{
+  "description": "Finding column information in JDBC using DatabaseMetaData getColumns",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 36.5,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 186,
+    "x2": 1283,
+    "y2": 666
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 480
+  },
+  "figure_id": "Fig_5.3"
+}

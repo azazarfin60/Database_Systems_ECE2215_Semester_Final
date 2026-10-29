@@ -1,0 +1,21 @@
+{
+  "description": "Foreign key constraint relationship between Temp table (cust_id FK) and customer table (id PK)",
+  "source_image": "page_037.jpg",
+  "crop_percentages": {
+    "top": 73.5,
+    "bottom": 92.2,
+    "left": 37.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 611,
+    "y1": 1719,
+    "x2": 1438,
+    "y2": 2156
+  },
+  "crop_size": {
+    "width": 827,
+    "height": 437
+  },
+  "figure_id": "p037_fig01"
+}

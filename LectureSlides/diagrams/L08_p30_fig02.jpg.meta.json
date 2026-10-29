@@ -1,0 +1,21 @@
+{
+  "description": "Schedule table showing concurrent execution of transactions T27 and T28 tested under Timestamp Ordering protocol",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 65.0,
+    "bottom": 86.2,
+    "left": 51.0,
+    "right": 72.0
+  },
+  "crop_pixels": {
+    "x1": 1360,
+    "y1": 975,
+    "x2": 1920,
+    "y2": 1293
+  },
+  "crop_size": {
+    "width": 560,
+    "height": 318
+  },
+  "figure_id": "Fig_L08_p30_02"
+}

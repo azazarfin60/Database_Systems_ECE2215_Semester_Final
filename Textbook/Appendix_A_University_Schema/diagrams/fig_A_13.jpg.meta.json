@@ -1,0 +1,21 @@
+{
+  "description": "The time slot relation table with start and end times separated into hour and minute",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 52.8,
+    "left": 24.7,
+    "right": 78.3
+  },
+  "crop_pixels": {
+    "x1": 364,
+    "y1": 187,
+    "x2": 1154,
+    "y2": 963
+  },
+  "crop_size": {
+    "width": 790,
+    "height": 776
+  },
+  "figure_id": "Fig_A.13"
+}

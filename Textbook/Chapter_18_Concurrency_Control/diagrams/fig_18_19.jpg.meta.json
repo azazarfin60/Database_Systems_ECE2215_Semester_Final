@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 6, a schedule produced by using validation for transactions T29 and T30",
+  "source_image": "page_035.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 41.3,
+    "left": 27.5,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 405,
+    "y1": 171,
+    "x2": 1283,
+    "y2": 753
+  },
+  "crop_size": {
+    "width": 878,
+    "height": 582
+  },
+  "figure_id": "Fig_18.19"
+}

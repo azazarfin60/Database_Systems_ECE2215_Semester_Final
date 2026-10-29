@@ -1,0 +1,21 @@
+{
+  "description": "A leaf node for instructor B+-tree index (n = 4)",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 50.2,
+    "left": 20.5,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 302,
+    "y1": 191,
+    "x2": 1386,
+    "y2": 916
+  },
+  "crop_size": {
+    "width": 1084,
+    "height": 725
+  },
+  "figure_id": "Fig_14.8"
+}

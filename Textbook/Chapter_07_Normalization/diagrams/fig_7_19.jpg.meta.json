@@ -1,0 +1,21 @@
+{
+  "description": "An algorithm to compute alpha+ using count and fdlist data structures (Exercise 7.8)",
+  "source_image": "page_053.jpg",
+  "crop_percentages": {
+    "top": 9.2,
+    "bottom": 95.0,
+    "left": 20.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 167,
+    "x2": 1386,
+    "y2": 1733
+  },
+  "crop_size": {
+    "width": 1091,
+    "height": 1566
+  },
+  "figure_id": "Fig_7.19"
+}

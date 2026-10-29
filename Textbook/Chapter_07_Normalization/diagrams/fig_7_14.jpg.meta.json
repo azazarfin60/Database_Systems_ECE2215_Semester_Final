@@ -1,0 +1,21 @@
+{
+  "description": "An example of redundancy in a relation on a BCNF schema inst_dept_address",
+  "source_image": "page_036.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 25.0,
+    "left": 14.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 155,
+    "x2": 1268,
+    "y2": 456
+  },
+  "crop_size": {
+    "width": 1062,
+    "height": 301
+  },
+  "figure_id": "Fig_7.14"
+}

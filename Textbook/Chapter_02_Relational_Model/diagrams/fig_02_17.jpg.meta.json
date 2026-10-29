@@ -1,0 +1,21 @@
+{
+  "description": "Employee database schema showing employee, works, and company relations",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 21.32,
+    "left": 16.14,
+    "right": 86.92
+  },
+  "crop_pixels": {
+    "x1": 238,
+    "y1": 187,
+    "x2": 1282,
+    "y2": 389
+  },
+  "crop_size": {
+    "width": 1044,
+    "height": 202
+  },
+  "figure_id": "Fig_2.17"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Transaction schedule matrix illustrating starvation where transaction T1 waiting for exclusive lock X(A) is starved by repeating shared locks S(A) on T2, T3, and T4",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 76.0,
+    "left": 63.0,
+    "right": 99.0
+  },
+  "crop_pixels": {
+    "x1": 1680,
+    "y1": 120,
+    "x2": 2640,
+    "y2": 1140
+  },
+  "crop_size": {
+    "width": 960,
+    "height": 1020
+  },
+  "figure_id": "Fig_L08_p12_01"
+}

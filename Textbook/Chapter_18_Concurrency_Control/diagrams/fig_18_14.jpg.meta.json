@@ -1,0 +1,21 @@
+{
+  "description": "Wait-for graph with a cycle between T17, T18, T19, and T20 indicating deadlock",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 75.0,
+    "bottom": 95.0,
+    "left": 31.0,
+    "right": 72.0
+  },
+  "crop_pixels": {
+    "x1": 457,
+    "y1": 1368,
+    "x2": 1062,
+    "y2": 1733
+  },
+  "crop_size": {
+    "width": 605,
+    "height": 365
+  },
+  "figure_id": "Fig_18.14"
+}

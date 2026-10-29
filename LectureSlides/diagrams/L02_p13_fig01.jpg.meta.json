@@ -1,0 +1,21 @@
+{
+  "description": "Instructor relation and resulting table after projecting ID, name, and salary",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 35.2,
+    "bottom": 92.96,
+    "left": 3.2,
+    "right": 88.3
+  },
+  "crop_pixels": {
+    "x1": 64,
+    "y1": 528,
+    "x2": 1766,
+    "y2": 1394
+  },
+  "crop_size": {
+    "width": 1702,
+    "height": 866
+  },
+  "figure_id": "Fig_L02_p13_1"
+}

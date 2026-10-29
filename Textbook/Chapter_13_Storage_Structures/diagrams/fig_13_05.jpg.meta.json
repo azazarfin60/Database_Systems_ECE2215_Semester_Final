@@ -1,0 +1,21 @@
+{
+  "description": "Representation of a variable-length record of the instructor relation",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 80.0,
+    "bottom": 96.2,
+    "left": 16.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 1460,
+    "x2": 1268,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 1032,
+    "height": 295
+  },
+  "figure_id": "Fig_13.5"
+}

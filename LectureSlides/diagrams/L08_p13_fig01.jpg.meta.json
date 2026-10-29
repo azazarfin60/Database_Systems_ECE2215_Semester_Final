@@ -1,0 +1,21 @@
+{
+  "description": "Two-Phase Locking (2PL) graph showing growing phase with lock acquisition and shrinking phase with lock release plotted against Time",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 31.0,
+    "bottom": 72.0,
+    "left": 59.0,
+    "right": 98.0
+  },
+  "crop_pixels": {
+    "x1": 1573,
+    "y1": 465,
+    "x2": 2613,
+    "y2": 1080
+  },
+  "crop_size": {
+    "width": 1040,
+    "height": 615
+  },
+  "figure_id": "Fig_L08_p13_01"
+}

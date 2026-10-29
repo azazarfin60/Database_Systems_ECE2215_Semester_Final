@@ -1,0 +1,21 @@
+{
+  "description": "A schedule that is view-serializable but not conflict serializable, containing blind writes with transactions T27, T28, and T29",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 42.0,
+    "bottom": 65.4,
+    "left": 28.0,
+    "right": 60.0
+  },
+  "crop_pixels": {
+    "x1": 746,
+    "y1": 630,
+    "x2": 1600,
+    "y2": 981
+  },
+  "crop_size": {
+    "width": 854,
+    "height": 351
+  },
+  "figure_id": "Fig_L07_p23_01"
+}

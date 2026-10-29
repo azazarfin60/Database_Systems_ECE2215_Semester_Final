@@ -1,0 +1,21 @@
+{
+  "description": "Wait-for graph with no cycle containing transactions T17, T18, T19, and T20",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 9.2,
+    "bottom": 29.5,
+    "left": 31.0,
+    "right": 72.0
+  },
+  "crop_pixels": {
+    "x1": 457,
+    "y1": 167,
+    "x2": 1062,
+    "y2": 538
+  },
+  "crop_size": {
+    "width": 605,
+    "height": 371
+  },
+  "figure_id": "Fig_18.13"
+}

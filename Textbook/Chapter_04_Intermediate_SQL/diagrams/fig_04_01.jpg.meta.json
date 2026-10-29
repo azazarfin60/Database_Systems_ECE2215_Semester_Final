@@ -1,0 +1,21 @@
+{
+  "description": "The student relation table showing ID, name, dept_name, and tot_cred",
+  "source_image": "page_001.jpg",
+  "crop_percentages": {
+    "top": 59.5,
+    "bottom": 94.6,
+    "left": 37.0,
+    "right": 77.5
+  },
+  "crop_pixels": {
+    "x1": 545,
+    "y1": 1085,
+    "x2": 1143,
+    "y2": 1726
+  },
+  "crop_size": {
+    "width": 598,
+    "height": 641
+  },
+  "figure_id": "Fig_4.1"
+}

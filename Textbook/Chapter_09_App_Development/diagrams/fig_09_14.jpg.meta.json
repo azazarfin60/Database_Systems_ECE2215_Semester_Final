@@ -1,0 +1,21 @@
+{
+  "description": "Web application layered architecture showing Presentation Layer, Business-Logic Layer, and Data-Access Layer with 7-step sequence of interaction",
+  "source_image": "page_028.jpg",
+  "crop_percentages": {
+    "top": 60.5,
+    "bottom": 94.5,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 1104,
+    "x2": 1283,
+    "y2": 1724
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 620
+  },
+  "figure_id": "Fig_9.14"
+}

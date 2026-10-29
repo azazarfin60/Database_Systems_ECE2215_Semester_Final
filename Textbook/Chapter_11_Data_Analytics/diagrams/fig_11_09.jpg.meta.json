@@ -1,0 +1,21 @@
+{
+  "description": "Result of SQL pivot operation on the sales relation showing pivot columns for dark, pastel, and white",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 61.5,
+    "bottom": 92.0,
+    "left": 27.5,
+    "right": 75.5
+  },
+  "crop_pixels": {
+    "x1": 405,
+    "y1": 1122,
+    "x2": 1113,
+    "y2": 1679
+  },
+  "crop_size": {
+    "width": 708,
+    "height": 557
+  },
+  "figure_id": "Fig_11.9"
+}

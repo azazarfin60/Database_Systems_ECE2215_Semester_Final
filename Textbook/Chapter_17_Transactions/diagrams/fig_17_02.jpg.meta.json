@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 1: a serial schedule in which T1 (transfer $50 from A to B) is followed by T2 (transfer 10% of A to B)",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 45.599999999999994,
+    "left": 36.4,
+    "right": 66.6
+  },
+  "crop_pixels": {
+    "x1": 536,
+    "y1": 162,
+    "x2": 982,
+    "y2": 832
+  },
+  "crop_size": {
+    "width": 446,
+    "height": 670
+  },
+  "figure_id": "Fig_17.2"
+}

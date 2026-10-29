@@ -1,0 +1,21 @@
+{
+  "description": "Testing for dependency preservation across decomposed relation schemas",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 46.2,
+    "left": 17.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 164,
+    "x2": 1224,
+    "y2": 843
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 679
+  },
+  "figure_id": "Fig_7.10"
+}

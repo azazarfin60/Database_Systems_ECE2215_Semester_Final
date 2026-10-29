@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with aggregation showing relationship proj_guide and entity sets instructor, student, project treated as a higher-level aggregated entity connected to evaluation via relationship eval_for",
+  "source_image": "page_059.jpg",
+  "crop_percentages": {
+    "top": 40.0,
+    "bottom": 87.9,
+    "left": 27.0,
+    "right": 73.5
+  },
+  "crop_pixels": {
+    "x1": 540,
+    "y1": 600,
+    "x2": 1470,
+    "y2": 1318
+  },
+  "crop_size": {
+    "width": 930,
+    "height": 718
+  },
+  "figure_id": "Fig_L05_p59_01"
+}

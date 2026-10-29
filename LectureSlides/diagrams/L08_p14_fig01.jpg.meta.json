@@ -1,0 +1,21 @@
+{
+  "description": "Two-Phase Locking (2PL) diagram with lock conversion showing lock count over time during growing and shrinking phases",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 21.0,
+    "bottom": 60.0,
+    "left": 59.0,
+    "right": 98.0
+  },
+  "crop_pixels": {
+    "x1": 1573,
+    "y1": 315,
+    "x2": 2613,
+    "y2": 900
+  },
+  "crop_size": {
+    "width": 1040,
+    "height": 585
+  },
+  "figure_id": "Fig_L08_p14_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "MongoDB shell commands showing database selection, creating collections, inserting JSON student and instructor documents, and query/delete operations.",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 53.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 209,
+    "x2": 1327,
+    "y2": 976
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 767
+  },
+  "figure_id": "Fig_10.2"
+}

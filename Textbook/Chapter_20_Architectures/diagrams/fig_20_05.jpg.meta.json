@@ -1,0 +1,21 @@
+{
+  "description": "Parallel database architectures: (a) shared memory, (b) shared disk, (c) shared nothing, and (d) hierarchical",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 50.2,
+    "left": 21.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 164,
+    "x2": 1386,
+    "y2": 916
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 752
+  },
+  "figure_id": "Fig_20.5"
+}

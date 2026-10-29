@@ -1,0 +1,21 @@
+{
+  "description": "Lost update problem schedule where an update to item A by T1 is overwritten by a blind write by T2",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 38.0,
+    "bottom": 87.4,
+    "left": 3.0,
+    "right": 34.0
+  },
+  "crop_pixels": {
+    "x1": 80,
+    "y1": 570,
+    "x2": 906,
+    "y2": 1311
+  },
+  "crop_size": {
+    "width": 826,
+    "height": 741
+  },
+  "figure_id": "Fig_L07_p31_01"
+}

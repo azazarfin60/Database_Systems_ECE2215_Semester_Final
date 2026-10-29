@@ -1,0 +1,21 @@
+{
+  "description": "Loss of information via a bad decomposition: employee decomposed into employee1 and employee2, and their natural join generating spurious tuples",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 38.5,
+    "bottom": 96.7,
+    "left": 11.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 162,
+    "y1": 702,
+    "x2": 1312,
+    "y2": 1764
+  },
+  "crop_size": {
+    "width": 1150,
+    "height": 1062
+  },
+  "figure_id": "Fig_7.3"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram showing relationships inst_dept, stud_dept, and advisor connecting department, instructor, and student entity sets to illustrate schema redundancy",
+  "source_image": "page_046.jpg",
+  "crop_percentages": {
+    "top": 42.0,
+    "bottom": 92.0,
+    "left": 13.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 260,
+    "y1": 630,
+    "x2": 1780,
+    "y2": 1380
+  },
+  "crop_size": {
+    "width": 1520,
+    "height": 750
+  },
+  "figure_id": "Fig_L05_p46_01"
+}

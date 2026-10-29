@@ -1,0 +1,21 @@
+{
+  "description": "Venn diagram showing nested classification of schedules: All type of Schedule contains Recoverable Schedule, which contains Cascadeless Schedule, which contains Strict Schedule",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 24.0,
+    "bottom": 90.0,
+    "left": 31.0,
+    "right": 100
+  },
+  "crop_pixels": {
+    "x1": 826,
+    "y1": 360,
+    "x2": 2667,
+    "y2": 1350
+  },
+  "crop_size": {
+    "width": 1841,
+    "height": 990
+  },
+  "figure_id": "Fig_L08_p08_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Relational schemas derived from relationship sets in university E-R diagram",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 37.0,
+    "left": 28.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 182,
+    "x2": 1298,
+    "y2": 675
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 493
+  },
+  "figure_id": "Fig_6.17"
+}

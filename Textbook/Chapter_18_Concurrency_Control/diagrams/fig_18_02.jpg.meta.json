@@ -1,0 +1,21 @@
+{
+  "description": "Transaction T1 executing lock-X(B), read(B), write(B), unlock(B), lock-X(A), read(A), write(A), unlock(A)",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 39.5,
+    "left": 42.0,
+    "right": 71.5
+  },
+  "crop_pixels": {
+    "x1": 619,
+    "y1": 187,
+    "x2": 1054,
+    "y2": 720
+  },
+  "crop_size": {
+    "width": 435,
+    "height": 533
+  },
+  "figure_id": "Fig_18.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Cartesian product table instructor X teaches showing pairing of tuples across all attributes",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 11.7,
+    "bottom": 96.19999999999999,
+    "left": 19.8,
+    "right": 77.1
+  },
+  "crop_pixels": {
+    "x1": 396,
+    "y1": 175,
+    "x2": 1542,
+    "y2": 1442
+  },
+  "crop_size": {
+    "width": 1146,
+    "height": 1267
+  },
+  "figure_id": "Fig_L02_p17_1"
+}

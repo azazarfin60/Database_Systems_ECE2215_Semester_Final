@@ -1,0 +1,21 @@
+{
+  "description": "Photograph of the internals of an actual magnetic disk showing the platters, actuator arm, and read-write head assembly",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 63.0,
+    "bottom": 95.4,
+    "left": 28.0,
+    "right": 75.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 1149,
+    "x2": 1106,
+    "y2": 1741
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 592
+  },
+  "figure_id": "Fig_12.3"
+}

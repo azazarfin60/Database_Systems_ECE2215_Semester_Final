@@ -1,0 +1,21 @@
+{
+  "description": "Hierarchy tree of composite attributes name and address showing component attributes",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 28.0,
+    "bottom": 62.4,
+    "left": 16.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 320,
+    "y1": 420,
+    "x2": 1800,
+    "y2": 936
+  },
+  "crop_size": {
+    "width": 1480,
+    "height": 516
+  },
+  "figure_id": "Fig_L05_p18_01"
+}

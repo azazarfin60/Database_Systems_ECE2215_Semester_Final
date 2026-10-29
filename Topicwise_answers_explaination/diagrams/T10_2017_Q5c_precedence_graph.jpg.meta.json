@@ -1,0 +1,6 @@
+{
+  "description": "Precedence graph for 2017 Q.5(c) Interleaved Schedule Precedence Graph: Cycle between T1 and T2",
+  "figure_id": "T10_2017_Q5c_precedence_graph",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T10_diagrams.py"
+}

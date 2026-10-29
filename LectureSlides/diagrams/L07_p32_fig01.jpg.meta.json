@@ -1,0 +1,21 @@
+{
+  "description": "Phantom read problem schedule where transaction T1 deletes item A causing error when T2 attempts to read it again",
+  "source_image": "page_032.jpg",
+  "crop_percentages": {
+    "top": 39.0,
+    "bottom": 89.4,
+    "left": 4.0,
+    "right": 39.0
+  },
+  "crop_pixels": {
+    "x1": 106,
+    "y1": 585,
+    "x2": 1040,
+    "y2": 1341
+  },
+  "crop_size": {
+    "width": 934,
+    "height": 756
+  },
+  "figure_id": "Fig_L07_p32_01"
+}

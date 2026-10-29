@@ -1,0 +1,21 @@
+{
+  "description": "Replicated state machine architecture showing client command y := 7 submitted to leader consensus module, replicated to follower logs, and applied",
+  "source_image": "page_063.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 42.099999999999994,
+    "left": 22.4,
+    "right": 92.3
+  },
+  "crop_pixels": {
+    "x1": 330,
+    "y1": 171,
+    "x2": 1361,
+    "y2": 768
+  },
+  "crop_size": {
+    "width": 1031,
+    "height": 597
+  },
+  "figure_id": "Fig_23.10"
+}

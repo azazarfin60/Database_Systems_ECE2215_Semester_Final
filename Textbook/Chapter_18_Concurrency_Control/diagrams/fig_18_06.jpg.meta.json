@@ -1,0 +1,21 @@
+{
+  "description": "Transaction T4 (transaction T2 with unlocking delayed to the end)",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 72.0,
+    "bottom": 97.1,
+    "left": 27.0,
+    "right": 87.5
+  },
+  "crop_pixels": {
+    "x1": 398,
+    "y1": 1314,
+    "x2": 1290,
+    "y2": 1772
+  },
+  "crop_size": {
+    "width": 892,
+    "height": 458
+  },
+  "figure_id": "Fig_18.6"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Function defined in SQL: dept_count returning the number of instructors in a department",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 36.5,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 186,
+    "x2": 1371,
+    "y2": 666
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 480
+  },
+  "figure_id": "Fig_5.6"
+}

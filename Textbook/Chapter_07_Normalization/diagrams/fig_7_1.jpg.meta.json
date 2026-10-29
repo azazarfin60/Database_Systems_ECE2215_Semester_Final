@@ -1,0 +1,21 @@
+{
+  "description": "Database schema for the university example showing 11 relational schemas",
+  "source_image": "page_002.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 44.7,
+    "left": 13.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 191,
+    "y1": 164,
+    "x2": 1283,
+    "y2": 815
+  },
+  "crop_size": {
+    "width": 1092,
+    "height": 651
+  },
+  "figure_id": "Fig_7.1"
+}

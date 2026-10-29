@@ -1,0 +1,21 @@
+{
+  "description": "Result of the Cartesian product instructor x teaches",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 10.03,
+    "bottom": 66.96,
+    "left": 25.83,
+    "right": 89.02
+  },
+  "crop_pixels": {
+    "x1": 380,
+    "y1": 183,
+    "x2": 1313,
+    "y2": 1222
+  },
+  "crop_size": {
+    "width": 933,
+    "height": 1039
+  },
+  "figure_id": "Fig_2.12"
+}

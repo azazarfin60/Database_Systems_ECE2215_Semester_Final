@@ -1,0 +1,21 @@
+{
+  "description": "B+-tree file organization",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 31.9,
+    "left": 26.0,
+    "right": 88.5
+  },
+  "crop_pixels": {
+    "x1": 383,
+    "y1": 182,
+    "x2": 1305,
+    "y2": 582
+  },
+  "crop_size": {
+    "width": 922,
+    "height": 400
+  },
+  "figure_id": "Fig_14.22"
+}

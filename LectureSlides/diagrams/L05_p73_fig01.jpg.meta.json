@@ -1,0 +1,21 @@
+{
+  "description": "Visual comparison between Chen notation and IDE1FX Crow-foot notation for entity sets and relationships",
+  "source_image": "page_073.jpg",
+  "crop_percentages": {
+    "top": 19.0,
+    "bottom": 82.5,
+    "left": 18.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 360,
+    "y1": 285,
+    "x2": 1720,
+    "y2": 1237
+  },
+  "crop_size": {
+    "width": 1360,
+    "height": 952
+  },
+  "figure_id": "Fig_L05_p73_01"
+}

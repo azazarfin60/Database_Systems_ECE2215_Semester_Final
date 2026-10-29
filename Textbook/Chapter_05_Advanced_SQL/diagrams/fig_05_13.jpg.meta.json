@@ -1,0 +1,21 @@
+{
+  "description": "An instance of the prereq relation showing course_id and prereq_id pairs",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 31.8,
+    "left": 35.0,
+    "right": 78.0
+  },
+  "crop_pixels": {
+    "x1": 516,
+    "y1": 173,
+    "x2": 1150,
+    "y2": 580
+  },
+  "crop_size": {
+    "width": 634,
+    "height": 407
+  },
+  "figure_id": "Fig_5.13"
+}

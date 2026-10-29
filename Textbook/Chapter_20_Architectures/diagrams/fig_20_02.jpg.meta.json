@@ -1,0 +1,21 @@
+{
+  "description": "Speedup with increasing resources, showing linear speedup and sublinear speedup curves plotted against speedup vs resources",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 33.2,
+    "left": 30.0,
+    "right": 73.0
+  },
+  "crop_pixels": {
+    "x1": 442,
+    "y1": 164,
+    "x2": 1076,
+    "y2": 605
+  },
+  "crop_size": {
+    "width": 634,
+    "height": 441
+  },
+  "figure_id": "Fig_20.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Multiple transformations showing initial expression tree (a) and tree after pushing selections down (b)",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 65.5,
+    "bottom": 96.0,
+    "left": 22.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 1195,
+    "x2": 1357,
+    "y2": 1752
+  },
+  "crop_size": {
+    "width": 1033,
+    "height": 557
+  },
+  "figure_id": "Fig_16.4"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "State diagram of a transaction showing active, partially committed, committed, failed, and aborted states",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 67.0,
+    "bottom": 92.4,
+    "left": 30.0,
+    "right": 73.0
+  },
+  "crop_pixels": {
+    "x1": 442,
+    "y1": 1222,
+    "x2": 1076,
+    "y2": 1686
+  },
+  "crop_size": {
+    "width": 634,
+    "height": 464
+  },
+  "figure_id": "Fig_17.1"
+}

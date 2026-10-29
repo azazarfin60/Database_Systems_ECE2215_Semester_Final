@@ -1,0 +1,21 @@
+{
+  "description": "Serializable schedule under the tree protocol for transactions T10 through T13",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 59.4,
+    "left": 24.5,
+    "right": 80.0
+  },
+  "crop_pixels": {
+    "x1": 361,
+    "y1": 171,
+    "x2": 1180,
+    "y2": 1084
+  },
+  "crop_size": {
+    "width": 819,
+    "height": 913
+  },
+  "figure_id": "Fig_18.12"
+}

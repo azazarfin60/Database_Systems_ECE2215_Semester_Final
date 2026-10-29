@@ -1,0 +1,21 @@
+{
+  "description": "Division of space by a quadtree showing spatial points and quadtree node hierarchy",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 61.2,
+    "bottom": 91.0,
+    "left": 32.0,
+    "right": 71.0
+  },
+  "crop_pixels": {
+    "x1": 472,
+    "y1": 1116,
+    "x2": 1047,
+    "y2": 1660
+  },
+  "crop_size": {
+    "width": 575,
+    "height": 544
+  },
+  "figure_id": "Fig_24.4"
+}

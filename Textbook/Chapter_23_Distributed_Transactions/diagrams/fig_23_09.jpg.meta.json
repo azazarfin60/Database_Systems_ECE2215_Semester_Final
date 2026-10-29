@@ -1,0 +1,21 @@
+{
+  "description": "Example of Raft logs at a leader and four followers showing log indices 1 through 7, terms, variable assignments, and committed entries",
+  "source_image": "page_060.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 47.3,
+    "left": 23.1,
+    "right": 80.1
+  },
+  "crop_pixels": {
+    "x1": 340,
+    "y1": 171,
+    "x2": 1181,
+    "y2": 863
+  },
+  "crop_size": {
+    "width": 841,
+    "height": 692
+  },
+  "figure_id": "Fig_23.9"
+}

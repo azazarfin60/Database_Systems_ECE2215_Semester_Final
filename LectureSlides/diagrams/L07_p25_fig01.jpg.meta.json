@@ -1,0 +1,21 @@
+{
+  "description": "Example precedence graph with two transactions T1 and T2 forming a cycle",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 52.0,
+    "bottom": 84.8,
+    "left": 60.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 1600,
+    "y1": 780,
+    "x2": 2373,
+    "y2": 1272
+  },
+  "crop_size": {
+    "width": 773,
+    "height": 492
+  },
+  "figure_id": "Fig_L07_p25_01"
+}

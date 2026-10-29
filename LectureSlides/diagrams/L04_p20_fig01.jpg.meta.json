@@ -1,0 +1,21 @@
+{
+  "description": "Result relation for course natural left outer join prereq",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 24.5,
+    "bottom": 45.7,
+    "left": 19.5,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 390,
+    "y1": 367,
+    "x2": 1610,
+    "y2": 685
+  },
+  "crop_size": {
+    "width": 1220,
+    "height": 318
+  },
+  "figure_id": "Fig_L04_p20_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "An example of the sales relation with item_name, color, clothes_size, and quantity attributes",
+  "source_image": "page_043.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 91.5,
+    "left": 35.0,
+    "right": 80.0
+  },
+  "crop_pixels": {
+    "x1": 516,
+    "y1": 173,
+    "x2": 1180,
+    "y2": 1669
+  },
+  "crop_size": {
+    "width": 664,
+    "height": 1496
+  },
+  "figure_id": "Fig_5.17"
+}

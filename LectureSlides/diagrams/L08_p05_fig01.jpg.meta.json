@@ -1,0 +1,21 @@
+{
+  "description": "Schedule diagram illustrating a cascadeless schedule where transactions T2 and T3 perform safe reads only after preceding transactions T1 and T2 commit",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 21.0,
+    "bottom": 97.0,
+    "left": 19.0,
+    "right": 75.0
+  },
+  "crop_pixels": {
+    "x1": 506,
+    "y1": 315,
+    "x2": 2000,
+    "y2": 1455
+  },
+  "crop_size": {
+    "width": 1494,
+    "height": 1140
+  },
+  "figure_id": "Fig_L08_p05_01"
+}

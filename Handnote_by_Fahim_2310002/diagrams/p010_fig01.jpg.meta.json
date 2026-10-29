@@ -1,0 +1,21 @@
+{
+  "description": "Classification of Database Users into Actors on the scene and Workers behind the scene with roles and descriptions",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 1.0,
+    "bottom": 81.2,
+    "left": 5.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 82,
+    "y1": 23,
+    "x2": 1553,
+    "y2": 1899
+  },
+  "crop_size": {
+    "width": 1471,
+    "height": 1876
+  },
+  "figure_id": "p010_fig01"
+}

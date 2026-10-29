@@ -1,0 +1,21 @@
+{
+  "description": "Transaction T2 executing lock-S(A), read(A), unlock(A), lock-S(B), read(B), unlock(B), display(A + B)",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 71.5,
+    "bottom": 97.1,
+    "left": 42.0,
+    "right": 71.5
+  },
+  "crop_pixels": {
+    "x1": 619,
+    "y1": 1304,
+    "x2": 1054,
+    "y2": 1772
+  },
+  "crop_size": {
+    "width": 435,
+    "height": 468
+  },
+  "figure_id": "Fig_18.3"
+}

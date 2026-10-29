@@ -1,0 +1,21 @@
+{
+  "description": "Tree-structured database graph with nodes A through J",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 9.1,
+    "bottom": 44.0,
+    "left": 35.0,
+    "right": 79.5
+  },
+  "crop_pixels": {
+    "x1": 516,
+    "y1": 166,
+    "x2": 1172,
+    "y2": 803
+  },
+  "crop_size": {
+    "width": 656,
+    "height": 637
+  },
+  "figure_id": "Fig_18.11"
+}

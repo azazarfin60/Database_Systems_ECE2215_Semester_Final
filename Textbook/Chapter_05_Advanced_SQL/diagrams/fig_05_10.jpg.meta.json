@@ -1,0 +1,21 @@
+{
+  "description": "Trigger credits_earned to maintain total credits on student tuples upon grade updates",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 46.8,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 186,
+    "x2": 1371,
+    "y2": 854
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 668
+  },
+  "figure_id": "Fig_5.10"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Unsorted display of the instructor relation table",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 10.25,
+    "bottom": 37.97,
+    "left": 31.59,
+    "right": 71.39
+  },
+  "crop_pixels": {
+    "x1": 465,
+    "y1": 187,
+    "x2": 1053,
+    "y2": 692
+  },
+  "crop_size": {
+    "width": 588,
+    "height": 505
+  },
+  "figure_id": "Fig_2.4"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram notation for complex cardinality constraints showing 0..* and 1..1 on relationships between instructor, advisor, and student",
+  "source_image": "page_028.jpg",
+  "crop_percentages": {
+    "top": 49.0,
+    "bottom": 70.4,
+    "left": 19.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 380,
+    "y1": 735,
+    "x2": 1700,
+    "y2": 1056
+  },
+  "crop_size": {
+    "width": 1320,
+    "height": 321
+  },
+  "figure_id": "Fig_L05_p28_01"
+}

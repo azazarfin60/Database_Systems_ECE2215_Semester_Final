@@ -1,0 +1,21 @@
+{
+  "description": "Database system environment architecture showing Users/Programmers, Application Programs/Queries, DBMS Software to process and access stored data, and Stored Database and Metadata",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 1.0,
+    "bottom": 74.4,
+    "left": 8.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 132,
+    "y1": 23,
+    "x2": 1553,
+    "y2": 1740
+  },
+  "crop_size": {
+    "width": 1421,
+    "height": 1717
+  },
+  "figure_id": "p004_fig01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Architecture of a remote backup system showing primary site, network connection, log record streaming, and backup site",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 25.7,
+    "left": 20.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 164,
+    "x2": 1209,
+    "y2": 469
+  },
+  "crop_size": {
+    "width": 914,
+    "height": 305
+  },
+  "figure_id": "Fig_19.6"
+}

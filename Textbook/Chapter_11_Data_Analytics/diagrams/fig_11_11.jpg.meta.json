@@ -1,0 +1,21 @@
+{
+  "description": "Classification tree predicting credit risk based on education degree and income intervals",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 54.5,
+    "bottom": 90.2,
+    "left": 18.5,
+    "right": 84.5
+  },
+  "crop_pixels": {
+    "x1": 272,
+    "y1": 994,
+    "x2": 1246,
+    "y2": 1646
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 652
+  },
+  "figure_id": "Fig_11.11"
+}

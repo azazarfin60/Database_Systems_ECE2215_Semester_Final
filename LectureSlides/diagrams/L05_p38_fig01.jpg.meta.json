@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing incorrect use of redundant attribute dept_name inside student entity set when stud_dept relationship exists",
+  "source_image": "page_038.jpg",
+  "crop_percentages": {
+    "top": 65.0,
+    "bottom": 97.4,
+    "left": 18.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 360,
+    "y1": 975,
+    "x2": 1700,
+    "y2": 1461
+  },
+  "crop_size": {
+    "width": 1340,
+    "height": 486
+  },
+  "figure_id": "Fig_L05_p38_01"
+}

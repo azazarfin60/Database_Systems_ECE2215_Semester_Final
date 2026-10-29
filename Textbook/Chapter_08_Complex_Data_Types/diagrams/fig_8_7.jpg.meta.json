@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with composite, multivalued, and derived attributes for instructor entity",
+  "source_image": "page_036.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 47.0,
+    "left": 34.0,
+    "right": 66.0
+  },
+  "crop_pixels": {
+    "x1": 501,
+    "y1": 164,
+    "x2": 973,
+    "y2": 857
+  },
+  "crop_size": {
+    "width": 472,
+    "height": 693
+  },
+  "figure_id": "Fig_8.7"
+}

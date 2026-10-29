@@ -1,0 +1,21 @@
+{
+  "description": "Example of logged actions during normal operation and recovery showing redo pass, undo pass, and compensation log records",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 59.5,
+    "bottom": 91.9,
+    "left": 14.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 1085,
+    "x2": 1312,
+    "y2": 1677
+  },
+  "crop_size": {
+    "width": 1106,
+    "height": 592
+  },
+  "figure_id": "Fig_19.5"
+}

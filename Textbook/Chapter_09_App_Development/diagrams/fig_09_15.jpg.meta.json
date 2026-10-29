@@ -1,0 +1,21 @@
+{
+  "description": "Object-Relational Mapping (ORM) model definitions for Student and Instructor in Django using models.Model",
+  "source_image": "page_032.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 47.2,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 173,
+    "x2": 1298,
+    "y2": 861
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 688
+  },
+  "figure_id": "Fig_9.15"
+}

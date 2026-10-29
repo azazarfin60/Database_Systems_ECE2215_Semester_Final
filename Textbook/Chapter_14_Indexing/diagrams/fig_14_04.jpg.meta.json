@@ -1,0 +1,21 @@
+{
+  "description": "Dense index with search key dept_name",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 39.7,
+    "left": 15.5,
+    "right": 87.5
+  },
+  "crop_pixels": {
+    "x1": 228,
+    "y1": 155,
+    "x2": 1290,
+    "y2": 724
+  },
+  "crop_size": {
+    "width": 1062,
+    "height": 569
+  },
+  "figure_id": "Fig_14.4"
+}

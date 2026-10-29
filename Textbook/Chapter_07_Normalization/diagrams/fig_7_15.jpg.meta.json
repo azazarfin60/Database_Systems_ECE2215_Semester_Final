@@ -1,0 +1,21 @@
+{
+  "description": "An illegal r2 relation showing violation of multivalued dependency",
+  "source_image": "page_036.jpg",
+  "crop_percentages": {
+    "top": 81.5,
+    "bottom": 96.7,
+    "left": 24.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 1487,
+    "x2": 1121,
+    "y2": 1764
+  },
+  "crop_size": {
+    "width": 767,
+    "height": 277
+  },
+  "figure_id": "Fig_7.15"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Generation of unique timestamps by concatenating a local unique timestamp with a unique site identifier to produce a global unique identifier",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 27.0,
+    "left": 26.3,
+    "right": 88.6
+  },
+  "crop_pixels": {
+    "x1": 387,
+    "y1": 171,
+    "x2": 1306,
+    "y2": 492
+  },
+  "crop_size": {
+    "width": 919,
+    "height": 321
+  },
+  "figure_id": "Fig_23.7"
+}

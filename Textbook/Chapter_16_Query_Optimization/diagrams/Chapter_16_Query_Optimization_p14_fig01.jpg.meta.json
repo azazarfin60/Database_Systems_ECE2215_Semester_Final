@@ -1,0 +1,21 @@
+{
+  "description": "Procedure genAllEquivalent to generate all equivalent expressions using equivalence rules",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 39.8,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 182,
+    "x2": 1283,
+    "y2": 726
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 544
+  },
+  "figure_id": "Fig_16.5"
+}

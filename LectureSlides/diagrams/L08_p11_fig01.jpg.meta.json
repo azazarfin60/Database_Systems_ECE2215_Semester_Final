@@ -1,0 +1,21 @@
+{
+  "description": "Schedule diagram showing deadlock between transactions T3 and T4 holding and waiting for locks on data items A and B",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 26.0,
+    "bottom": 81.0,
+    "left": 42.0,
+    "right": 72.0
+  },
+  "crop_pixels": {
+    "x1": 1120,
+    "y1": 390,
+    "x2": 1920,
+    "y2": 1215
+  },
+  "crop_size": {
+    "width": 800,
+    "height": 825
+  },
+  "figure_id": "Fig_L08_p11_01"
+}

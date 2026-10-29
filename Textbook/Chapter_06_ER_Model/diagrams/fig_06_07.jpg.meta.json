@@ -1,0 +1,21 @@
+{
+  "description": "Composite attributes instructor_name and address with component attributes",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 33.3,
+    "bottom": 49.13,
+    "left": 22.73,
+    "right": 80.22
+  },
+  "crop_pixels": {
+    "x1": 335,
+    "y1": 607,
+    "x2": 1183,
+    "y2": 896
+  },
+  "crop_size": {
+    "width": 848,
+    "height": 289
+  },
+  "figure_id": "Fig_6.7"
+}

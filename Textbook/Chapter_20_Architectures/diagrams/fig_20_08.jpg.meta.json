@@ -1,0 +1,21 @@
+{
+  "description": "Storage-area network (SAN) connecting processor nodes via a SAN switch to storage arrays",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 42.2,
+    "left": 27.5,
+    "right": 87.5
+  },
+  "crop_pixels": {
+    "x1": 405,
+    "y1": 164,
+    "x2": 1290,
+    "y2": 770
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 606
+  },
+  "figure_id": "Fig_20.8"
+}

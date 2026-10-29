@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram showing diamond relationship set advisor between instructor and student",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 9.73,
+    "bottom": 20.79,
+    "left": 28.32,
+    "right": 86.44
+  },
+  "crop_pixels": {
+    "x1": 417,
+    "y1": 177,
+    "x2": 1274,
+    "y2": 379
+  },
+  "crop_size": {
+    "width": 857,
+    "height": 202
+  },
+  "figure_id": "Fig_6.3"
+}

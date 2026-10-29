@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram for modeling an online bookstore database",
+  "source_image": "page_061.jpg",
+  "crop_percentages": {
+    "top": 9.78,
+    "bottom": 43.61,
+    "left": 33.85,
+    "right": 81.01
+  },
+  "crop_pixels": {
+    "x1": 499,
+    "y1": 178,
+    "x2": 1194,
+    "y2": 795
+  },
+  "crop_size": {
+    "width": 695,
+    "height": 617
+  },
+  "figure_id": "Fig_6.30"
+}

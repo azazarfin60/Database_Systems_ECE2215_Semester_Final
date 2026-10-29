@@ -1,0 +1,21 @@
+{
+  "description": "Parallel processing of MapReduce job illustrating Master coordinating Map 1..n on input partitions, intermediate local writes, remote read/sort, and Reduce 1..m producing output files.",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 45.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 173,
+    "x2": 1327,
+    "y2": 830
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 657
+  },
+  "figure_id": "Fig_10.8"
+}

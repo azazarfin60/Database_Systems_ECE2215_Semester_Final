@@ -1,0 +1,21 @@
+{
+  "description": "Comparison of structured data (CRM, sales, Excel, finance tables) and unstructured data (chat, email, social media, voice, surveys) feeding into database storage",
+  "source_image": "page_002.jpg",
+  "crop_percentages": {
+    "top": 34.0,
+    "bottom": 89.4,
+    "left": 41.5,
+    "right": 100
+  },
+  "crop_pixels": {
+    "x1": 1106,
+    "y1": 510,
+    "x2": 2667,
+    "y2": 1341
+  },
+  "crop_size": {
+    "width": 1561,
+    "height": 831
+  },
+  "figure_id": "Fig_L01_p02_01"
+}

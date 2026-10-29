@@ -1,0 +1,21 @@
+{
+  "description": "The in_dep relation instance showing instructor and department attributes with redundancy",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 42.7,
+    "left": 14.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 164,
+    "x2": 1371,
+    "y2": 779
+  },
+  "crop_size": {
+    "width": 1165,
+    "height": 615
+  },
+  "figure_id": "Fig_7.2"
+}

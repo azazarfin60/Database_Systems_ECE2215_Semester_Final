@@ -1,0 +1,21 @@
+{
+  "description": "The advisor relation table with attributes s_id and i_id",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 65.7,
+    "bottom": 87.4,
+    "left": 43.3,
+    "right": 59.8
+  },
+  "crop_pixels": {
+    "x1": 638,
+    "y1": 1199,
+    "x2": 882,
+    "y2": 1595
+  },
+  "crop_size": {
+    "width": 244,
+    "height": 396
+  },
+  "figure_id": "Fig_A.10"
+}

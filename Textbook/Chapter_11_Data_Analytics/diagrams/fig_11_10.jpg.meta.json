@@ -1,0 +1,21 @@
+{
+  "description": "A formatted quarterly sales report for Acme Supply Company showing regions, categories, and subtotals",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 38.7,
+    "left": 25.0,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 155,
+    "x2": 1320,
+    "y2": 706
+  },
+  "crop_size": {
+    "width": 952,
+    "height": 551
+  },
+  "figure_id": "Fig_11.10"
+}

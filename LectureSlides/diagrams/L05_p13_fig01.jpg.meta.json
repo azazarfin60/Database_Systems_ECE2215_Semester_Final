@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing relationship set advisor with descriptive attribute date connected to instructor and student entity sets",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 19.0,
+    "bottom": 58.6,
+    "left": 11.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 220,
+    "y1": 285,
+    "x2": 1900,
+    "y2": 879
+  },
+  "crop_size": {
+    "width": 1680,
+    "height": 594
+  },
+  "figure_id": "Fig_L05_p13_01"
+}

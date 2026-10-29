@@ -1,0 +1,21 @@
+{
+  "description": "Venn diagram illustrating Left Join with set A and intersection shaded",
+  "source_image": "page_052.jpg",
+  "crop_percentages": {
+    "top": 19.0,
+    "bottom": 32.4,
+    "left": 55.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 909,
+    "y1": 444,
+    "x2": 1256,
+    "y2": 757
+  },
+  "crop_size": {
+    "width": 347,
+    "height": 313
+  },
+  "figure_id": "Fig_p052_01"
+}

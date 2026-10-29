@@ -1,0 +1,21 @@
+{
+  "description": "Sequential file for instructor records",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 42.7,
+    "left": 24.0,
+    "right": 78.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 155,
+    "x2": 1150,
+    "y2": 779
+  },
+  "crop_size": {
+    "width": 796,
+    "height": 624
+  },
+  "figure_id": "Fig_13.7"
+}

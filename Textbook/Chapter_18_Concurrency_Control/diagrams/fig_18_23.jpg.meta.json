@@ -1,0 +1,21 @@
+{
+  "description": "Latch-free insertion and deletion on a list using compare-and-swap",
+  "source_image": "page_055.jpg",
+  "crop_percentages": {
+    "top": 10.1,
+    "bottom": 54.3,
+    "left": 28.5,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 420,
+    "y1": 184,
+    "x2": 1268,
+    "y2": 990
+  },
+  "crop_size": {
+    "width": 848,
+    "height": 806
+  },
+  "figure_id": "Fig_18.23"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Bank database schema with primary keys underlined: branch, customer, loan, borrower, account, and depositor relations",
+  "source_image": "page_051.jpg",
+  "crop_percentages": {
+    "top": 73.5,
+    "bottom": 96.2,
+    "left": 25.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 1341,
+    "x2": 1298,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 930,
+    "height": 414
+  },
+  "figure_id": "Fig_15.14"
+}

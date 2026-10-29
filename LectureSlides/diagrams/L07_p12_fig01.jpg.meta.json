@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 1: A serial schedule where transaction T1 is followed by transaction T2",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 12.0,
+    "bottom": 79.8,
+    "left": 60.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 1600,
+    "y1": 180,
+    "x2": 2560,
+    "y2": 1197
+  },
+  "crop_size": {
+    "width": 960,
+    "height": 1017
+  },
+  "figure_id": "Fig_L07_p12_01"
+}

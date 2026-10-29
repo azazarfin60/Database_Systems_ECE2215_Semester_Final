@@ -1,0 +1,21 @@
+{
+  "description": "The department relation",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 80.0,
+    "bottom": 96.2,
+    "left": 39.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 575,
+    "y1": 1460,
+    "x2": 1121,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 546,
+    "height": 295
+  },
+  "figure_id": "Fig_13.9"
+}

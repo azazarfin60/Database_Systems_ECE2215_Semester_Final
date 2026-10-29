@@ -1,0 +1,21 @@
+{
+  "description": "Django view definition person_query_model illustrating database querying using Python model objects and filters",
+  "source_image": "page_033.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 67.7,
+    "left": 21.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 173,
+    "x2": 1386,
+    "y2": 1235
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 1062
+  },
+  "figure_id": "Fig_9.16"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "In-memory columnar data representation",
+  "source_image": "page_031.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 60.7,
+    "left": 27.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 398,
+    "y1": 155,
+    "x2": 1283,
+    "y2": 1107
+  },
+  "crop_size": {
+    "width": 885,
+    "height": 952
+  },
+  "figure_id": "Fig_13.16"
+}

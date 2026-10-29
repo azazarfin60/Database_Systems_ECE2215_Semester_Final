@@ -1,0 +1,21 @@
+{
+  "description": "Result relation for course full outer join prereq using (course_id)",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 48.5,
+    "bottom": 70.7,
+    "left": 26.5,
+    "right": 78.5
+  },
+  "crop_pixels": {
+    "x1": 530,
+    "y1": 727,
+    "x2": 1570,
+    "y2": 1060
+  },
+  "crop_size": {
+    "width": 1040,
+    "height": 333
+  },
+  "figure_id": "Fig_L04_p21_02"
+}

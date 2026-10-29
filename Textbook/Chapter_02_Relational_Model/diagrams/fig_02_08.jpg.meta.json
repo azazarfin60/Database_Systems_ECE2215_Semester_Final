@@ -1,0 +1,21 @@
+{
+  "description": "Schema of the university database showing all relational schemas with primary keys underlined",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 62.7,
+    "bottom": 91.1,
+    "left": 22.0,
+    "right": 92.9
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 1144,
+    "x2": 1370,
+    "y2": 1662
+  },
+  "crop_size": {
+    "width": 1046,
+    "height": 518
+  },
+  "figure_id": "Fig_2.8"
+}

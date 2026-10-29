@@ -1,0 +1,21 @@
+{
+  "description": "Schedule table showing concurrent execution of transactions T25 and T26 tested under Timestamp Ordering protocol",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 16.0,
+    "bottom": 62.2,
+    "left": 50.0,
+    "right": 79.0
+  },
+  "crop_pixels": {
+    "x1": 1333,
+    "y1": 240,
+    "x2": 2106,
+    "y2": 933
+  },
+  "crop_size": {
+    "width": 773,
+    "height": 693
+  },
+  "figure_id": "Fig_L08_p30_01"
+}

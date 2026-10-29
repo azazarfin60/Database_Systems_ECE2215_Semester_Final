@@ -1,0 +1,21 @@
+{
+  "description": "Relationship set advisor shown pictorially with lines connecting instructor entities to student entities",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 34.0,
+    "bottom": 78.2,
+    "left": 17.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 340,
+    "y1": 510,
+    "x2": 1540,
+    "y2": 1173
+  },
+  "crop_size": {
+    "width": 1200,
+    "height": 663
+  },
+  "figure_id": "Fig_L05_p10_01"
+}

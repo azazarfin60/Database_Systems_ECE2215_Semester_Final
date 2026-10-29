@@ -1,0 +1,21 @@
+{
+  "description": "Fragment-and-replicate schemes comparing (a) asymmetric fragment and replicate where r is fragmented across nodes N1..Nn and s is replicated, and (b) symmetric fragment and replicate on an n by m grid of nodes Ni,j",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 52.2,
+    "left": 25.0,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 164,
+    "x2": 1320,
+    "y2": 952
+  },
+  "crop_size": {
+    "width": 952,
+    "height": 788
+  },
+  "figure_id": "Fig_22.3"
+}

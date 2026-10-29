@@ -1,0 +1,21 @@
+{
+  "description": "Comprehensive summary table comparing E-R notation and UML class diagram notation",
+  "source_image": "page_078.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 94.0,
+    "left": 23.5,
+    "right": 77.5
+  },
+  "crop_pixels": {
+    "x1": 470,
+    "y1": 172,
+    "x2": 1550,
+    "y2": 1410
+  },
+  "crop_size": {
+    "width": 1080,
+    "height": 1238
+  },
+  "figure_id": "Fig_L05_p78_01"
+}

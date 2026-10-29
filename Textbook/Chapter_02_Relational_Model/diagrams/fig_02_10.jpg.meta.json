@@ -1,0 +1,21 @@
+{
+  "description": "Result of selection operation with predicate dept_name = Physics on instructor relation",
+  "source_image": "page_015.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 17.32,
+    "left": 38.98,
+    "right": 75.93
+  },
+  "crop_pixels": {
+    "x1": 574,
+    "y1": 187,
+    "x2": 1119,
+    "y2": 316
+  },
+  "crop_size": {
+    "width": 545,
+    "height": 129
+  },
+  "figure_id": "Fig_2.10"
+}

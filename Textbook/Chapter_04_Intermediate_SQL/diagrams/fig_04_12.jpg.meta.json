@@ -1,0 +1,21 @@
+{
+  "description": "Employee database schema",
+  "source_image": "page_053.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 27.5,
+    "left": 41.0,
+    "right": 74.5
+  },
+  "crop_pixels": {
+    "x1": 604,
+    "y1": 209,
+    "x2": 1098,
+    "y2": 501
+  },
+  "crop_size": {
+    "width": 494,
+    "height": 292
+  },
+  "figure_id": "Fig_4.12"
+}

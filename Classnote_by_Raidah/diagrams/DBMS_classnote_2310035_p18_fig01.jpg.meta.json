@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn ER diagram snippet illustrating degree of relationship connecting Date, Instructor, and Student entities",
+  "source_image": "enhanced_018.jpg",
+  "crop_percentages": {
+    "top": 6.0,
+    "bottom": 27.4,
+    "left": 54.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 1263,
+    "y1": 99,
+    "x2": 1917,
+    "y2": 452
+  },
+  "crop_size": {
+    "width": 654,
+    "height": 353
+  },
+  "figure_id": "Fig_DBMS_p18_01"
+}

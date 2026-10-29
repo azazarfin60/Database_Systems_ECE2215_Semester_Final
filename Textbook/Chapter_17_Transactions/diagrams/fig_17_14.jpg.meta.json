@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 9: a nonrecoverable schedule where T7 commits before T6",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 25.900000000000002,
+    "left": 40.2,
+    "right": 62.8
+  },
+  "crop_pixels": {
+    "x1": 592,
+    "y1": 162,
+    "x2": 926,
+    "y2": 472
+  },
+  "crop_size": {
+    "width": 334,
+    "height": 310
+  },
+  "figure_id": "Fig_17.14"
+}

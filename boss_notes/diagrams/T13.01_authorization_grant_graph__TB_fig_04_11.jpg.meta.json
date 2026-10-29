@@ -1,0 +1,21 @@
+{
+  "description": "Authorization-grant graph (U1, U2, \u2026 , U5 are users and DBA refers to the database administrator)",
+  "source_image": "page_047.jpg",
+  "crop_percentages": {
+    "top": 66.0,
+    "bottom": 94.8,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 1204,
+    "x2": 1371,
+    "y2": 1730
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 526
+  },
+  "figure_id": "Fig_4.11"
+}

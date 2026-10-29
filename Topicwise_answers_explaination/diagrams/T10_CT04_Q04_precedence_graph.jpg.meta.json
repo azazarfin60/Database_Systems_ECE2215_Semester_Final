@@ -1,0 +1,6 @@
+{
+  "description": "Precedence graph for CT-04 Q.04 Precedence Graph (T1, T2, T3): Cycle between T1 and T3 on item B",
+  "figure_id": "T10_CT04_Q04_precedence_graph",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T10_diagrams.py"
+}

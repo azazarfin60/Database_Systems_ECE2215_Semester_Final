@@ -1,0 +1,21 @@
+{
+  "description": "Mapping cardinalities: (a) Many-to-one, (b) Many-to-many relationship sets",
+  "source_image": "page_015.jpg",
+  "crop_percentages": {
+    "top": 63.89,
+    "bottom": 88.71,
+    "left": 28.41,
+    "right": 86.41
+  },
+  "crop_pixels": {
+    "x1": 419,
+    "y1": 1165,
+    "x2": 1274,
+    "y2": 1618
+  },
+  "crop_size": {
+    "width": 855,
+    "height": 453
+  },
+  "figure_id": "Fig_6.10"
+}

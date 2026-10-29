@@ -1,0 +1,21 @@
+{
+  "description": "A non-conflict-serializable schedule for transactions T1 and T2",
+  "source_image": "page_057.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 43.4,
+    "left": 33.5,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 494,
+    "y1": 171,
+    "x2": 1187,
+    "y2": 792
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 621
+  },
+  "figure_id": "Fig_18.24"
+}

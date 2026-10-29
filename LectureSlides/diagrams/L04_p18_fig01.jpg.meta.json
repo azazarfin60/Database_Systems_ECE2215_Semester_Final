@@ -1,0 +1,21 @@
+{
+  "description": "Result relation for student natural join takes combining common attribute ID",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 12.0,
+    "bottom": 92.8,
+    "left": 18.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 360,
+    "y1": 180,
+    "x2": 1840,
+    "y2": 1392
+  },
+  "crop_size": {
+    "width": 1480,
+    "height": 1212
+  },
+  "figure_id": "Fig_L04_p18_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Pictorial representation of relational algebra equivalence rules 5, 6.a, and 7.a",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 50.5,
+    "left": 18.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 265,
+    "y1": 155,
+    "x2": 1239,
+    "y2": 921
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 766
+  },
+  "figure_id": "Fig_16.3"
+}

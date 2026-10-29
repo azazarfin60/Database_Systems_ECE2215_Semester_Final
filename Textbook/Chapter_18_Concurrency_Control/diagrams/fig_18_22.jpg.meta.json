@@ -1,0 +1,21 @@
+{
+  "description": "Insertion code that is unsafe with concurrent inserts",
+  "source_image": "page_054.jpg",
+  "crop_percentages": {
+    "top": 10.1,
+    "bottom": 30.5,
+    "left": 21.5,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 317,
+    "y1": 184,
+    "x2": 1194,
+    "y2": 556
+  },
+  "crop_size": {
+    "width": 877,
+    "height": 372
+  },
+  "figure_id": "Fig_18.22"
+}

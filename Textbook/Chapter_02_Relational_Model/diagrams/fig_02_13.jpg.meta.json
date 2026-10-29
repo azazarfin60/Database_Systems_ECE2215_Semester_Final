@@ -1,0 +1,21 @@
+{
+  "description": "Result of selection instructor.ID = teaches.ID on instructor x teaches",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 10.03,
+    "bottom": 38.63,
+    "left": 25.76,
+    "right": 89.08
+  },
+  "crop_pixels": {
+    "x1": 379,
+    "y1": 183,
+    "x2": 1313,
+    "y2": 704
+  },
+  "crop_size": {
+    "width": 934,
+    "height": 521
+  },
+  "figure_id": "Fig_2.13"
+}

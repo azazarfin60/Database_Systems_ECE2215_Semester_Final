@@ -1,0 +1,21 @@
+{
+  "description": "Extendable hash structure after 11 insertions with overflow bucket",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 49.8,
+    "bottom": 91.2,
+    "left": 20.0,
+    "right": 94.5
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 908,
+    "x2": 1393,
+    "y2": 1664
+  },
+  "crop_size": {
+    "width": 1098,
+    "height": 756
+  },
+  "figure_id": "Fig_24.15"
+}

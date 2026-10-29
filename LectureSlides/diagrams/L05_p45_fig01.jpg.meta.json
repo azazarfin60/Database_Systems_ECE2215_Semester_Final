@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram of relationship set advisor connecting instructor and student",
+  "source_image": "page_045.jpg",
+  "crop_percentages": {
+    "top": 48.0,
+    "bottom": 72.0,
+    "left": 18.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 360,
+    "y1": 720,
+    "x2": 1700,
+    "y2": 1080
+  },
+  "crop_size": {
+    "width": 1340,
+    "height": 360
+  },
+  "figure_id": "Fig_L05_p45_01"
+}

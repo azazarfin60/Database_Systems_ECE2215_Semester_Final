@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 3: showing only the read and write instructions of T1 and T2",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 31.8,
+    "left": 39.9,
+    "right": 63.1
+  },
+  "crop_pixels": {
+    "x1": 588,
+    "y1": 162,
+    "x2": 930,
+    "y2": 580
+  },
+  "crop_size": {
+    "width": 342,
+    "height": 418
+  },
+  "figure_id": "Fig_17.6"
+}

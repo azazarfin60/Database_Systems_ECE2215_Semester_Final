@@ -1,0 +1,21 @@
+{
+  "description": "Pseudocode of map functions for counting file accesses by tokenizing web log records and filtering for specific URL paths.",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 11.5,
+    "bottom": 39.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 147,
+    "y1": 209,
+    "x2": 1327,
+    "y2": 720
+  },
+  "crop_size": {
+    "width": 1180,
+    "height": 511
+  },
+  "figure_id": "Fig_10.5"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 3: a concurrent schedule equivalent to serial schedule 1",
+  "source_image": "page_016.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 45.599999999999994,
+    "left": 36.4,
+    "right": 66.6
+  },
+  "crop_pixels": {
+    "x1": 536,
+    "y1": 162,
+    "x2": 982,
+    "y2": 832
+  },
+  "crop_size": {
+    "width": 446,
+    "height": 670
+  },
+  "figure_id": "Fig_17.4"
+}

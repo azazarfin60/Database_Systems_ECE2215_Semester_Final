@@ -1,0 +1,21 @@
+{
+  "description": "Comparison of ternary relationship versus three binary relationships",
+  "source_image": "page_046.jpg",
+  "crop_percentages": {
+    "top": 72.77,
+    "bottom": 90.53,
+    "left": 20.52,
+    "right": 82.51
+  },
+  "crop_pixels": {
+    "x1": 302,
+    "y1": 1328,
+    "x2": 1217,
+    "y2": 1652
+  },
+  "crop_size": {
+    "width": 915,
+    "height": 324
+  },
+  "figure_id": "Fig_6.25"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Database access from Python using psycopg2 driver with cursor execution and exception handling",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 55.5,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 186,
+    "x2": 1283,
+    "y2": 1012
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 826
+  },
+  "figure_id": "Fig_5.4"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Local wait-for graphs at site S1 with transactions T1, T2, T3, T5 and site S2 with transactions T2, T3, T4",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 31.1,
+    "left": 32.9,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 485,
+    "y1": 171,
+    "x2": 1209,
+    "y2": 567
+  },
+  "crop_size": {
+    "width": 724,
+    "height": 396
+  },
+  "figure_id": "Fig_23.4"
+}

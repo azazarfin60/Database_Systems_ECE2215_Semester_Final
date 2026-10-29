@@ -1,0 +1,21 @@
+{
+  "description": "The teaches relation table with attributes ID, course_id, sec_id, semester, and year",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 52.9,
+    "bottom": 86.4,
+    "left": 30.5,
+    "right": 72.6
+  },
+  "crop_pixels": {
+    "x1": 449,
+    "y1": 965,
+    "x2": 1070,
+    "y2": 1576
+  },
+  "crop_size": {
+    "width": 621,
+    "height": 611
+  },
+  "figure_id": "Fig_A.7"
+}

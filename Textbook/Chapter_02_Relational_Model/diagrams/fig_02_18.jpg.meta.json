@@ -1,0 +1,21 @@
+{
+  "description": "Bank database schema showing branch, customer, loan, borrower, account, and depositor relations",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 27.23,
+    "left": 22.03,
+    "right": 92.88
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 187,
+    "x2": 1369,
+    "y2": 496
+  },
+  "crop_size": {
+    "width": 1045,
+    "height": 309
+  },
+  "figure_id": "Fig_2.18"
+}

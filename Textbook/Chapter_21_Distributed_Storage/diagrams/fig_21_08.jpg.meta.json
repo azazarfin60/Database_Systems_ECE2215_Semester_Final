@@ -1,0 +1,21 @@
+{
+  "description": "Architecture of a cloud data storage system showing client requests entering through routers, routing to tablet servers managing tablets, and coordinated by a tablet controller with master copy of partition table / tablet mapping",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 46.0,
+    "left": 23.5,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 346,
+    "y1": 155,
+    "x2": 1342,
+    "y2": 839
+  },
+  "crop_size": {
+    "width": 996,
+    "height": 684
+  },
+  "figure_id": "Fig_21.8"
+}

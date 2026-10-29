@@ -1,0 +1,21 @@
+{
+  "description": "Instructor relation and the resulting aggregated table showing average salary grouped by department name",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 37.0,
+    "bottom": 87.2,
+    "left": 6.5,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 130,
+    "y1": 555,
+    "x2": 1720,
+    "y2": 1308
+  },
+  "crop_size": {
+    "width": 1590,
+    "height": 753
+  },
+  "figure_id": "Fig_L02_p29_1"
+}

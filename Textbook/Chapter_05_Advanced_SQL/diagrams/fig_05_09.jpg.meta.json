@@ -1,0 +1,21 @@
+{
+  "description": "Using triggers to maintain referential integrity on section and timeslot tables",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 10.2,
+    "bottom": 62.5,
+    "left": 22.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 186,
+    "x2": 1371,
+    "y2": 1140
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 954
+  },
+  "figure_id": "Fig_5.9"
+}

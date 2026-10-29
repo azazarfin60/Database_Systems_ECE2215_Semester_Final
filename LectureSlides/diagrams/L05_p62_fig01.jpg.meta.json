@@ -1,0 +1,21 @@
+{
+  "description": "Examples of common mistakes in E-R diagrams showing (a) incorrect use of attribute dept_name in student and (b) erroneous use of relationship attributes with assignment marks",
+  "source_image": "page_062.jpg",
+  "crop_percentages": {
+    "top": 22.5,
+    "bottom": 92.5,
+    "left": 13.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 260,
+    "y1": 337,
+    "x2": 1660,
+    "y2": 1387
+  },
+  "crop_size": {
+    "width": 1400,
+    "height": 1050
+  },
+  "figure_id": "Fig_L05_p62_01"
+}

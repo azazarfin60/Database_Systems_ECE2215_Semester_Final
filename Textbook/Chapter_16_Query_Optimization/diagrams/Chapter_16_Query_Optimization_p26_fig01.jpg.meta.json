@@ -1,0 +1,21 @@
+{
+  "description": "Dynamic-programming algorithm FindBestPlan for join-order optimization",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 82.5,
+    "left": 14.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 206,
+    "y1": 178,
+    "x2": 1298,
+    "y2": 1505
+  },
+  "crop_size": {
+    "width": 1092,
+    "height": 1327
+  },
+  "figure_id": "Fig_16.7"
+}

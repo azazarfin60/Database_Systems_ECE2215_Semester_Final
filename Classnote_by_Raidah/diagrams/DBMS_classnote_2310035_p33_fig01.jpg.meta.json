@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn RAID 3 architecture diagram showing bit-interleaved data stripping across Disks 0-2 with dedicated parity disk on Disk 3",
+  "source_image": "enhanced_033.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 26.0,
+    "left": 5.0,
+    "right": 36.0
+  },
+  "crop_pixels": {
+    "x1": 116,
+    "y1": 132,
+    "x2": 842,
+    "y2": 429
+  },
+  "crop_size": {
+    "width": 726,
+    "height": 297
+  },
+  "figure_id": "Fig_DBMS_p33_01"
+}

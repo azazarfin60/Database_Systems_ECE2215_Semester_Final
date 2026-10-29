@@ -1,0 +1,21 @@
+{
+  "description": "The instructor relation table with attributes ID, name, dept_name, and salary",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 62.6,
+    "bottom": 90.2,
+    "left": 37.7,
+    "right": 77.2
+  },
+  "crop_pixels": {
+    "x1": 556,
+    "y1": 1142,
+    "x2": 1138,
+    "y2": 1646
+  },
+  "crop_size": {
+    "width": 582,
+    "height": 504
+  },
+  "figure_id": "Fig_A.5"
+}

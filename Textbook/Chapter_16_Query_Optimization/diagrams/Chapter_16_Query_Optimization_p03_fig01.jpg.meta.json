@@ -1,0 +1,21 @@
+{
+  "description": "Query evaluation plan showing pipelined operators, hash join, sort operations, and merge join",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 38.5,
+    "left": 30.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 442,
+    "y1": 155,
+    "x2": 1239,
+    "y2": 702
+  },
+  "crop_size": {
+    "width": 797,
+    "height": 547
+  },
+  "figure_id": "Fig_16.2"
+}

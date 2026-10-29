@@ -1,0 +1,21 @@
+{
+  "description": "Computing canonical cover Fc for a set of functional dependencies F",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 38.2,
+    "left": 17.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 164,
+    "x2": 1224,
+    "y2": 697
+  },
+  "crop_size": {
+    "width": 974,
+    "height": 533
+  },
+  "figure_id": "Fig_7.9"
+}

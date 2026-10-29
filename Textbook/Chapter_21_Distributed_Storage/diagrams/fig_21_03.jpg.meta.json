@@ -1,0 +1,21 @@
+{
+  "description": "Example of a partition table mapping Value ranges to Tablet ID (Tablet0 to Tablet6) and Node ID (Node0, Node1, Node2)",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 70.5,
+    "bottom": 92.2,
+    "left": 34.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 501,
+    "y1": 1286,
+    "x2": 1194,
+    "y2": 1682
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 396
+  },
+  "figure_id": "Fig_21.3"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 1 showing concurrent execution of T1 and T2 leading to an inconsistent state",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 61.4,
+    "left": 22.0,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 171,
+    "x2": 1187,
+    "y2": 1120
+  },
+  "crop_size": {
+    "width": 863,
+    "height": 949
+  },
+  "figure_id": "Fig_18.4"
+}

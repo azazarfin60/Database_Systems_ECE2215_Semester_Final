@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing total participation of student in advisor indicated by a double line and partial participation of instructor",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 25.5,
+    "bottom": 47.2,
+    "left": 15.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 300,
+    "y1": 382,
+    "x2": 1700,
+    "y2": 708
+  },
+  "crop_size": {
+    "width": 1400,
+    "height": 326
+  },
+  "figure_id": "Fig_L05_p27_01"
+}

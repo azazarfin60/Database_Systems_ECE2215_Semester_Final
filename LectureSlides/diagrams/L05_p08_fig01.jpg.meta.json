@@ -1,0 +1,21 @@
+{
+  "description": "Entity sets instructor and student represented in ER diagram notation with primary keys underlined",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 45.0,
+    "bottom": 81.0,
+    "left": 18.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 360,
+    "y1": 675,
+    "x2": 1520,
+    "y2": 1215
+  },
+  "crop_size": {
+    "width": 1160,
+    "height": 540
+  },
+  "figure_id": "Fig_L05_p08_01"
+}

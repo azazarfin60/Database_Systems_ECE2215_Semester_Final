@@ -1,0 +1,21 @@
+{
+  "description": "Structure of an internal node of a buffer tree",
+  "source_image": "page_047.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 24.7,
+    "left": 21.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 155,
+    "x2": 1386,
+    "y2": 450
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 295
+  },
+  "figure_id": "Fig_14.27"
+}

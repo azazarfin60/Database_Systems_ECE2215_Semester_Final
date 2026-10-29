@@ -1,0 +1,21 @@
+{
+  "description": "HTML page with client-side JavaScript validate() function for validating form input before submission",
+  "source_image": "page_020.jpg",
+  "crop_percentages": {
+    "top": 45.0,
+    "bottom": 95.7,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 821,
+    "x2": 1298,
+    "y2": 1746
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 925
+  },
+  "figure_id": "Fig_9.11"
+}

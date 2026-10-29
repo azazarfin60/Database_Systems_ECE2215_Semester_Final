@@ -1,0 +1,21 @@
+{
+  "description": "The c2 relation, listing courses taught in Spring 2018",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 32.0,
+    "left": 22.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 182,
+    "x2": 1253,
+    "y2": 584
+  },
+  "crop_size": {
+    "width": 929,
+    "height": 402
+  },
+  "figure_id": "Fig_3.9"
+}

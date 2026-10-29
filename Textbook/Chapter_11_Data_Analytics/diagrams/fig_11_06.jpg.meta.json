@@ -1,0 +1,21 @@
+{
+  "description": "Hierarchies on dimensions showing time hierarchy and location hierarchy",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 53.0,
+    "bottom": 88.2,
+    "left": 26.5,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 390,
+    "y1": 967,
+    "x2": 1298,
+    "y2": 1609
+  },
+  "crop_size": {
+    "width": 908,
+    "height": 642
+  },
+  "figure_id": "Fig_11.6"
+}

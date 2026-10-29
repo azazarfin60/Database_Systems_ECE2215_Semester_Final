@@ -1,0 +1,21 @@
+{
+  "description": "Example of a Merkle tree on 8 data items showing hash values of items on the left and tree nodes with concatenated hashes and identifiers",
+  "source_image": "page_048.jpg",
+  "crop_percentages": {
+    "top": 66.0,
+    "bottom": 95.39999999999999,
+    "left": 15.600000000000001,
+    "right": 86.7
+  },
+  "crop_pixels": {
+    "x1": 230,
+    "y1": 1204,
+    "x2": 1278,
+    "y2": 1741
+  },
+  "crop_size": {
+    "width": 1048,
+    "height": 537
+  },
+  "figure_id": "Fig_23.8"
+}

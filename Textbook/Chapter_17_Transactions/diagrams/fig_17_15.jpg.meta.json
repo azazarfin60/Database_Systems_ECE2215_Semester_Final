@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 10: illustration of cascading rollback across T8, T9, and T10",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 69.1,
+    "bottom": 90.1,
+    "left": 35.2,
+    "right": 67.8
+  },
+  "crop_pixels": {
+    "x1": 519,
+    "y1": 1261,
+    "x2": 1000,
+    "y2": 1644
+  },
+  "crop_size": {
+    "width": 481,
+    "height": 383
+  },
+  "figure_id": "Fig_17.15"
+}

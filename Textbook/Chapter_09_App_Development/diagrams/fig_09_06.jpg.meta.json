@@ -1,0 +1,21 @@
+{
+  "description": "Two-layer web application architecture diagram showing Web Browser, combined Web/Application Server, and Database System",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 38.0,
+    "left": 16.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 236,
+    "y1": 191,
+    "x2": 1283,
+    "y2": 693
+  },
+  "crop_size": {
+    "width": 1047,
+    "height": 502
+  },
+  "figure_id": "Fig_9.6"
+}

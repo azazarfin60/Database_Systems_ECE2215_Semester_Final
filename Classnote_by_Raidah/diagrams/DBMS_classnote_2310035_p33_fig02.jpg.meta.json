@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn RAID 5 architecture diagram showing block-interleaved distributed parity (AP, BP, CP, DP) across Disks 0-3",
+  "source_image": "enhanced_033.jpg",
+  "crop_percentages": {
+    "top": 46.0,
+    "bottom": 71.4,
+    "left": 2.0,
+    "right": 39.0
+  },
+  "crop_pixels": {
+    "x1": 46,
+    "y1": 760,
+    "x2": 912,
+    "y2": 1180
+  },
+  "crop_size": {
+    "width": 866,
+    "height": 420
+  },
+  "figure_id": "Fig_DBMS_p33_02"
+}

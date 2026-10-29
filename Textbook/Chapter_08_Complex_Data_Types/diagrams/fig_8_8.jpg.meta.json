@@ -1,0 +1,21 @@
+{
+  "description": "Relational database schema for Exercise 8.6 with employee, works, company, and manages relations",
+  "source_image": "page_037.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 24.900000000000002,
+    "left": 19.5,
+    "right": 92.5
+  },
+  "crop_pixels": {
+    "x1": 287,
+    "y1": 178,
+    "x2": 1364,
+    "y2": 454
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 276
+  },
+  "figure_id": "Fig_8.8"
+}

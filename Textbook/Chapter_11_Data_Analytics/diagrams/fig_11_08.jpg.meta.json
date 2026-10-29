@@ -1,0 +1,21 @@
+{
+  "description": "Relational representation of the cross-tabulation data using value all for subtotals",
+  "source_image": "page_015.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 54.7,
+    "left": 35.5,
+    "right": 79.5
+  },
+  "crop_pixels": {
+    "x1": 523,
+    "y1": 155,
+    "x2": 1172,
+    "y2": 998
+  },
+  "crop_size": {
+    "width": 649,
+    "height": 843
+  },
+  "figure_id": "Fig_11.8"
+}

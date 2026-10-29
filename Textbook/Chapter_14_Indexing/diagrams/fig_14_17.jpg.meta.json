@@ -1,0 +1,21 @@
+{
+  "description": "Subsidiary procedures for insertion of entry in a B+-tree",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 33.0,
+    "bottom": 96.2,
+    "left": 14.5,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 213,
+    "y1": 602,
+    "x2": 1312,
+    "y2": 1755
+  },
+  "crop_size": {
+    "width": 1099,
+    "height": 1153
+  },
+  "figure_id": "Fig_14.17"
+}

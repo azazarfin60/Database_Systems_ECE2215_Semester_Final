@@ -1,0 +1,21 @@
+{
+  "description": "Hash partitioning of relations r and s into partitions r0 to rn-1 and s0 to sn-1 using hash function h",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 44.7,
+    "left": 34.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 501,
+    "y1": 164,
+    "x2": 1194,
+    "y2": 815
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 651
+  },
+  "figure_id": "Fig_15.9"
+}

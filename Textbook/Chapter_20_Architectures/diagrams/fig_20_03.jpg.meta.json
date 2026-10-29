@@ -1,0 +1,21 @@
+{
+  "description": "Scaleup with increasing problem size and resources, comparing linear scaleup (/T_L = 1$) and sublinear scaleup (/T_L < 1$)",
+  "source_image": "page_015.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 33.2,
+    "left": 34.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 501,
+    "y1": 164,
+    "x2": 1194,
+    "y2": 605
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 441
+  },
+  "figure_id": "Fig_20.3"
+}

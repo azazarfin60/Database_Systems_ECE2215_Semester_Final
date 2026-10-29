@@ -1,0 +1,21 @@
+{
+  "description": "Unrepeatable read problem schedule where transaction T1 reads different values of item A due to intervening update by T2",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 35.0,
+    "bottom": 74.4,
+    "left": 4.0,
+    "right": 41.0
+  },
+  "crop_pixels": {
+    "x1": 106,
+    "y1": 525,
+    "x2": 1093,
+    "y2": 1116
+  },
+  "crop_size": {
+    "width": 987,
+    "height": 591
+  },
+  "figure_id": "Fig_L07_p30_01"
+}

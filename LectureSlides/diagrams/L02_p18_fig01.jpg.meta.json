@@ -1,0 +1,21 @@
+{
+  "description": "Table result for select instructor.id = teaches.id on Cartesian product instructor x teaches",
+  "source_image": "page_018.jpg",
+  "crop_percentages": {
+    "top": 30.0,
+    "bottom": 90.16,
+    "left": 11.399999999999999,
+    "right": 90.3
+  },
+  "crop_pixels": {
+    "x1": 227,
+    "y1": 450,
+    "x2": 1806,
+    "y2": 1352
+  },
+  "crop_size": {
+    "width": 1579,
+    "height": 902
+  },
+  "figure_id": "Fig_L02_p18_1"
+}

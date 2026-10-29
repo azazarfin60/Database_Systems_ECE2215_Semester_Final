@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn ER diagram showing Instructor entity attributes (ID, Name, Address, Age, Phone no.), mapping to Student (0..3, 1..1), and cardinality constraints (1 to 1, 1 to many, many to 1)",
+  "source_image": "enhanced_018.jpg",
+  "crop_percentages": {
+    "top": 51.0,
+    "bottom": 90.4,
+    "left": 52.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 1216,
+    "y1": 843,
+    "x2": 2222,
+    "y2": 1494
+  },
+  "crop_size": {
+    "width": 1006,
+    "height": 651
+  },
+  "figure_id": "Fig_DBMS_p18_02"
+}

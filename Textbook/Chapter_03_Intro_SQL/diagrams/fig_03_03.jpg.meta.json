@@ -1,0 +1,21 @@
+{
+  "description": "Result of select dept_name from instructor",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 42.5,
+    "left": 33.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 486,
+    "y1": 182,
+    "x2": 1209,
+    "y2": 775
+  },
+  "crop_size": {
+    "width": 723,
+    "height": 593
+  },
+  "figure_id": "Fig_3.3"
+}

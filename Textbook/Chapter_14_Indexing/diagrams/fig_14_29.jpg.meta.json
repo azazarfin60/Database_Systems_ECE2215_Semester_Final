@@ -1,0 +1,21 @@
+{
+  "description": "Division of space by a k-d tree",
+  "source_image": "page_051.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 44.0,
+    "left": 36.0,
+    "right": 79.0
+  },
+  "crop_pixels": {
+    "x1": 531,
+    "y1": 173,
+    "x2": 1165,
+    "y2": 803
+  },
+  "crop_size": {
+    "width": 634,
+    "height": 630
+  },
+  "figure_id": "Fig_14.29"
+}

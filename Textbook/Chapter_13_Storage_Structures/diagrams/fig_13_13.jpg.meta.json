@@ -1,0 +1,21 @@
+{
+  "description": "Procedure for computing join",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 53.0,
+    "bottom": 94.2,
+    "left": 15.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 221,
+    "y1": 967,
+    "x2": 1298,
+    "y2": 1719
+  },
+  "crop_size": {
+    "width": 1077,
+    "height": 752
+  },
+  "figure_id": "Fig_13.13"
+}

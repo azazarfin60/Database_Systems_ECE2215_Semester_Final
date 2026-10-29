@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 8: non-conflict-serializable schedule between T1 and T5 that produces consistent final values",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 8.9,
+    "bottom": 39.699999999999996,
+    "left": 43.6,
+    "right": 71.2
+  },
+  "crop_pixels": {
+    "x1": 643,
+    "y1": 162,
+    "x2": 1050,
+    "y2": 724
+  },
+  "crop_size": {
+    "width": 407,
+    "height": 562
+  },
+  "figure_id": "Fig_17.13"
+}

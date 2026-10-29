@@ -1,0 +1,21 @@
+{
+  "description": "Comparison of modeling phone_number as an attribute of instructor versus modeling phone as a separate entity set connected via inst_phone relationship",
+  "source_image": "page_064.jpg",
+  "crop_percentages": {
+    "top": 21.0,
+    "bottom": 51.0,
+    "left": 11.5,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 230,
+    "y1": 315,
+    "x2": 1700,
+    "y2": 765
+  },
+  "crop_size": {
+    "width": 1470,
+    "height": 450
+  },
+  "figure_id": "Fig_L05_p64_01"
+}

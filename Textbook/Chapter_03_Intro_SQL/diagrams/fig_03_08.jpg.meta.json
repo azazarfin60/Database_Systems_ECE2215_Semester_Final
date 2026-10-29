@@ -1,0 +1,21 @@
+{
+  "description": "The c1 relation, listing courses taught in Fall 2017",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 25.0,
+    "left": 24.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 182,
+    "x2": 1253,
+    "y2": 456
+  },
+  "crop_size": {
+    "width": 899,
+    "height": 274
+  },
+  "figure_id": "Fig_3.8"
+}

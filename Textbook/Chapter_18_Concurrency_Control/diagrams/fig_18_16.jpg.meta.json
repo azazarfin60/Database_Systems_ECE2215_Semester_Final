@@ -1,0 +1,21 @@
+{
+  "description": "Compatibility matrix for multiple-granularity locking (IS, IX, S, SIX, X)",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 72.0,
+    "bottom": 95.0,
+    "left": 31.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 457,
+    "y1": 1314,
+    "x2": 1239,
+    "y2": 1733
+  },
+  "crop_size": {
+    "width": 782,
+    "height": 419
+  },
+  "figure_id": "Fig_18.16"
+}

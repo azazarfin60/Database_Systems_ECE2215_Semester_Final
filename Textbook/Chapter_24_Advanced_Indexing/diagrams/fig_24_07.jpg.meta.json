@@ -1,0 +1,21 @@
+{
+  "description": "Hash organization of instructor file with dept_name key showing eight buckets",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 8.8,
+    "bottom": 48.8,
+    "left": 25.5,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 376,
+    "y1": 160,
+    "x2": 1320,
+    "y2": 890
+  },
+  "crop_size": {
+    "width": 944,
+    "height": 730
+  },
+  "figure_id": "Fig_24.7"
+}

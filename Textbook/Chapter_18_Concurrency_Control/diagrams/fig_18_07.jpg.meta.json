@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 2 showing deadlock between transaction T3 and transaction T4",
+  "source_image": "page_006.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 35.1,
+    "left": 38.0,
+    "right": 64.5
+  },
+  "crop_pixels": {
+    "x1": 560,
+    "y1": 171,
+    "x2": 951,
+    "y2": 640
+  },
+  "crop_size": {
+    "width": 391,
+    "height": 469
+  },
+  "figure_id": "Fig_18.7"
+}

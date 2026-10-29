@@ -1,0 +1,21 @@
+{
+  "description": "Composite attribute component breakdown for Address and Name",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 80.0,
+    "bottom": 95.2,
+    "left": 4.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 66,
+    "y1": 1871,
+    "x2": 1586,
+    "y2": 2226
+  },
+  "crop_size": {
+    "width": 1520,
+    "height": 355
+  },
+  "figure_id": "p026_fig01"
+}

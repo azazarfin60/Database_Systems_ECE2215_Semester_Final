@@ -1,0 +1,21 @@
+{
+  "description": "Sample instance of relation r with attributes A, B, C, D",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 28.4,
+    "left": 24.0,
+    "right": 76.0
+  },
+  "crop_pixels": {
+    "x1": 354,
+    "y1": 155,
+    "x2": 1121,
+    "y2": 518
+  },
+  "crop_size": {
+    "width": 767,
+    "height": 363
+  },
+  "figure_id": "Fig_7.4"
+}

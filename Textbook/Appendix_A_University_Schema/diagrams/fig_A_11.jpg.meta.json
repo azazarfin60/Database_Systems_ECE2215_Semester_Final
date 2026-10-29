@@ -1,0 +1,21 @@
+{
+  "description": "The time slot relation table with attributes time_slot_id, day, start_time, and end_time",
+  "source_image": "page_013.jpg",
+  "crop_percentages": {
+    "top": 10.3,
+    "bottom": 53.5,
+    "left": 38.6,
+    "right": 76.3
+  },
+  "crop_pixels": {
+    "x1": 569,
+    "y1": 187,
+    "x2": 1125,
+    "y2": 976
+  },
+  "crop_size": {
+    "width": 556,
+    "height": 789
+  },
+  "figure_id": "Fig_A.11"
+}

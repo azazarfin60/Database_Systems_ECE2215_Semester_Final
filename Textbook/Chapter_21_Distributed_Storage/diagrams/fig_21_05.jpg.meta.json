@@ -1,0 +1,21 @@
+{
+  "description": "Partition table of Figure 21.4 with replication showing Node ID pairs for Tablet0 through Tablet7",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 8.5,
+    "bottom": 32.0,
+    "left": 26.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 383,
+    "y1": 155,
+    "x2": 1135,
+    "y2": 584
+  },
+  "crop_size": {
+    "width": 752,
+    "height": 429
+  },
+  "figure_id": "Fig_21.5"
+}

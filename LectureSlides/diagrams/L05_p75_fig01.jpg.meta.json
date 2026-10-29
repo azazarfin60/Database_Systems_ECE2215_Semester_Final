@@ -1,0 +1,21 @@
+{
+  "description": "Comparison between ER diagram notation and UML class diagram notation for entities and relationships",
+  "source_image": "page_075.jpg",
+  "crop_percentages": {
+    "top": 17.0,
+    "bottom": 76.5,
+    "left": 10.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 200,
+    "y1": 255,
+    "x2": 1800,
+    "y2": 1147
+  },
+  "crop_size": {
+    "width": 1600,
+    "height": 892
+  },
+  "figure_id": "Fig_L05_p75_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Portion of the system log corresponding to transactions T0 and T1 showing log records for updates and commits",
+  "source_image": "page_010.jpg",
+  "crop_percentages": {
+    "top": 74.0,
+    "bottom": 92.2,
+    "left": 39.0,
+    "right": 64.0
+  },
+  "crop_pixels": {
+    "x1": 575,
+    "y1": 1350,
+    "x2": 944,
+    "y2": 1682
+  },
+  "crop_size": {
+    "width": 369,
+    "height": 332
+  },
+  "figure_id": "Fig_19.2"
+}

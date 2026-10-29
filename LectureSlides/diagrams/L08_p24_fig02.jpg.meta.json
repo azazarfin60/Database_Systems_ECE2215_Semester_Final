@@ -1,0 +1,21 @@
+{
+  "description": "Wait-for graph with a cycle between transactions T18, T20, and T19 indicating a deadlock state",
+  "source_image": "page_024.jpg",
+  "crop_percentages": {
+    "top": 39.0,
+    "bottom": 86.0,
+    "left": 65.0,
+    "right": 100
+  },
+  "crop_pixels": {
+    "x1": 1733,
+    "y1": 585,
+    "x2": 2667,
+    "y2": 1290
+  },
+  "crop_size": {
+    "width": 934,
+    "height": 705
+  },
+  "figure_id": "Fig_L08_p24_02"
+}

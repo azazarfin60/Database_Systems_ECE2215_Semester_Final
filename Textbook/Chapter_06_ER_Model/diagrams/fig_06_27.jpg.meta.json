@@ -1,0 +1,21 @@
+{
+  "description": "Alternative E-R notations including crow-foot and (min,max) cardinalities",
+  "source_image": "page_049.jpg",
+  "crop_percentages": {
+    "top": 9.74,
+    "bottom": 58.31,
+    "left": 25.38,
+    "right": 89.39
+  },
+  "crop_pixels": {
+    "x1": 374,
+    "y1": 177,
+    "x2": 1318,
+    "y2": 1064
+  },
+  "crop_size": {
+    "width": 944,
+    "height": 887
+  },
+  "figure_id": "Fig_6.27"
+}

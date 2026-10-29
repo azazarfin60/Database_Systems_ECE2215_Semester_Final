@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with ternary relationship proj_guide between instructor, student, and project",
+  "source_image": "page_012.jpg",
+  "crop_percentages": {
+    "top": 9.82,
+    "bottom": 28.82,
+    "left": 22.4,
+    "right": 80.57
+  },
+  "crop_pixels": {
+    "x1": 330,
+    "y1": 179,
+    "x2": 1188,
+    "y2": 525
+  },
+  "crop_size": {
+    "width": 858,
+    "height": 346
+  },
+  "figure_id": "Fig_6.6"
+}

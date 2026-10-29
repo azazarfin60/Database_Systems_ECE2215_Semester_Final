@@ -1,0 +1,6 @@
+{
+  "description": "Precedence graph for 2019 Q.4(a) Interleaved Schedule Precedence Graph: Cycle between T1 and T2",
+  "figure_id": "T10_2019_Q4a_precedence_graph",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T10_diagrams.py"
+}

@@ -1,0 +1,92 @@
+# Obsidian Vault
+# Ignore runtime state, workspace sessions, cache, and trash
+**/.obsidian/
+.trash/
+.obsidian/
+# Agent & Assistant Files
+AGENTS.md
+agents.md
+CLAUDE.md
+.agents/
+.agentsignore
+.gemini/
+.antigravity/
+.claude/
+.cursor/
+.cursorrules
+.boss_notes_logs/
+.boss_notes_prompts/
+
+# Guideline & Authoring Specifications
+MARKDOWN-GUIDE.md
+writing_guideline.md
+writing_style.md
+topicwise_answers_spec.md
+
+# Scratch, Scripts & Working Dirs
+scratch/
+scripts/
+bin/
+Bin/
+*.scratch.*
+
+# Digitizer Intermediate Page Renders & Manifests
+# (Cropped diagrams and frames are kept; raw full-page extraction renders are ignored)
+**/*_Pages/
+**/pdf/pages/
+**/manifest.json
+**/*_raw-*.png
+
+# Pipeline, Logs & Temporary Files
+**/temp_audio.*
+**/progress.json
+**/*.tmp
+**/*.part
+**/*.bak
+*.swp
+*.swo
+*~
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+._*
+
+# IDE & Editor Settings
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# Node & JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# LaTeX / Intermediate Build Artifacts
+**/*.aux
+**/*.out
+**/*.synctex.gz
+**/*.fls
+**/*.fdb_latexmk
+**/diagrams/*.pdf
+
+# Explicitly Preserve Critical Repository Sidecars & Markers
+!*.meta.json
+!.gitkeep
+

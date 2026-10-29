@@ -1,0 +1,21 @@
+{
+  "description": "System architecture showing transaction coordinators (TC1, TCn) and transaction managers (TM1, TMn) on computer 1 through computer n",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 43.0,
+    "left": 25.4,
+    "right": 90.5
+  },
+  "crop_pixels": {
+    "x1": 374,
+    "y1": 171,
+    "x2": 1334,
+    "y2": 784
+  },
+  "crop_size": {
+    "width": 960,
+    "height": 613
+  },
+  "figure_id": "Fig_23.1"
+}

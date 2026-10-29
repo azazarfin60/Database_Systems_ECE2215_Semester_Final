@@ -1,0 +1,21 @@
+{
+  "description": "E-R diagram with weak entity set section and identifying relationship set sec_course",
+  "source_image": "page_022.jpg",
+  "crop_percentages": {
+    "top": 78.24,
+    "bottom": 88.84,
+    "left": 22.5,
+    "right": 80.21
+  },
+  "crop_pixels": {
+    "x1": 331,
+    "y1": 1427,
+    "x2": 1183,
+    "y2": 1621
+  },
+  "crop_size": {
+    "width": 852,
+    "height": 194
+  },
+  "figure_id": "Fig_6.14"
+}

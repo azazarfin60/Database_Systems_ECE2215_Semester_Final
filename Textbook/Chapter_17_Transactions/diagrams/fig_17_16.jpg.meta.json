@@ -1,0 +1,21 @@
+{
+  "description": "Precedence graph for Practice Exercise 17.6 with transactions T1 through T5",
+  "source_image": "page_035.jpg",
+  "crop_percentages": {
+    "top": 66.0,
+    "bottom": 91.89999999999999,
+    "left": 42.6,
+    "right": 72.2
+  },
+  "crop_pixels": {
+    "x1": 628,
+    "y1": 1204,
+    "x2": 1064,
+    "y2": 1677
+  },
+  "crop_size": {
+    "width": 436,
+    "height": 473
+  },
+  "figure_id": "Fig_17.16"
+}

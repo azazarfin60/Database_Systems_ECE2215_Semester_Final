@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing one-to-one relationship between instructor and student via advisor with directed arrows to both",
+  "source_image": "page_023.jpg",
+  "crop_percentages": {
+    "top": 49.0,
+    "bottom": 78.6,
+    "left": 19.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 380,
+    "y1": 735,
+    "x2": 1780,
+    "y2": 1178
+  },
+  "crop_size": {
+    "width": 1400,
+    "height": 443
+  },
+  "figure_id": "Fig_L05_p23_01"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Data structures used in ARIES showing database buffer, dirty page table, log buffer, stable data disk, and stable log disk",
+  "source_image": "page_037.jpg",
+  "crop_percentages": {
+    "top": 45.5,
+    "bottom": 91.9,
+    "left": 20.5,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 302,
+    "y1": 830,
+    "x2": 1401,
+    "y2": 1677
+  },
+  "crop_size": {
+    "width": 1099,
+    "height": 847
+  },
+  "figure_id": "Fig_19.9"
+}

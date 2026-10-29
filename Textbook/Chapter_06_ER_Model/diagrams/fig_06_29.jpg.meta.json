@@ -1,0 +1,21 @@
+{
+  "description": "Representation of a ternary relationship using binary relationships with an identifying entity set",
+  "source_image": "page_058.jpg",
+  "crop_percentages": {
+    "top": 9.84,
+    "bottom": 43.53,
+    "left": 22.4,
+    "right": 80.63
+  },
+  "crop_pixels": {
+    "x1": 330,
+    "y1": 179,
+    "x2": 1189,
+    "y2": 794
+  },
+  "crop_size": {
+    "width": 859,
+    "height": 615
+  },
+  "figure_id": "Fig_6.29"
+}

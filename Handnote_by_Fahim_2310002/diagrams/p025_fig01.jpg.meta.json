@@ -1,0 +1,21 @@
+{
+  "description": "Relationship set diagram illustrating cardinality ratio and degree of relationship: Instructor Ramanujam participating in two associations (with students Rahman and Peter) via Advicer relationship set",
+  "source_image": "page_025.jpg",
+  "crop_percentages": {
+    "top": 5.1,
+    "bottom": 36.0,
+    "left": 5.4,
+    "right": 90.7
+  },
+  "crop_pixels": {
+    "x1": 89,
+    "y1": 119,
+    "x2": 1499,
+    "y2": 842
+  },
+  "crop_size": {
+    "width": 1410,
+    "height": 723
+  },
+  "figure_id": "Fig_p025_01"
+}

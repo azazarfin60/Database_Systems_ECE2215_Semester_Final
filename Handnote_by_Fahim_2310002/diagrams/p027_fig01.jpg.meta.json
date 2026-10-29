@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram notations for different types of attributes (Simple, Composite, Multi-Valued, Derived, Null)",
+  "source_image": "page_027.jpg",
+  "crop_percentages": {
+    "top": 61.0,
+    "bottom": 96.4,
+    "left": 0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 0,
+    "y1": 1426,
+    "x2": 1272,
+    "y2": 2254
+  },
+  "crop_size": {
+    "width": 1272,
+    "height": 828
+  },
+  "figure_id": "p027_fig01"
+}

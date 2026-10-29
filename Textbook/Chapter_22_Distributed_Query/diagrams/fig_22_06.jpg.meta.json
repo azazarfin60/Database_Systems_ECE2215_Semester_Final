@@ -1,0 +1,21 @@
+{
+  "description": "The exchange operator used for repartitioning showing relation partitions r1..rn entering Partition components, interconnect network, and Merge components producing repartitioned data r1'..rm'",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 69.0,
+    "bottom": 92.2,
+    "left": 34.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 501,
+    "y1": 1259,
+    "x2": 1194,
+    "y2": 1682
+  },
+  "crop_size": {
+    "width": 693,
+    "height": 423
+  },
+  "figure_id": "Fig_22.6"
+}

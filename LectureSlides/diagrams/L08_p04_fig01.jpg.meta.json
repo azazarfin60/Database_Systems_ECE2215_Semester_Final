@@ -1,0 +1,21 @@
+{
+  "description": "Schedule diagram illustrating an irrecoverable schedule where transaction T2 reads uncommitted data written by T1, commits, and T1 subsequently fails",
+  "source_image": "page_004.jpg",
+  "crop_percentages": {
+    "top": 13.0,
+    "bottom": 90.0,
+    "left": 47.0,
+    "right": 100
+  },
+  "crop_pixels": {
+    "x1": 1253,
+    "y1": 195,
+    "x2": 2667,
+    "y2": 1350
+  },
+  "crop_size": {
+    "width": 1414,
+    "height": 1155
+  },
+  "figure_id": "Fig_L08_p04_01"
+}

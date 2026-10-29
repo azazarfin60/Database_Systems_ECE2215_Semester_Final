@@ -1,0 +1,21 @@
+{
+  "description": "A distributed system connecting site A, site B, and site C via a network, showing local CPU, memory, and disks at each site",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 39.2,
+    "left": 31.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 457,
+    "y1": 164,
+    "x2": 1239,
+    "y2": 715
+  },
+  "crop_size": {
+    "width": 782,
+    "height": 551
+  },
+  "figure_id": "Fig_20.9"
+}

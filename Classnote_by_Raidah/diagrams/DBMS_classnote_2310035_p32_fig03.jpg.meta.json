@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn RAID 1+0 (RAID 10) architecture diagram showing striped array of mirrored disks (RAID 0 over RAID 1)",
+  "source_image": "enhanced_032.jpg",
+  "crop_percentages": {
+    "top": 67.0,
+    "bottom": 80.0,
+    "left": 56.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 1309,
+    "y1": 1107,
+    "x2": 2011,
+    "y2": 1322
+  },
+  "crop_size": {
+    "width": 702,
+    "height": 215
+  },
+  "figure_id": "Fig_DBMS_p32_03"
+}

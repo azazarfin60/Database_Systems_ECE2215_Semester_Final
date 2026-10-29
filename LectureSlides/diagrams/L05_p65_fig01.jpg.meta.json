@@ -1,0 +1,21 @@
+{
+  "description": "Design guideline using registration as an entity set connected via section_reg and student_reg relationships to section and student entity sets",
+  "source_image": "page_065.jpg",
+  "crop_percentages": {
+    "top": 31.0,
+    "bottom": 64.0,
+    "left": 7.5,
+    "right": 92.5
+  },
+  "crop_pixels": {
+    "x1": 150,
+    "y1": 465,
+    "x2": 1850,
+    "y2": 960
+  },
+  "crop_size": {
+    "width": 1700,
+    "height": 495
+  },
+  "figure_id": "Fig_L05_p65_01"
+}

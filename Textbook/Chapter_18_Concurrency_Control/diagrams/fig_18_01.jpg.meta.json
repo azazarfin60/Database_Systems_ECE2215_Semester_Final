@@ -1,0 +1,21 @@
+{
+  "description": "Lock-compatibility matrix comp showing compatibility between shared (S) and exclusive (X) lock modes",
+  "source_image": "page_002.jpg",
+  "crop_percentages": {
+    "top": 9.2,
+    "bottom": 24.5,
+    "left": 28.0,
+    "right": 72.0
+  },
+  "crop_pixels": {
+    "x1": 413,
+    "y1": 167,
+    "x2": 1062,
+    "y2": 447
+  },
+  "crop_size": {
+    "width": 649,
+    "height": 280
+  },
+  "figure_id": "Fig_18.1"
+}

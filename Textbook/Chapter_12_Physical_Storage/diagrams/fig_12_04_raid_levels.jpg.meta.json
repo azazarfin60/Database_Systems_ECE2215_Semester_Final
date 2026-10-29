@@ -1,0 +1,21 @@
+{
+  "description": "RAID levels showing disk cylinder configurations for (a) RAID 0: nonredundant striping, (b) RAID 1: mirrored disks with copies, (c) RAID 5: block-interleaved distributed parity with parity blocks P, and (d) RAID 6: P + Q redundancy with two error-correcting blocks P and Q",
+  "source_image": "page_017.jpg",
+  "crop_percentages": {
+    "top": 9.8,
+    "bottom": 43.7,
+    "left": 36.0,
+    "right": 76.5
+  },
+  "crop_pixels": {
+    "x1": 531,
+    "y1": 178,
+    "x2": 1128,
+    "y2": 797
+  },
+  "crop_size": {
+    "width": 597,
+    "height": 619
+  },
+  "figure_id": "Fig_12.4"
+}

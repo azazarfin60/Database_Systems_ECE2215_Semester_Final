@@ -1,0 +1,21 @@
+{
+  "description": "Algorithm for nested-loop join iterating over tuples tr in r and ts in s and testing join condition",
+  "source_image": "page_019.jpg",
+  "crop_percentages": {
+    "top": 11.0,
+    "bottom": 31.7,
+    "left": 25.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 368,
+    "y1": 200,
+    "x2": 1298,
+    "y2": 578
+  },
+  "crop_size": {
+    "width": 930,
+    "height": 378
+  },
+  "figure_id": "Fig_15.5"
+}

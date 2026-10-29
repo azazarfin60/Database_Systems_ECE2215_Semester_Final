@@ -1,0 +1,21 @@
+{
+  "description": "An assertion example",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 12.5,
+    "bottom": 33.0,
+    "left": 25.5,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 376,
+    "y1": 228,
+    "x2": 1320,
+    "y2": 602
+  },
+  "crop_size": {
+    "width": 944,
+    "height": 374
+  },
+  "figure_id": "Fig_4.10"
+}

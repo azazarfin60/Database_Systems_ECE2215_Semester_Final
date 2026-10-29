@@ -1,0 +1,21 @@
+{
+  "description": "Precedence graph for schedule 4 showing a cycle between T1 and T2",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 22.0,
+    "left": 46.3,
+    "right": 68.5
+  },
+  "crop_pixels": {
+    "x1": 682,
+    "y1": 164,
+    "x2": 1010,
+    "y2": 401
+  },
+  "crop_size": {
+    "width": 328,
+    "height": 237
+  },
+  "figure_id": "Fig_17.11"
+}
