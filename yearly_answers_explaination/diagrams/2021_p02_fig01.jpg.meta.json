@@ -1,0 +1,5 @@
+{
+  "description": "Wait-for-graph with 5 transactions T1, T2, T3, T4, T5 and directed edges T1->T4, T1->T2, T1->T3, T4->T5, T5->T2, T2->T4 containing a deadlock cycle T4->T5->T2->T4",
+  "source_image": "2021page2.jpg",
+  "figure_id": "Fig_2021_Q8.a"
+}

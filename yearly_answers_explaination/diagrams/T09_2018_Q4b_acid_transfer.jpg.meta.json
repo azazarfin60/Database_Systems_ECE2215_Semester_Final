@@ -1,0 +1,6 @@
+{
+  "description": "ACID properties demonstrated on a $50 bank fund transfer transaction showing steps, database state evolution from initial to intermediate to final, and the four ACID guarantees.",
+  "figure_id": "T09_2018_Q4b_acid_transfer",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/T09_2018_Q4b_acid_transfer.py"
+}

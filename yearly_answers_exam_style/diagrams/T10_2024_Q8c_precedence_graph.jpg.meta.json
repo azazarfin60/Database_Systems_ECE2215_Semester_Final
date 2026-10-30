@@ -1,0 +1,6 @@
+{
+  "description": "Precedence graph for 2024 Q.8(c) Precedence Graph (T1, T2): Cycle between T1 and T2",
+  "figure_id": "T10_2024_Q8c_precedence_graph",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T10_diagrams.py"
+}
