@@ -47,7 +47,7 @@ tags:
 
 ### CT-01 Question 01 · 05 Marks · CO1
 
-*Topic: [[../Topicwise_answers_exam_style/T01_DB_Concepts_and_Architecture.md#T01.4 · Data abstraction levels, schemas and instances|T01.4 · Data abstraction levels, schemas and instances]] · CT-01 · CO1*
+*Topic: [[Topicwise_answers_exam_style/T01_DB_Concepts_and_Architecture.md#T01.4 · Data abstraction levels, schemas and instances|T01.4 · Data abstraction levels, schemas and instances]] · CT-01 · CO1*
 
 **Question.**
 Define data abstraction. Describe different types of data abstractions.
@@ -81,7 +81,7 @@ A database contains complex data structures, storage blocks, and indexing scheme
 
 ### CT-01 Question 02 · 05 Marks · CO1
 
-*Topic: [[../Topicwise_answers_exam_style/T03_Relational_Model_Keys_and_Integrity.md#T03.3 · Schema diagram: construction & foreign key links|T03.3 · Schema diagram: construction & foreign key links]] · CT-01 · CO1*
+*Topic: [[Topicwise_answers_exam_style/T03_Relational_Model_Keys_and_Integrity.md#T03.3 · Referential integrity & FK syntax (MySQL)|T03.3 · Referential integrity & FK syntax (MySQL)]] · CT-01 · CO1*
 
 **Question.**
 Draw a schema diagram for ECE, including 5 tables (Students, Courses, Instructors, Classroom, Results).
@@ -107,13 +107,9 @@ In Silberschatz style, each table is shown as a box with its attributes. Primary
 
 ---
 
-[← Prev: T02 · E-R and EER Modeling](T02_ER_and_EER_Modeling.md) | [Explanation layer](../Topicwise_answers_explaination/T03_Relational_Model_Keys_and_Integrity.md) | [Next: T04 · Relational Algebra and Calculus →](T04_Relational_Algebra_and_Calculus.md)
-
----
-
 ### CT-01 Question 03 · 02 Marks · CO1
 
-*Topic: [[../Topicwise_answers_exam_style/T01_DB_Concepts_and_Architecture.md#T01.7 · Two-tier vs three-tier architecture|T01.7 · Two-tier vs three-tier architecture]] · CT-01 · CO1*
+*Topic: [[Topicwise_answers_exam_style/T01_DB_Concepts_and_Architecture.md#T01.7 · Two-tier vs three-tier architecture|T01.7 · Two-tier vs three-tier architecture]] · CT-01 · CO1*
 
 **Question.**
 Describe the structure of a database application.
@@ -128,13 +124,9 @@ A database application connects user interfaces to the database engine through t
 
 ---
 
-[← Prev: T00 · Question Bank](../subtopicwise_questions.md) | [Explanation layer](../Topicwise_answers_explaination/T01_DB_Concepts_and_Architecture.md) | [Next: T02 · E-R and EER Modeling →](T02_ER_and_EER_Modeling.md)
-
----
-
 ### CT-01 Question 04 · 04 Marks · CO1
 
-*Topic: [[../Topicwise_answers_exam_style/T04_Relational_Algebra_and_Calculus.md#T04.3 · Fundamental & additional operations queries|T04.3 · Fundamental & additional operations queries]] · CT-01 · CO1*
+*Topic: [[Topicwise_answers_exam_style/T04_Relational_Algebra_and_Calculus.md#T04.3 · Explain an RA expression in words|T04.3 · Explain an RA expression in words]] · CT-01 · CO1*
 
 **Question.**
 Relations:
@@ -195,7 +187,7 @@ $$
 
 ### CT-01 Question 05 · 04 Marks · CO1
 
-*Topic: [[../Topicwise_answers_exam_style/T04_Relational_Algebra_and_Calculus.md#T04.4 · Interpretation/explanation of RA expressions|T04.4 · Interpretation/explanation of RA expressions]] · CT-01 · CO1*
+*Topic: [[Topicwise_answers_exam_style/T04_Relational_Algebra_and_Calculus.md#T04.4 · Extended RA: aggregation|T04.4 · Extended RA: aggregation]] · CT-01 · CO1*
 
 **Question.**
 Describe the following relational algebra expression:
@@ -243,7 +235,7 @@ Describe the following relational algebra expression:
 
 ### CT-02 Question 01 · 10 Marks · CO2
 
-*Topic: [[../Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md#T05.2 · Basic single-table queries|T05.2 · Basic single-table queries]] · CT-02 · CO2*
+*Topic: [[Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md#T05.2 · DDL + DML warm-up: CREATE, INSERT, ALTER ... ADD, UPDATE, DELETE, rename, filter|T05.2 · DDL + DML warm-up: CREATE, INSERT, ALTER ... ADD, UPDATE, DELETE, rename, filter]] · CT-02 · CO2*
 
 **Question.**
 Consider the table and write SQL queries for the following queries:
@@ -308,7 +300,7 @@ WHERE CGPA = (
 
 ### CT-02 Question 02 · 10 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T02_ER_and_EER_Modeling.md#T02.5 · Design a full E-R diagram for a scenario|T02.5 · Design a full E-R diagram for a scenario]] · CT-02 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T02_ER_and_EER_Modeling.md#T02.5 · Design a full E-R diagram for a scenario|T02.5 · Design a full E-R diagram for a scenario]] · CT-02 · CO3*
 
 **Question.**
 A university maintains information about Students, Courses, and Teachers. A student can enroll in several courses and each course can have many students. Each course is taught by one teacher, though a teacher may teach several courses.
@@ -352,7 +344,7 @@ A university maintains information about Students, Courses, and Teachers. A stud
 
 ### CT-03 Question 01 · 10 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.4 · Attribute closure X+, finding candidate keys|T08.4 · Attribute closure X+, finding candidate keys]] · CT-03 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.4 · Attribute closure X+, F+, finding candidate keys|T08.4 · Attribute closure X+, F+, finding candidate keys]] · CT-03 · CO3*
 
 **Question.**
 Consider the relation:
@@ -480,7 +472,7 @@ $$
 
 ### CT-03 Question 02 · 03 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.1 · Why normalize: redundancy and insert/update/delete anomalies|T08.1 · Why normalize: redundancy and insert/update/delete anomalies]] · CT-03 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.1 · Why normalize: redundancy and insert/update/delete anomalies|T08.1 · Why normalize: redundancy and insert/update/delete anomalies]] · CT-03 · CO3*
 
 **Question.**
 Mention the problems caused by an unnormalized relation.
@@ -515,7 +507,7 @@ Consider an unnormalized table storing student enrollment and instructor data:
 
 ### CT-03 Question 03 · 03 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.6 · Define normalization & 1NF / 2NF / 3NF|T08.6 · Define normalization & 1NF / 2NF / 3NF]] · CT-03 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.6 · Define normalization (and its importance) & 1NF / 2NF / 3NF|T08.6 · Define normalization (and its importance) & 1NF / 2NF / 3NF]] · CT-03 · CO3*
 
 **Question.**
 Define normalization and state its main objective.
@@ -541,7 +533,7 @@ Normalization is essential for relational databases because it:
 
 ### CT-03 Question 04 · 04 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.9 · BCNF decomposition & properties|T08.9 · BCNF decomposition & properties]] · CT-03 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md#T08.9 · BCNF; 3NF vs BCNF; highest normal form|T08.9 · BCNF; 3NF vs BCNF; highest normal form]] · CT-03 · CO3*
 
 **Question.**
 Justify the statement: "Every BCNF relation is in 3NF, but every 3NF relation is not necessarily in BCNF."
@@ -603,7 +595,7 @@ Because relation $R$ is in 3NF but not in BCNF, the statement is justified.
 
 ### CT-04 Question 01 · 06 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md#T09.1 · ACID properties (atomicity, consistency, isolation, durability)|T09.1 · ACID properties (atomicity, consistency, isolation, durability)]] · CT-04 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md#T09.1 · ACID properties|T09.1 · ACID properties]] · CT-04 · CO3*
 
 **Question.**
 Define a transaction? Explain the four ACID properties of a transaction with suitable examples.
@@ -644,7 +636,7 @@ $$
 
 ### CT-04 Question 02 · 04 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md#T09.3 · Serial vs concurrent schedules|T09.3 · Serial vs concurrent schedules]] · CT-04 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md#T09.3 · Transaction states / life-cycle diagram|T09.3 · Transaction states / life-cycle diagram]] · CT-04 · CO3*
 
 **Question.**
 Differentiate between a serial schedule and a concurrent schedule. Mention two advantages of concurrent execution of transactions.
@@ -670,7 +662,7 @@ Differentiate between a serial schedule and a concurrent schedule. Mention two a
 
 ### CT-04 Question 03 · 04 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md#T09.4 · Concurrency problems: dirty read, unrepeatable read, lost update|T09.4 · Concurrency problems: dirty read, unrepeatable read, lost update]] · CT-04 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md#T09.4 · Concurrent execution advantages and schedules|T09.4 · Concurrent execution advantages and schedules]] · CT-04 · CO3*
 
 **Question.**
 Explains any two problems caused by concurrent execution.
@@ -746,13 +738,9 @@ Select **Lost Update** and **Dirty Read** with their definitions and schedule ta
 
 ---
 
-[← Prev: T08 · Normalization and Functional Dependencies](T08_Normalization_and_Functional_Dependencies.md) | [Explanation layer](../Topicwise_answers_explaination/T09_Transactions_ACID_and_Anomalies.md) | [Next: T10 · Serializability →](T10_Serializability.md)
-
----
-
 ### CT-04 Question 04 · 06 Marks · CO3
 
-*Topic: [[../Topicwise_answers_exam_style/T10_Serializability.md#T10.2 · Testing conflict serializability (precedence graph)|T10.2 · Testing conflict serializability (precedence graph)]] · CT-04 · CO3*
+*Topic: [[Topicwise_answers_exam_style/T10_Serializability.md#T10.2 · Conflict equivalence by swapping (proof)|T10.2 · Conflict equivalence by swapping (proof)]] · CT-04 · CO3*
 
 **Question.**
 Determine whether the schedule is conflict serializable or not. If it is serializable, give the equivalent serial order.

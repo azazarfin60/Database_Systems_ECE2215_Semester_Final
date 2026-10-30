@@ -24,14 +24,14 @@ tags:
 
 | Year / Paper | Curriculum Era | Full Marks | Sub-Questions | Solved Paper Link | Alternate Layer | Original Paper |
 | :--- | :--- | :---: | :---: | :--- | :--- | :--- |
-| **2017** | Pre-OBE | 72 | 21 | [[2017.md|Final Exam 2017]] | [[../yearly_answers_exam_style/2017.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/2017.md|PYQ 2017]] |
-| **2018** | Pre-OBE | 72 | 23 | [[2018.md|Final Exam 2018]] | [[../yearly_answers_exam_style/2018.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/2018.md|PYQ 2018]] |
-| **2019** | Pre-OBE | 72 | 19 | [[2019.md|Final Exam 2019]] | [[../yearly_answers_exam_style/2019.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/2019.md|PYQ 2019]] |
-| **2020** | Pre-OBE | 72 | 20 | [[2020.md|Final Exam 2020]] | [[../yearly_answers_exam_style/2020.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/2020.md|PYQ 2020]] |
-| **2021** | Transitional OBE (CLO Mapped) | 72 | 21 | [[2021.md|Final Exam 2021]] | [[../yearly_answers_exam_style/2021.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/2021.md|PYQ 2021]] |
-| **2023** | Modern OBE (CLO Mapped) | 60 | 22 | [[2023.md|Final Exam 2023]] | [[../yearly_answers_exam_style/2023.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/2023.md|PYQ 2023]] |
-| **2024** | Modern OBE (CO Mapped) | 60 | 22 | [[2024.md|Final Exam 2024]] | [[../yearly_answers_exam_style/2024.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/2024.md|PYQ 2024]] |
-| **Class Tests (CT 01–04)** | With CO Mapping | 80 | 26 parts | [[ClassTestQuestions.md|CT 01–04 Collection]] | [[../yearly_answers_exam_style/ClassTestQuestions.md|Exam-Style Answers Layer]] | [[../PreviousYearQuestion/ClassTestQuestions.md|PYQ CTs]] |
+| **2017** | Pre-OBE | 72 | 21 | [[yearly_answers_explaination/2017.md|Final Exam 2017]] | [[yearly_answers_exam_style/2017.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/2017.md|PYQ 2017]] |
+| **2018** | Pre-OBE | 72 | 23 | [[yearly_answers_explaination/2018.md|Final Exam 2018]] | [[yearly_answers_exam_style/2018.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/2018.md|PYQ 2018]] |
+| **2019** | Pre-OBE | 72 | 19 | [[yearly_answers_explaination/2019.md|Final Exam 2019]] | [[yearly_answers_exam_style/2019.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/2019.md|PYQ 2019]] |
+| **2020** | Pre-OBE | 72 | 20 | [[yearly_answers_explaination/2020.md|Final Exam 2020]] | [[yearly_answers_exam_style/2020.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/2020.md|PYQ 2020]] |
+| **2021** | Transitional OBE (CLO Mapped) | 72 | 21 | [[yearly_answers_explaination/2021.md|Final Exam 2021]] | [[yearly_answers_exam_style/2021.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/2021.md|PYQ 2021]] |
+| **2023** | Modern OBE (CLO Mapped) | 60 | 22 | [[yearly_answers_explaination/2023.md|Final Exam 2023]] | [[yearly_answers_exam_style/2023.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/2023.md|PYQ 2023]] |
+| **2024** | Modern OBE (CO Mapped) | 60 | 22 | [[yearly_answers_explaination/2024.md|Final Exam 2024]] | [[yearly_answers_exam_style/2024.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/2024.md|PYQ 2024]] |
+| **Class Tests (CT 01–04)** | With CO Mapping | 80 | 26 parts | [[yearly_answers_explaination/ClassTestQuestions.md|CT 01–04 Collection]] | [[yearly_answers_exam_style/ClassTestQuestions.md|Exam-Style Answers Layer]] | [[PreviousYearQuestion/ClassTestQuestions.md|PYQ CTs]] |
 
 ---
 
