@@ -1,0 +1,21 @@
+{
+  "description": "Lattice structure of generalization and specialization with higher-level entity sets X, Y and lower-level entity sets A, B, C",
+  "source_image": "page_059.jpg",
+  "crop_percentages": {
+    "top": 8.8,
+    "bottom": 22.4,
+    "left": 40.0,
+    "right": 81.0
+  },
+  "crop_pixels": {
+    "x1": 590,
+    "y1": 160,
+    "x2": 1194,
+    "y2": 408
+  },
+  "crop_size": {
+    "width": 604,
+    "height": 248
+  },
+  "figure_id": "Exercise_6.12"
+}

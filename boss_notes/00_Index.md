@@ -194,6 +194,7 @@ Thresholds are calibrated directly against the 7 RUET semester-final papers (`63
 | 75 | [T11.3: Strict 2PL, Rigorous 2PL, and Drawbacks of 2PL](T11.03_Strict_and_Rigorous_2PL.md) | `T11.3` | 🟢 ⭐ | 0/7 | — | Preventing cascading rollbacks under Strict/Rigorous 2PL |
 | 76 | [T11.4: Deadlock Handling — Prevention, Detection & Wait-For Graph](T11.04_Deadlock.md) | `T11.4` | 🟠 | 4/7 | 17 | 4 Coffman conditions, wait-for graph cycle detection, victim selection (2017 Q7b, 2018 Q5b, 2020 Q7a, 2021 Q8a) |
 | 77 | [T11.5: Wait-Die vs. Wound-Wait Deadlock Prevention](T11.05_Wait_Die_vs_Wound_Wait.md) | `T11.5` | 🟢 ⭐ | 0/7 | — | Non-preemptive `wait-die` vs. preemptive `wound-wait`; **retains ORIGINAL timestamp** (**Teacher Blueprint!**) |
+| 77b | [T11.5: Multiple Granularity Locking Protocol](T11.05_Multiple_Granularity.md) | `T11.5` | 🟢 ⭐ | 0/7 | — | Granularity tree, intention locks ($IS, IX, SIX$), $5 \times 5$ compatibility matrix, top-down rules (Syllabus Unit 4) |
 | 78 | [T11.6: Timestamp-Ordering (TSO) Protocol](T11.06_Timestamp_Ordering.md) | `T11.6` | 🟠 | 3/7 | 11 | $\text{R-timestamp}(Q)$ & $\text{W-timestamp}(Q)$ rules, schedule trace (2023 Q8c), **NEW timestamp on rollback** (2018 Q6b = 2024 Q8b) |
 
 ---

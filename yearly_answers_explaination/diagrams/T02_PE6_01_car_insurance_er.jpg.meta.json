@@ -1,0 +1,6 @@
+{
+  "description": "Car Insurance Enterprise Database ER Diagram with customer, car, policy, and accident entities and participated descriptive attribute (Silberschatz 7e Practice Exercise 6.1)",
+  "figure_id": "T02_PE6_01_car_insurance_er",
+  "source_image": "generated",
+  "generator": "boss_notes/diagrams/_scripts/T02_PE6_01_car_insurance_er.py"
+}

@@ -2,7 +2,7 @@
 
 **Author:** Fahim (Roll: 2310002)  
 **Course:** ECE 2215: Database Systems (3.00 Credits)  
-**Department:** Department of Electronics and Communication Engineering (ECE), RUET  
+**Department:** Department of Electrical and Computer Engineering (ECE), RUET  
 **Source:** Complete Class Handwritten Notes (`Handnote_2310002.pdf`, 62 pages)  
 
 ---

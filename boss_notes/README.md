@@ -6,7 +6,7 @@
 
 ## What This Is (And What It Is Not)
 
-This directory is not a textbook dump, and it is not a passive transcription of lecture slides. It is a **self-sufficient, exam-engineered study system** for **ECE 2215: Database Systems** in the Department of Electronics and Communication Engineering (ECE) at **RUET**.
+This directory is not a textbook dump, and it is not a passive transcription of lecture slides. It is a **self-sufficient, exam-engineered study system** for **ECE 2215: Database Systems** in the Department of Electrical and Computer Engineering (ECE) at **RUET**.
 
 Every single note in this folder was built so that once you read it, **you never need to open another book, slide deck, or question bank for that subtopic**.
 

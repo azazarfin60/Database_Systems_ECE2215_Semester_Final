@@ -1,0 +1,6 @@
+{
+  "description": "Hospital Management System ER Diagram with patient, doctor, room, and test entities and ternary prescribes relationship (Silberschatz 7e Exercise 6.15)",
+  "figure_id": "T02_EX6_15_hospital_er",
+  "source_image": "generated",
+  "generator": "boss_notes/diagrams/_scripts/T02_EX6_15_hospital_er.py"
+}

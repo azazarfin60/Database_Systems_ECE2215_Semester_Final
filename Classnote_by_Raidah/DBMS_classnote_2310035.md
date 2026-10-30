@@ -2,7 +2,7 @@
 
 **Course:** ECE 2215: Database Systems (3.00 Credits)  
 **Institution:** Rajshahi University of Engineering & Technology (RUET)  
-**Department:** Department of Electronics and Telecommunication Engineering (ECE)  
+**Department:** Department of Electrical and Computer Engineering (ECE)  
 **Instructors:** Mst. Nafia Islam Shishir (NIS MAM) & Md. Rakibul Islam (RI SIR)  
 **Student Note-taker:** Raidah (Roll: 2310035)  
 **Textbook Reference:** Silberschatz, Korth & Sudarshan, *Database System Concepts* (7th Edition)
