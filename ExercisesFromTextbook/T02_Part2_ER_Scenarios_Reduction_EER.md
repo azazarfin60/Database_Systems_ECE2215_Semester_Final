@@ -12,7 +12,7 @@ source_chapters:
   - "Chapter 06"
 ---
 
-[← Prev: T02 Part 1](T02_Part1_ER_Modeling_Basics.md) | [Exam-style T02](../Topicwise_answers_exam_style/T02_ER_and_EER_Modeling.md) | [Next: T03 →](T03_Relational_Model_Keys_and_Integrity.md)
+[← Prev: T02 Part 1](T02_Part1_ER_Modeling_Basics.md) | [Index](00_Index.md) | [Next: T03 →](T03_Relational_Model_Keys_and_Integrity.md)
 
 ---
 
@@ -1440,6 +1440,7 @@ Combining the disjointness constraint (disjoint vs. overlapping) with the comple
 - **Double Line Notation:** In RUET exams, always use a **double line** connecting the superclass rectangle to the generalization symbol when representing a total constraint, exactly analogous to total participation in relationship sets.
 - **Relational Elimination Rule:** Remember this golden rule for exam answers: *The superclass table can only be safely eliminated if the specialization is BOTH Total AND Disjoint.* If it is partial, eliminating the superclass table leaves no place to store uncategorized entities. If it is overlapping, eliminating it duplicates inherited attributes across subclass tables.
 
+
 ---
 
-[← Prev: T02 Part 1](T02_Part1_ER_Modeling_Basics.md) | [Exam-style T02](../Topicwise_answers_exam_style/T02_ER_and_EER_Modeling.md) | [Next: T03 →](T03_Relational_Model_Keys_and_Integrity.md)
+[← Prev: T02 Part 1](T02_Part1_ER_Modeling_Basics.md) | [Index](00_Index.md) | [Next: T03 →](T03_Relational_Model_Keys_and_Integrity.md)

@@ -13,7 +13,7 @@ source_chapters:
   - "Chapter 19"
 ---
 
-[← Prev: T12 Part 1](T12_Part1_Failure_Types_and_RAID_Intro.md) | [Exam-style T12](../Topicwise_answers_exam_style/T12_Recovery_System_and_RAID.md) | [Next: T12 Part 3 →](T12_Part3_Checkpoints_and_RAID_Levels.md)
+[← Prev: T12 Part 1](T12_Part1_Failure_Types_and_RAID_Intro.md) | [Index](00_Index.md) | [Next: T12 Part 3 →](T12_Part3_Checkpoints_and_RAID_Levels.md)
 
 ---
 
@@ -1229,6 +1229,7 @@ Under `force`, a transaction cannot commit until every database page it modified
 > - `No-Force` maximizes transaction commit speed through sequential log writes.
 > - The trade-off is that `Steal / No-Force` requires both **Undo** and **Redo** recovery mechanisms during restart, which is managed via WAL and ARIES.
 
+
 ---
 
-[← Prev: T12 Part 1](T12_Part1_Failure_Types_and_RAID_Intro.md) | [Exam-style T12](../Topicwise_answers_exam_style/T12_Recovery_System_and_RAID.md) | [Next: T12 Part 3 →](T12_Part3_Checkpoints_and_RAID_Levels.md)
+[← Prev: T12 Part 1](T12_Part1_Failure_Types_and_RAID_Intro.md) | [Index](00_Index.md) | [Next: T12 Part 3 →](T12_Part3_Checkpoints_and_RAID_Levels.md)

@@ -6,7 +6,7 @@ exercise_count: 14
 source_chapters: ["Chapter 04", "Chapter 05", "Chapter 09"]
 ---
 
-[← Prev: T06](T06_Joins_and_Views.md) | [Exam-style T07](../Topicwise_answers_exam_style/T07_Triggers_and_Stored_Procedures.md) | [Next: T08 Part 1 →](T08_Part1_FDs_and_Armstrong_Axioms.md)
+[← Prev: T06](T06_Joins_and_Views.md) | [Index](00_Index.md) | [Next: T08 Part 1 →](T08_Part1_FDs_and_Armstrong_Axioms.md)
 
 ---
 
@@ -2017,3 +2017,7 @@ catch (SQLException e) {
 > 3. Explain the connection pool starvation disaster (HikariCP pool exhaustion).
 > 4. Mention **exception suppression** (preserving the real business error).
 
+
+---
+
+[← Prev: T06](T06_Joins_and_Views.md) | [Index](00_Index.md) | [Next: T08 Part 1 →](T08_Part1_FDs_and_Armstrong_Axioms.md)

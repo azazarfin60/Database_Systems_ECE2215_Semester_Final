@@ -12,7 +12,7 @@ source_chapters:
   - "Chapter 05"
 ---
 
-[← Prev: T05 Part 4](T05_Part4_SQL_MultiTable_Business_Queries.md) | [Exam-style T06](../Topicwise_answers_exam_style/T06_Joins_and_Views.md) | [Next: T07 →](T07_Triggers_and_Stored_Procedures.md)
+[← Prev: T05 Part 4](T05_Part4_SQL_MultiTable_Business_Queries.md) | [Index](00_Index.md) | [Next: T07 →](T07_Triggers_and_Stored_Procedures.md)
 
 ---
 
@@ -1315,3 +1315,8 @@ Suppose initial tables are empty.
 >      - No `GROUP BY` or `HAVING`.
 >      - No `DISTINCT`.
 >      - Base table primary keys and `NOT NULL` columns without defaults are preserved.
+
+
+---
+
+[← Prev: T05 Part 4](T05_Part4_SQL_MultiTable_Business_Queries.md) | [Index](00_Index.md) | [Next: T07 →](T07_Triggers_and_Stored_Procedures.md)

@@ -13,7 +13,7 @@ source_chapters:
   - "Chapter 19"
 ---
 
-[← Prev: T12 Part 2](T12_Part2_Recovery_Manager_and_Log_Recovery.md) | [Exam-style T12](../Topicwise_answers_exam_style/T12_Recovery_System_and_RAID.md) | [Next: T13 Part 1 →](T13_Part1_Security_and_Authorization_A.md)
+[← Prev: T12 Part 2](T12_Part2_Recovery_Manager_and_Log_Recovery.md) | [Index](00_Index.md) | [Next: T13 Part 1 →](T13_Part1_Security_and_Authorization_A.md)
 
 ---
 
@@ -1211,3 +1211,8 @@ To achieve full marks on T12 recovery and RAID questions in ECE 2215:
    - Never place a data block and its parity block on the same physical disk.
    - For $N$ disks in RAID 5, each stripe consists of $(N - 1)$ data blocks and $1$ parity block.
    - RAID 1 / RAID 10 is the universally preferred architecture for write-intensive enterprise database engines due to the complete absence of the 4-I/O small write penalty and isolated online rebuild interference.
+
+
+---
+
+[← Prev: T12 Part 2](T12_Part2_Recovery_Manager_and_Log_Recovery.md) | [Index](00_Index.md) | [Next: T13 Part 1 →](T13_Part1_Security_and_Authorization_A.md)

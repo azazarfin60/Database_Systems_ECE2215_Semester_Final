@@ -13,6 +13,10 @@ source_chapters:
   - "Chapter 04"
 ---
 
+[← Prev: T05 Part 3](T05_Part3_SQL_Aggregations_and_Subqueries.md) | [Index](00_Index.md) | [Next: T06 →](T06_Joins_and_Views.md)
+
+---
+
 # T05 (Part 4) · SQL: Multi-Table Enterprise Schemas & Advanced Queries
 
 [← Prev: T05 Part 3](T05_Part3_SQL_Aggregations_and_Subqueries.md) | [Exam-style T05](../Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md) | [Next: T06 →](T06_Joins_and_Views.md)
@@ -1895,6 +1899,7 @@ graph TD
 4. **Zero-Count Entities in Averages:**
    - When computing library-wide or university-wide averages where non-active entities exist (e.g., members with no borrowings), avoid calculating `AVG()` over the child relation directly. Use either the scalar ratio of counts or a `LEFT OUTER JOIN` paired with `COUNT(child_attribute)`.
 
+
 ---
 
-[← Prev: T05 Part 3](T05_Part3_SQL_Aggregations_and_Subqueries.md) | [Exam-style T05](../Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md) | [Next: T06 →](T06_Joins_and_Views.md)
+[← Prev: T05 Part 3](T05_Part3_SQL_Aggregations_and_Subqueries.md) | [Index](00_Index.md) | [Next: T06 →](T06_Joins_and_Views.md)

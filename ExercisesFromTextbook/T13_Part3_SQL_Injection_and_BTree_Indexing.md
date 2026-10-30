@@ -13,7 +13,7 @@ source_chapters:
   - "Chapter 14"
 ---
 
-[← Prev: T13 Part 2](T13_Part2_Security_and_Authorization_B.md) | [Exam-style T13](../Topicwise_answers_exam_style/T13_Security_Indexing_and_Hashing.md) | [Next: T13 Part 4 →](T13_Part4_Indexing_and_Hashing.md)
+[← Prev: T13 Part 2](T13_Part2_Security_and_Authorization_B.md) | [Index](00_Index.md) | [Next: T13 Part 4 →](T13_Part4_Indexing_and_Hashing.md)
 
 ---
 
@@ -1573,6 +1573,7 @@ It is preferable to use a **dense index** over a sparse index in the following f
 >   2. The mandatory ordering constraint: **sparse indices require ordered data files**.
 >   3. The comparative trade-off: **dense is faster for lookups / secondary indices, sparse saves disk space**.
 
+
 ---
 
-[← Prev: T13 Part 2](T13_Part2_Security_and_Authorization_B.md) | [Exam-style T13](../Topicwise_answers_exam_style/T13_Security_Indexing_and_Hashing.md) | [Next: T13 Part 4 →](T13_Part4_Indexing_and_Hashing.md)
+[← Prev: T13 Part 2](T13_Part2_Security_and_Authorization_B.md) | [Index](00_Index.md) | [Next: T13 Part 4 →](T13_Part4_Indexing_and_Hashing.md)

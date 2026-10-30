@@ -12,6 +12,10 @@ source_chapters:
   - "Chapter 07"
 ---
 
+[← Prev: T07](T07_Triggers_and_Stored_Procedures.md) | [Index](00_Index.md) | [Next: T08 Part 2 →](T08_Part2_Canonical_Cover_and_3NF.md)
+
+---
+
 # T08 (Part 1) · Functional Dependencies, Armstrong's Axioms, and Attribute Closures
 
 [← Prev: T07](T07_Triggers_and_Stored_Procedures.md) | [Exam-style T08](../Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md) | [Next: T08 Part 2 →](T08_Part2_Canonical_Cover_and_3NF.md)
@@ -1534,4 +1538,7 @@ The dependencies $DE \rightarrow B$, $DEG \rightarrow AB$, and $AC \rightarrow D
 > - **2 Marks** for testing the closure of the LHS of the lost dependencies under the projected FD sets ($F'$).
 > - **1 Mark** for the clear concluding statement ("NOT dependency preserving").
 
+
 ---
+
+[← Prev: T07](T07_Triggers_and_Stored_Procedures.md) | [Index](00_Index.md) | [Next: T08 Part 2 →](T08_Part2_Canonical_Cover_and_3NF.md)

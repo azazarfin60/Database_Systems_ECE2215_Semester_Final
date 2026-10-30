@@ -13,7 +13,7 @@ source_chapters:
   - "Chapter 19"
 ---
 
-[← Prev: T11 Part 3](T11_Part3_Deadlock_and_Timestamp_Ordering.md) | [Exam-style T12](../Topicwise_answers_exam_style/T12_Recovery_System_and_RAID.md) | [Next: T12 Part 2 →](T12_Part2_Recovery_Manager_and_Log_Recovery.md)
+[← Prev: T11 Part 3](T11_Part3_Deadlock_and_Timestamp_Ordering.md) | [Index](00_Index.md) | [Next: T12 Part 2 →](T12_Part2_Recovery_Manager_and_Log_Recovery.md)
 
 ---
 
@@ -1197,3 +1197,8 @@ Always enforce sequential writes during updates:
 2. Verify checksum on $D_1$.
 3. Write block to $D_2$. Wait for completion.
 *Invariant:* Never write to both mirrors concurrently. This prevents simultaneous torn blocks.
+
+
+---
+
+[← Prev: T11 Part 3](T11_Part3_Deadlock_and_Timestamp_Ordering.md) | [Index](00_Index.md) | [Next: T12 Part 2 →](T12_Part2_Recovery_Manager_and_Log_Recovery.md)

@@ -13,7 +13,7 @@ source_chapters:
   - "Chapter 09"
 ---
 
-[← Prev: T13 Part 1](T13_Part1_Security_and_Authorization_A.md) | [Exam-style T13](../Topicwise_answers_exam_style/T13_Security_Indexing_and_Hashing.md) | [Next: T13 Part 3 →](T13_Part3_SQL_Injection_and_BTree_Indexing.md)
+[← Prev: T13 Part 1](T13_Part1_Security_and_Authorization_A.md) | [Index](00_Index.md) | [Next: T13 Part 3 →](T13_Part3_SQL_Injection_and_BTree_Indexing.md)
 
 ---
 
@@ -1516,3 +1516,8 @@ A challenge–response exchange operates as follows:
 1. **Defense-in-Depth:** Robust database security combines network layers (TLS/HTTPS, digital certificates), application-level controls (session protection, salted password hashing, connection pooling), and database-level protections (fine-grained VPD row-level security, triggers, encryption at rest).
 2. **Monotonic vs. Non-Monotonic Authorization (VPD):** Appending security predicates $\land P$ to user queries usually restricts results to a subset. However, in queries containing **negation** (`NOT EXISTS`, `EXCEPT`) or **outer joins**, row-level security predicates can cause non-monotonic inversions, producing tuples that were absent in the unconstrained query.
 3. **Administrative Boundaries:** Trigger-based audit trails protect against unauthorized user modifications, but they cannot defend against superusers (DBAs) who have the privilege to disable triggers and purge audit tables. Real-world audit integrity requires separation of duties and tamper-evident append-only logging.
+
+
+---
+
+[← Prev: T13 Part 1](T13_Part1_Security_and_Authorization_A.md) | [Index](00_Index.md) | [Next: T13 Part 3 →](T13_Part3_SQL_Injection_and_BTree_Indexing.md)

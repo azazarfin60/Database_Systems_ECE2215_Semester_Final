@@ -7,6 +7,10 @@ exercise_count: 12
 source_chapters: ["Chapter 03", "Chapter 04", "Chapter 05"]
 ---
 
+[← Prev: T05 Part 1](T05_Part1_SQL_DDL_DML_Basics.md) | [Index](00_Index.md) | [Next: T05 Part 3 →](T05_Part3_SQL_Aggregations_and_Subqueries.md)
+
+---
+
 # T05 · SQL (Part 2 · Query Clauses, Ordering & Aggregation Queries) — Solutions
 
 [← Prev: T05 Part 1](T05_Part1_SQL_DDL_DML_Basics.md) | [Exam-style T05](../Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md) | [Next: T05 Part 3 →](T05_Part3_SQL_Aggregations_and_Subqueries.md)
@@ -1111,6 +1115,7 @@ Because this collection is precisely the power set $\mathcal{P}(\{a, b, c, d\})$
 - **Theoretical Elegance:** This exercise tests whether a student understands the algebraic foundations of SQL's query processor. RUET external examiners from BUET/RUET frequently select this exact question for high-mark conceptual testing.
 - **Examiner Scoring Key:** An answer that provides the one-line clause `GROUP BY ROLLUP(a), ROLLUP(b), ROLLUP(c), ROLLUP(d)` accompanied by the Cartesian product cardinality calculation ($2 \times 2 \times 2 \times 2 = 16 = 2^4$) earns $100\%$ marks immediately.
 
+
 ---
 
-[← Prev: T05 Part 1](T05_Part1_SQL_DDL_DML_Basics.md) | [Exam-style T05](../Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md) | [Next: T05 Part 3 →](T05_Part3_SQL_Aggregations_and_Subqueries.md)
+[← Prev: T05 Part 1](T05_Part1_SQL_DDL_DML_Basics.md) | [Index](00_Index.md) | [Next: T05 Part 3 →](T05_Part3_SQL_Aggregations_and_Subqueries.md)

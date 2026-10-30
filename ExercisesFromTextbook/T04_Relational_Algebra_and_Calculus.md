@@ -11,7 +11,7 @@ source_chapters:
   - "Chapter 02"
 ---
 
-[← Prev: T03](T03_Relational_Model_Keys_and_Integrity.md) | [Exam-style T04](../Topicwise_answers_exam_style/T04_Relational_Algebra_and_Calculus.md) | [Next: T05 Part 1 →](T05_Part1_SQL_DDL_DML_Basics.md)
+[← Prev: T03](T03_Relational_Model_Keys_and_Integrity.md) | [Index](00_Index.md) | [Next: T05 Part 1 →](T05_Part1_SQL_DDL_DML_Basics.md)
 
 ---
 
@@ -1068,14 +1068,7 @@ To synthesize the theoretical operations across the three query representations,
 | **Universal Division ($\div$)** | $r \div s$ | `NOT EXISTS (... NOT EXISTS ...)` | $\forall y (\langle y \rangle \in s \to \langle x, y \rangle \in r)$ |
 | **Aggregation ($\gamma$)** | ${}_A\gamma_{\text{count}(B)}(R)$ | `GROUP BY A` | *(Requires extended calculus)* |
 
+
 ---
 
-## Verification & Self-Check Checklist
-
-- [x] All 8 assigned textbook exercises are solved in full detail: **PE 2.5, PE 2.6, PE 2.7, PE 2.8, PE 2.9, EX 2.14, EX 2.15, EX 2.18**.
-- [x] Subtopics **T04.1, T04.2, T04.5** are systematically covered and organized under clean H2 headers.
-- [x] Past exam recycling verified: **2017 Q.2(a)** [8 Marks] cross-referenced with PE 2.6 and EX 2.14(d).
-- [x] Relational Division ($\div$) derivation from primitive operators ($\Pi, \times, -$) rigorously detailed step-by-step for PE 2.9.
-- [x] All math display blocks formatted with `$$` fences alone on their own lines, complying with `MARKDOWN-GUIDE.md`.
-- [x] Currency values formatted with escaped dollars (e.g., `\$10,000`, `\$100,000`) to prevent markdown KaTeX parser corruptions.
-- [x] Complete Domain Relational Calculus (DRC) expressions included for every exercise, with safety condition explanations.
+[← Prev: T03](T03_Relational_Model_Keys_and_Integrity.md) | [Index](00_Index.md) | [Next: T05 Part 1 →](T05_Part1_SQL_DDL_DML_Basics.md)

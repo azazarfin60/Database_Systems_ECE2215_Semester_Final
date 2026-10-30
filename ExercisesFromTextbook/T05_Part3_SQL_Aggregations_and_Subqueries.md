@@ -7,7 +7,9 @@ exercise_count: 10
 source_chapters: ["Chapter 03", "Chapter 05"]
 ---
 
-[← Prev: T05 Part 2](T05_Part2_SQL_Clauses_and_Aggregations.md) | [Exam-style T05](../Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md) | [Next: T05 Part 4 →](T05_Part4_SQL_MultiTable_Business_Queries.md)
+[← Prev: T05 Part 2](T05_Part2_SQL_Clauses_and_Aggregations.md) | [Index](00_Index.md) | [Next: T05 Part 4 →](T05_Part4_SQL_MultiTable_Business_Queries.md)
+
+---
 
 # T05 (Part 3) · SQL: Advanced Aggregations, Extremes & Subqueries
 
@@ -1156,4 +1158,7 @@ The final relation contains both `(BIO-301, BIO-101, 0)` and `(BIO-301, BIO-101,
 > `CYCLE prereq_id SET is_cycle USING path`
 > In exams, adding a safety condition like `WHERE rec.depth < 20` shows good awareness of cycle handling.
 
+
 ---
+
+[← Prev: T05 Part 2](T05_Part2_SQL_Clauses_and_Aggregations.md) | [Index](00_Index.md) | [Next: T05 Part 4 →](T05_Part4_SQL_MultiTable_Business_Queries.md)

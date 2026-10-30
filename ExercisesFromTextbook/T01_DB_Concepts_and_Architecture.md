@@ -12,7 +12,7 @@ source_chapters:
   - "Chapter 02"
 ---
 
-[Explanation layer](../Topicwise_answers_explaination/T01_DB_Concepts_and_Architecture.md) | [Exam-style layer](../Topicwise_answers_exam_style/T01_DB_Concepts_and_Architecture.md) | [Next: T02 Part 1 →](T02_Part1_ER_Modeling_Basics.md)
+[Index](00_Index.md) | [Next: T02 Part 1 →](T02_Part1_ER_Modeling_Basics.md)
 
 ---
 
@@ -1082,3 +1082,8 @@ Relational systems scale primarily **vertically** (requiring larger, more expens
 
 - **Syllabus Connection:** NoSQL concepts appear in Syllabus Unit 8 (Advanced DBMS Topics). They also help students understand the design trade-offs of the relational model taught in Units 1 and 3.
 - **Key Concepts to Include:** Contrast **ACID** (Atomicity, Consistency, Isolation, Durability) with **BASE** (Basically Available, Soft-state, Eventual consistency). Also explain the difference between **scale-up** (vertical) and **scale-out** (horizontal) architectures.
+
+
+---
+
+[Index](00_Index.md) | [Next: T02 Part 1 →](T02_Part1_ER_Modeling_Basics.md)

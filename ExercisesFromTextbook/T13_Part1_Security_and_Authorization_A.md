@@ -13,7 +13,7 @@ source_chapters:
   - "Chapter 09"
 ---
 
-[← Prev: T12 Part 3](T12_Part3_Checkpoints_and_RAID_Levels.md) | [Exam-style T13](../Topicwise_answers_exam_style/T13_Security_Indexing_and_Hashing.md) | [Next: T13 Part 2 →](T13_Part2_Security_and_Authorization_B.md)
+[← Prev: T12 Part 3](T12_Part3_Checkpoints_and_RAID_Levels.md) | [Index](00_Index.md) | [Next: T13 Part 2 →](T13_Part2_Security_and_Authorization_B.md)
 
 ---
 
@@ -1057,14 +1057,7 @@ At first glance, it might appear that creating a foreign key only constrains the
 #### 3. RUET Exam Insights & Examiner Notes
 - **Examiner Tip:** State clearly: "A foreign key in relation $r_1$ restricts `DELETE` and `UPDATE` operations on relation $r_2$." Mentioning this reciprocal restriction is the exact reason why the **`REFERENCES`** privilege exists in the SQL standard.
 
+
 ---
 
-## Verification & Final Checklist
-
-- [x] All 15 assigned exercises (PE 9.1, 9.2, 9.3, 9.4, 9.6, 9.7, 9.9, 9.10, 9.11, 9.12, EX 4.11, 4.12, 4.23, 4.24, 4.25) are solved in full.
-- [x] Complete frontmatter matching required metadata, tags, and source chapters.
-- [x] Navigation breadcrumbs point correctly to prior, exam-style, and next files.
-- [x] Complete table of exercises with anchor jumps and difficulty ratings.
-- [x] Strict adherence to KaTeX math fences (all `$$` display equations alone on their own lines).
-- [x] No unbalanced dollar signs, raw shell escapes, or broken markdown formatting.
-- [x] Deep academic, mathematical, and RUET exam calibration applied to every exercise.
+[← Prev: T12 Part 3](T12_Part3_Checkpoints_and_RAID_Levels.md) | [Index](00_Index.md) | [Next: T13 Part 2 →](T13_Part2_Security_and_Authorization_B.md)

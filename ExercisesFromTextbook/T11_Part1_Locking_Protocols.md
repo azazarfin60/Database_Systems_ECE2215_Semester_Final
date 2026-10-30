@@ -12,7 +12,7 @@ source_chapters:
   - "Chapter 18"
 ---
 
-[← Prev: T10](T10_Serializability.md) | [Exam-style T11](../Topicwise_answers_exam_style/T11_Concurrency_Control_Protocols.md) | [Next: T11 Part 2 →](T11_Part2_2PL_and_Lock_Conversions.md)
+[← Prev: T10](T10_Serializability.md) | [Index](00_Index.md) | [Next: T11 Part 2 →](T11_Part2_2PL_and_Lock_Conversions.md)
 
 ---
 
@@ -1298,3 +1298,8 @@ When another transaction $T_j$ wishes to explicitly lock a fine-grained node (e.
   - Definition of Implicit Locking with ancestor inheritance mention: **1.5 Marks**.
   - Conflict detection mechanism (why Intention locks exist): **1 Mark**.
 - **Common Trap:** Do not confuse *implicit locking* with *automatic locking done by the SQL compiler*. In DBMS literature and Silberschatz Chapter 18, implicit locking strictly refers to the logical inheritance of locks down an MGL hierarchy!
+
+
+---
+
+[← Prev: T10](T10_Serializability.md) | [Index](00_Index.md) | [Next: T11 Part 2 →](T11_Part2_2PL_and_Lock_Conversions.md)

@@ -1,10 +1,19 @@
 ---
-title: "Topic T08 · Normalization and Functional Dependencies (Part 3 · BCNF & Advanced Normal Forms)"
-tags: [ece2215, database-systems, silberschatz-exercises, topic-T08]
+title: Topic T08 · Normalization and Functional Dependencies (Part 3 · BCNF & Advanced Normal Forms)
+tags:
+  - ece2215
+  - database-systems
+  - silberschatz-exercises
+  - topic-T08
 topic_id: T08
 part: 3
 exercise_count: 14
-source_chapters: ["Chapter 07"]
+source_chapters:
+  - Chapter 07
+---
+
+[← Prev: T08 Part 2](T08_Part2_Canonical_Cover_and_3NF.md) | [Index](00_Index.md) | [Next: T09 →](T09_Transactions_ACID_and_Anomalies.md)
+
 ---
 
 # Topic T08 · Normalization and Functional Dependencies (Part 3 · BCNF & Advanced Normal Forms)
@@ -1685,3 +1694,8 @@ WHERE
 > 1. Write the clean query utilizing `&&` and `*` as asked by Silberschatz.
 > 2. Add the 2-line explanation of interval overlap and intersection logic.
 > 3. Providing the `GREATEST`/`LEAST` expansion guarantees maximum marks.
+
+
+---
+
+[← Prev: T08 Part 2](T08_Part2_Canonical_Cover_and_3NF.md) | [Index](00_Index.md) | [Next: T09 →](T09_Transactions_ACID_and_Anomalies.md)

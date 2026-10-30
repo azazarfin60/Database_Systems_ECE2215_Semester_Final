@@ -12,7 +12,7 @@ source_chapters:
   - "Chapter 18"
 ---
 
-[← Prev: T11 Part 1](T11_Part1_Locking_Protocols.md) | [Exam-style T11](../Topicwise_answers_exam_style/T11_Concurrency_Control_Protocols.md) | [Next: T11 Part 3 →](T11_Part3_Deadlock_and_Timestamp_Ordering.md)
+[← Prev: T11 Part 1](T11_Part1_Locking_Protocols.md) | [Index](00_Index.md) | [Next: T11 Part 3 →](T11_Part3_Deadlock_and_Timestamp_Ordering.md)
 
 ---
 
@@ -864,5 +864,7 @@ To verify complete technical accuracy across this exercise set, consult the quic
 | **EX 18.34** | Next-Key Index Locking | Eliminates phantom phenomenon | Locks gaps; slightly restricts concurrent inserts |
 | **EX 18.35** | Deferring Hot-Spot Locks | Orders-of-magnitude throughput boost | Requires careful application transaction design |
 
+
 ---
-*End of T11 Part 2 Exercise Solutions. Next: [[T11_Part3_Deadlock_and_Timestamp_Ordering|T11 Part 3 · Deadlock Detection and Timestamp Ordering →]]*
+
+[← Prev: T11 Part 1](T11_Part1_Locking_Protocols.md) | [Index](00_Index.md) | [Next: T11 Part 3 →](T11_Part3_Deadlock_and_Timestamp_Ordering.md)

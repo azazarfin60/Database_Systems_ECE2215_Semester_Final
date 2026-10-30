@@ -12,6 +12,10 @@ source_chapters:
   - "Chapter 18"
 ---
 
+[← Prev: T11 Part 2](T11_Part2_2PL_and_Lock_Conversions.md) | [Index](00_Index.md) | [Next: T12 Part 1 →](T12_Part1_Failure_Types_and_RAID_Intro.md)
+
+---
+
 # T11 · Concurrency Control Protocols (Part 3 · Deadlock & Timestamp Ordering)
 
 [← Prev: T11 Part 2](T11_Part2_2PL_and_Lock_Conversions.md) | [Exam-style T11](../Topicwise_answers_exam_style/T11_Concurrency_Control_Protocols.md) | [Next: T12 Part 1 →](T12_Part1_Failure_Types_and_RAID_Intro.md)
@@ -872,9 +876,7 @@ To illustrate why first-committer-wins SI does not ensure full serializability (
 #### 3. RUET Exam Insights & Examiner Notes
 - **Modern Curriculum Value:** This question connects traditional locking theory to modern enterprise engine internals. Emphasize that while Snapshot Isolation eliminates dirty reads, non-repeatable reads, and lost updates, its lack of read validation allows **write skew**, which is why PostgreSQL implemented Serializable Snapshot Isolation (SSI).
 
+
 ---
 
-## 🧭 Subtopic Navigation & Cross References
-- **Previous Part:** [[T11_Part2_2PL_and_Lock_Conversions]] · Practice Exercises on 2PL lock point proofs and lock upgrade/downgrade conversion matrices.
-- **Exam-Style Review:** [[../Topicwise_answers_exam_style/T11_Concurrency_Control_Protocols|Exam-Style Answers for T11]] · High-yield mark-calibrated exam solutions for RUET finals.
-- **Next Topic:** [[T12_Part1_Failure_Types_and_RAID_Intro]] · Recovery System foundations, storage media hierarchy, failure classifications, and RAID 0–6 parity mathematics.
+[← Prev: T11 Part 2](T11_Part2_2PL_and_Lock_Conversions.md) | [Index](00_Index.md) | [Next: T12 Part 1 →](T12_Part1_Failure_Types_and_RAID_Intro.md)

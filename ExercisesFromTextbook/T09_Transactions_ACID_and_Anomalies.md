@@ -13,7 +13,7 @@ source_chapters:
   - "Chapter 18"
 ---
 
-[← Prev: T08 Part 3](T08_Part3_BCNF_and_Advanced_Normalization.md) | [Exam-style T09](../Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md) | [Next: T10 →](T10_Serializability.md)
+[← Prev: T08 Part 3](T08_Part3_BCNF_and_Advanced_Normalization.md) | [Index](00_Index.md) | [Next: T10 →](T10_Serializability.md)
 
 ---
 
@@ -826,8 +826,7 @@ To support RUET exam preparation for T09.5, the table below contrasts all five m
 | **Phantom Phenomenon** | Dynamic Range Anomaly | A transaction re-executes a range query and discovers new rows inserted by a committed transaction. | $R_1(\text{range}) \to \text{Insert}_2(\text{tuple}) \to \text{Commit}_2 \to R_1(\text{range})$ (new tuple appears). | Serializable (Predicate / Index Locking) |
 | **Incorrect Summary** | Inconsistent Analysis | An aggregate query reads some values before an update and other values after the update. | $R_1(A) \to W_2(A) \to W_2(B) \to \text{Commit}_2 \to R_1(B)$ ($T_1$ reads inconsistent sum). | Repeatable Read / Serializable |
 
+
 ---
 
-## Navigation Footer
-
-[← Prev: T08 Part 3 (BCNF & Advanced Normalization)](T08_Part3_BCNF_and_Advanced_Normalization.md) | [Exam-style T09](../Topicwise_answers_exam_style/T09_Transactions_ACID_and_Anomalies.md) | [Next: T10 (Serializability) →](T10_Serializability.md)
+[← Prev: T08 Part 3](T08_Part3_BCNF_and_Advanced_Normalization.md) | [Index](00_Index.md) | [Next: T10 →](T10_Serializability.md)

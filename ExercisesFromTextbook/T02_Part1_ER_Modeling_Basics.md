@@ -12,7 +12,7 @@ source_chapters:
   - "Chapter 06"
 ---
 
-[← Prev: T01](T01_DB_Concepts_and_Architecture.md) | [Exam-style T02](../Topicwise_answers_exam_style/T02_ER_and_EER_Modeling.md) | [Next: T02 Part 2 →](T02_Part2_ER_Scenarios_Reduction_EER.md)
+[← Prev: T01](T01_DB_Concepts_and_Architecture.md) | [Index](00_Index.md) | [Next: T02 Part 2 →](T02_Part2_ER_Scenarios_Reduction_EER.md)
 
 ---
 
@@ -1252,6 +1252,7 @@ CREATE TABLE advisor_history (
 - While standard RUET questions ask for static snapshot diagrams, semester final questions frequently include time-variant data (such as semester-wise results or changing advisors across sessions).
 - Highlighting that `start_time` must become part of the composite primary key in temporal tables shows deep relational database maturity.
 
+
 ---
 
-[← Prev: T01](T01_DB_Concepts_and_Architecture.md) | [Exam-style T02](../Topicwise_answers_exam_style/T02_ER_and_EER_Modeling.md) | [Next: T02 Part 2 →](T02_Part2_ER_Scenarios_Reduction_EER.md)
+[← Prev: T01](T01_DB_Concepts_and_Architecture.md) | [Index](00_Index.md) | [Next: T02 Part 2 →](T02_Part2_ER_Scenarios_Reduction_EER.md)

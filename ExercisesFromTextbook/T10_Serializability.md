@@ -11,7 +11,7 @@ source_chapters:
   - "Chapter 17"
 ---
 
-[← Prev: T09](T09_Transactions_ACID_and_Anomalies.md) | [Exam-style T10](../Topicwise_answers_exam_style/T10_Serializability.md) | [Next: T11 Part 1 →](T11_Part1_Locking_Protocols.md)
+[← Prev: T09](T09_Transactions_ACID_and_Anomalies.md) | [Index](00_Index.md) | [Next: T11 Part 1 →](T11_Part1_Locking_Protocols.md)
 
 ---
 
@@ -1352,3 +1352,8 @@ Every exercise in this document is cross-referenced with syllabus taxonomy, past
 | **EX 17.19** | `T10.6` | Read Committed Cascade-Freedom | p. 833 | [Exam-style T10 §T10.6](../Topicwise_answers_exam_style/T10_Serializability.md#t106--recoverable--cascadeless--strict-schedules) | Concurrency Engine Proof |
 | **EX 17.20** | `T10.4` | SQL Isolation Non-Serializable Runs | p. 833 | [Exam-style T10 §T10.4](../Topicwise_answers_exam_style/T10_Serializability.md#t104--build-serializablenon-serializable-schedules-t_1t_2-with-if-a--0-then-b--b1) | ANSI SQL-92 Standard |
 | **EX 17.21** | `T10.4` | Predicate Reads & Phantom Conflict | pp. 833–834 | [Exam-style T10 §T10.4](../Topicwise_answers_exam_style/T10_Serializability.md#t104--build-serializablenon-serializable-schedules-t_1t_2-with-if-a--0-then-b--b1) | Predicate Concurrency Control |
+
+
+---
+
+[← Prev: T09](T09_Transactions_ACID_and_Anomalies.md) | [Index](00_Index.md) | [Next: T11 Part 1 →](T11_Part1_Locking_Protocols.md)

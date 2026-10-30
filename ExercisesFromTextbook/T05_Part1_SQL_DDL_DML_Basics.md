@@ -14,7 +14,7 @@ source_chapters:
   - "Chapter 05"
 ---
 
-[← Prev: T04](T04_Relational_Algebra_and_Calculus.md) | [Exam-style T05](../Topicwise_answers_exam_style/T05_SQL_DDL_DML_Aggregates_Subqueries.md) | [Next: T05 Part 2 →](T05_Part2_SQL_Clauses_and_Aggregations.md)
+[← Prev: T04](T04_Relational_Algebra_and_Calculus.md) | [Index](00_Index.md) | [Next: T05 Part 2 →](T05_Part2_SQL_Clauses_and_Aggregations.md)
 
 ---
 
@@ -1465,4 +1465,7 @@ All **13 assigned exercises** have been thoroughly analyzed, fully solved, and c
 - **T05.1 (Theory, Paradigms, & Optimization):** PE 5.4, PE 3.7, EX 3.23, EX 5.16
 - **T05.2 (DDL Constraints, DML Statements, & Testing):** PE 3.1, PE 3.3, PE 3.10, EX 3.12, EX 3.13, EX 3.17, EX 3.18, EX 3.26, EX 4.5
 
-Continue to [T05 Part 2 · SQL Clauses & Aggregations](T05_Part2_SQL_Clauses_and_Aggregations.md) for advanced multi-table business schemas, window functions, and `GROUP BY` / `HAVING` mastery.
+
+---
+
+[← Prev: T04](T04_Relational_Algebra_and_Calculus.md) | [Index](00_Index.md) | [Next: T05 Part 2 →](T05_Part2_SQL_Clauses_and_Aggregations.md)

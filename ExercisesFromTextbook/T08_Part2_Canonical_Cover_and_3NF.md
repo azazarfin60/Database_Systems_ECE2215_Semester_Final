@@ -7,7 +7,9 @@ exercise_count: 15
 source_chapters: ["Chapter 07"]
 ---
 
-[← Prev: T08 Part 1](T08_Part1_FDs_and_Armstrong_Axioms.md) | [Exam-style T08](../Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md) | [Next: T08 Part 3 →](T08_Part3_BCNF_and_Advanced_Normalization.md)
+[← Prev: T08 Part 1](T08_Part1_FDs_and_Armstrong_Axioms.md) | [Index](00_Index.md) | [Next: T08 Part 3 →](T08_Part3_BCNF_and_Advanced_Normalization.md)
+
+---
 
 # T08 · Normalization & Functional Dependencies: Part 2 · Canonical Cover & 3NF Synthesis
 
@@ -1739,6 +1741,7 @@ In data warehouse design (such as Kimball Dimensional Modeling), dimension table
 > 1. **Dependency Preservation:** Some schemas cannot be placed into BCNF without losing dependencies (e.g., $\text{street, city, zipcode}$). 3NF is chosen to preserve constraints.
 > 2. **Performance Optimization:** BCNF requires multiple table joins during reads. Denormalization reduces join overhead for read-heavy workloads.
 
+
 ---
 
-[← Prev: T08 Part 1](T08_Part1_FDs_and_Armstrong_Axioms.md) | [Exam-style T08](../Topicwise_answers_exam_style/T08_Normalization_and_Functional_Dependencies.md) | [Next: T08 Part 3 →](T08_Part3_BCNF_and_Advanced_Normalization.md)
+[← Prev: T08 Part 1](T08_Part1_FDs_and_Armstrong_Axioms.md) | [Index](00_Index.md) | [Next: T08 Part 3 →](T08_Part3_BCNF_and_Advanced_Normalization.md)

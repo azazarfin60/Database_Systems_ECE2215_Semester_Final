@@ -7,7 +7,7 @@ exercise_count: 13
 source_chapters: ["Chapter 14"]
 ---
 
-[← Prev: T13 Part 3](T13_Part3_SQL_Injection_and_BTree_Indexing.md) | [Exam-style T13](../Topicwise_answers_exam_style/T13_Security_Indexing_and_Hashing.md) | [Overview](../subtopicwise_questions.md)
+[← Prev: T13 Part 3](T13_Part3_SQL_Injection_and_BTree_Indexing.md) | [Index](00_Index.md)
 
 ---
 
@@ -1281,28 +1281,7 @@ Without $B_{\text{exist}}$, a bitwise NOT ($\neg B_{\text{Finance}}$) would erro
 #### 3. RUET Exam Insights & Examiner Notes
 - **Crucial Edge Case:** Emphasize that in pure boolean logic, $\neg B_{v}$ inverts all bits, including deleted/empty record slots. **The existence bitmap is mandatory in any real DBMS bitmap engine** to mask out deleted slots via $B_{\text{result}} = B_{\text{computed}} \wedge B_{\text{exist}}$. Mentioning this demonstrates production-grade database systems understanding.
 
+
 ---
 
-## Verification & Self-Consistency Audit
-
-```text
-================================================================================
-FINAL VERIFICATION AUDIT MATRIX
-================================================================================
-Assigned Exercises:  13 problems (PE 14.9, 14.10, 14.12, EX 14.17-14.26)
-Frontmatter:         YAML present at line 1, exact tags, part 4, count 13
-Breadcrumbs:         [← Prev: T13 Part 3] | [Exam-style T13] | [Overview]
-Subtopic H2 Blocks:  ## T13.3 · Indexing performance & B-trees
-                     ## T13.4 · Hashing: static vs dynamic
-Exercise Structure:  ### Exercise X.Y · [Title]
-                     > [!info] Exercise Metadata
-                     **Question (Silberschatz 7e Exercise X.Y).**
-                     #### 1. Core Principles & Concept Overview
-                     #### 2. Detailed Step-by-Step Solution
-                     #### 3. RUET Exam Insights & Examiner Notes
-KaTeX Compliance:    All display math fences (double-dollar) alone on their own lines
-                     Zero inline display math blocks
-                     Inline math strictly formatted with single $
-                     Escaped dollar signs in prose (\$80,000)
-================================================================================
-```
+[← Prev: T13 Part 3](T13_Part3_SQL_Injection_and_BTree_Indexing.md) | [Index](00_Index.md)

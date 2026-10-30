@@ -14,7 +14,7 @@ source_chapters:
   - "Chapter 06"
 ---
 
-[← Prev: T02 Part 2](T02_Part2_ER_Scenarios_Reduction_EER.md) | [Exam-style T03](../Topicwise_answers_exam_style/T03_Relational_Model_Keys_and_Integrity.md) | [Next: T04 →](T04_Relational_Algebra_and_Calculus.md)
+[← Prev: T02 Part 2](T02_Part2_ER_Scenarios_Reduction_EER.md) | [Index](00_Index.md) | [Next: T04 →](T04_Relational_Algebra_and_Calculus.md)
 
 ---
 
@@ -1303,6 +1303,7 @@ When drawing this schema diagram on a RUET examination script:
   - 2 marks for correctly directed referential integrity arrows (foreign key $\rightarrow$ primary key).
   - Deductions: -0.5 mark for each reversed arrow (e.g. pointing from parent to child) or arrow terminating at the table header rather than the specific primary key attribute.
 
+
 ---
 
-[← Prev: T02 Part 2](T02_Part2_ER_Scenarios_Reduction_EER.md) | [Exam-style T03](../Topicwise_answers_exam_style/T03_Relational_Model_Keys_and_Integrity.md) | [Next: T04 →](T04_Relational_Algebra_and_Calculus.md)
+[← Prev: T02 Part 2](T02_Part2_ER_Scenarios_Reduction_EER.md) | [Index](00_Index.md) | [Next: T04 →](T04_Relational_Algebra_and_Calculus.md)
