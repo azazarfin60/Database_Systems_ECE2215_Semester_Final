@@ -456,10 +456,11 @@ In real academic databases, a student may be currently registered for courses in
 3. **Assessment of Part (b) and Part (c):**
    - Query (b) and (c) **still work correctly** for any student who has at least one graded course! Because the join eliminates null-grade courses *before* aggregation, `SUM(c.credits)` in the denominator only sums the credits of courses that actually contributed to the numerator.
    - **The Naive Subquery Trap:** If a student had written the denominator using an unjoined subquery:
-     ```sql
-     -- INCORRECT PITFALL VERSION
-     SELECT SUM(c.credits * gp.points) / (SELECT SUM(credits) FROM takes NATURAL JOIN course WHERE ID = '12345') ...
-     ```
+
+```sql
+-- INCORRECT PITFALL VERSION
+SELECT SUM(c.credits * gp.points) / (SELECT SUM(credits) FROM takes NATURAL JOIN course WHERE ID = '12345') ...
+```
      That query would include in-progress credits in the denominator while excluding them from the numerator, erroneously depressing the student's GPA!
 4. **Where the Earlier Solutions Fail:**
    - **Case 1: Students with ONLY NULL grades:** A first-semester freshman registered for courses has tuples in `takes`, but all have `grade IS NULL`. The inner join produces zero rows. Query (c) completely omits this student from the output.
@@ -485,22 +486,24 @@ GROUP BY s.ID;
 #### 3. RUET Exam Insights & Examiner Notes
 - **Direct RUET Semester Final Questions:**
   - **RUET 2017 Q.4(a)(iii):** Calculate CGPA of each student from `MARKS(roll, sub_code, gpa)` and `CREDIT(sub_code, credit)`.
-    ```sql
-    SELECT m.roll,
-           SUM(m.gpa * c.credit) / SUM(c.credit) AS cgpa
-    FROM MARKS m
-    JOIN CREDIT c ON m.sub_code = c.sub_code
-    GROUP BY m.roll;
-    ```
+
+```sql
+SELECT m.roll,
+       SUM(m.gpa * c.credit) / SUM(c.credit) AS cgpa
+FROM MARKS m
+JOIN CREDIT c ON m.sub_code = c.sub_code
+GROUP BY m.roll;
+```
   - **RUET 2019 Q.7(a)(iii):** Given `Student(St_ID, St Name)`, `GPA(St_ID, Sub_Code, gpa)`, `Credit(Sub_Code, Credit)`, calculate the CGPA of each student.
-    ```sql
-    SELECT s.St_ID, s.`St Name`,
-           SUM(g.gpa * c.Credit) / SUM(c.Credit) AS cgpa
-    FROM Student s
-    JOIN GPA g ON s.St_ID = g.St_ID
-    JOIN Credit c ON g.Sub_Code = c.Sub_Code
-    GROUP BY s.St_ID, s.`St Name`;
-    ```
+
+```sql
+SELECT s.St_ID, s.`St Name`,
+       SUM(g.gpa * c.Credit) / SUM(c.Credit) AS cgpa
+FROM Student s
+JOIN GPA g ON s.St_ID = g.St_ID
+JOIN Credit c ON g.Sub_Code = c.Sub_Code
+GROUP BY s.St_ID, s.`St Name`;
+```
 - **Examiner's Core Rule:** When writing queries for RUET exams, always group by both `ID` and `Name` if `Name` is selected in the projection (`SELECT s.St_ID, s.Name ... GROUP BY s.St_ID, s.Name`), in strict adherence to ANSI SQL-92 grouping integrity rules.
 
 ---

@@ -127,9 +127,10 @@ Suppose the foreign key constraint $r_2.\text{dept\_name} \subseteq r_1.\text{de
 
 1. **Scenario 1: Dangling / Orphan Record Update:**
    - A user performs an update on $r_2$:
-     ```sql
-     UPDATE r2 SET dept_name = 'Robotics' WHERE ID = '10101';
-     ```
+
+```sql
+UPDATE r2 SET dept_name = 'Robotics' WHERE ID = '10101';
+```
    - If the department `'Robotics'` does not exist in $r_1$, the update succeeds because no foreign key constraint prevents it.
    - **Inconsistency on Reconstruction:** When a query computes the natural join $r_1 \bowtie r_2$ to retrieve the full instructor profile, the tuple with $\text{ID} = '10101'$ has no matching tuple in $r_1$. The instructor tuple **silently disappears** from the join result, violating the fundamental lossless-join guarantee:
      $$
@@ -1562,9 +1563,10 @@ Although SQL does not support functional dependency constraints, if the database
 3. **Runtime Execution Mechanics:**
    - Suppose relation $r$ contains tuple $(a_1, b_1, c_1)$. The materialized view contains $(b_1, c_1)$.
    - A user executes an insertion into $r$:
-     ```sql
-     INSERT INTO r VALUES ('a2', 'b1', 'c2');  -- Note: c2 != c1
-     ```
+
+```sql
+INSERT INTO r VALUES ('a2', 'b1', 'c2');  -- Note: c2 != c1
+```
    - Before committing, the immediate view maintenance engine updates `bc_view`.
    - The engine attempts to insert $(b_1, c_2)$ into `bc_view`.
    - The unique constraint `unique_B` is violated because $b_1$ already exists in the view.

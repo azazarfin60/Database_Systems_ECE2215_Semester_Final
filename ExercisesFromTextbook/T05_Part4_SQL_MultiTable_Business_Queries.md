@@ -127,7 +127,6 @@ erDiagram
 ## T05.7 · Multi-table business-schema query sets
 
 
-
 ### Practice Exercise 3.4 · Insurance Database Query & Year-Filtered Deletion
 
 > [!info] Exercise Metadata
@@ -1516,12 +1515,13 @@ Using the university schema, write an SQL query to find the name and ID of each 
 2. **The Zero-Count Exclusion Trap:**
    - A History student who has taken **zero** Music courses has no rows in $\text{takes}$ joined with $\text{course}$ where $\text{dept\_name} = \text{'Music'}$.
    - If one writes an inner join:
-     ```sql
-     -- FLAWED: Omits students who took 0 Music courses!
-     FROM student s JOIN takes t ... JOIN course c ...
-     WHERE c.dept_name = 'Music'
-     GROUP BY s.ID HAVING COUNT(...) < 5
-     ```
+
+```sql
+-- FLAWED: Omits students who took 0 Music courses!
+FROM student s JOIN takes t ... JOIN course c ...
+WHERE c.dept_name = 'Music'
+GROUP BY s.ID HAVING COUNT(...) < 5
+```
      any student with 0 Music courses will produce 0 join tuples and be dropped!
    - To correctly preserve students with 0 Music enrollments, we must use either:
      - A correlated scalar subquery in the `WHERE` clause: `(SELECT COUNT(...) ...) < 5`.

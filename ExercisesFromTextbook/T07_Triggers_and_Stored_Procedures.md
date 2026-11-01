@@ -701,7 +701,6 @@ Database management systems impose strict limits on nesting depth for four criti
 > - **Specific Limit:** Mention the industry standard ceiling of **32 levels** (Oracle and SQL Server).
 
 
-
 ## T07.3 · Stored Procedures, Functions, and Application Database Programming (SQL/PSM, PL/SQL, JDBC, ODBC)
 
 ---

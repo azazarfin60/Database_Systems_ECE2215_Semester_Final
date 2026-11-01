@@ -891,14 +891,14 @@ When human error occurs (e.g., a bank teller accidentally enters a \$1,000,000 d
 **Concrete Counterexample:**
 1. Initial account balances:
    $$
-   \text{Account } A = \$100, \quad \text{Account } B = \$50
+   \text{Account } A = 100, \quad \text{Account } B = 50
    $$
-2. **Erroneous Transaction $T_1$:** A bank teller mistakenly deposits $\$1,000$ into Account $A$:
+2. **Erroneous Transaction $T_1$:** A bank teller mistakenly deposits \$1,000 into Account $A$:
    - $T_1$ updates $A: 100 \rightarrow 1100$.
    - Log: $\langle T_1, A, 100, 1100 \rangle$.
    - $T_1$ commits!
-3. **Legitimate Transaction $T_2$:** The customer immediately transfers $\$800$ from $A$ to $B$:
-   - $T_2$ reads $A = \$1100$ (legal, since $T_1$ committed).
+3. **Legitimate Transaction $T_2$:** The customer immediately transfers \$800 from $A$ to $B$:
+   - $T_2$ reads $A = 1100$ (\$1100) (legal, since $T_1$ committed).
    - $T_2$ checks constraint: balance $\ge 800$ (satisfied!).
    - $T_2$ sets $A: 1100 \rightarrow 300$, and sets $B: 50 \rightarrow 850$.
    - Log: $\langle T_2, A, 1100, 300 \rangle$ and $\langle T_2, B, 50, 850 \rangle$.
@@ -907,17 +907,17 @@ When human error occurs (e.g., a bank teller accidentally enters a \$1,000,000 d
    - Suppose the recovery manager now executes "normal undo" on $T_1$:
    - It reads $\langle T_1, A, 100, 1100 \rangle$ and restores $A$ to its old value:
      $$
-     A \leftarrow \$100
+     A \leftarrow 100
      $$
    - The database state is now:
      $$
-     \text{Account } A = \$100, \quad \text{Account } B = \$850
+     \text{Account } A = 100, \quad \text{Account } B = 850
      $$
    - **Total Money Created Out of Nowhere:**
      $$
-     \text{Initial Sum} = \$150 \quad \implies \quad \text{Current Sum} = 100 + 850 = \$950
+     \text{Initial Sum} = 150 \quad \implies \quad \text{Current Sum} = 100 + 850 = 950
      $$
-   - The customer transferred $\$800$ to $B$ while having their original $\$100$ balance completely restored! The database has entered a severely corrupted, financially invalid state.
+   - The customer transferred \$800 to $B$ while having their original \$100 balance completely restored! The database has entered a severely corrupted, financially invalid state.
 
 ##### Part (b): Point-in-Time Recovery (PITR) Algorithm Using Dumps
 To roll back the entire database to a timestamp $t_{\text{target}}$ immediately preceding $T_1$'s commit:
@@ -948,12 +948,12 @@ $$
 \langle T_2, A, 1100, 300 \rangle
 $$
 - These state values were computed by $T_2$ **based on the erroneous state** ($A = 1100$).
-- If we replayed $T_2$'s physical log record, it would blindly set $A = \$300$! That would instantly re-inject the effects of the erroneous transaction back into the database.
+- If we replayed $T_2$'s physical log record, it would blindly set $A = 300$ (\$300)! That would instantly re-inject the effects of the erroneous transaction back into the database.
 - In contrast, if $T_2$ is re-executed logically using its original SQL:
   ```sql
   UPDATE Account SET balance = balance - 800 WHERE account_id = 'A';
   ```
-  The SQL logic will evaluate against the true restored balance ($A = \$100$), detect that funds are insufficient ($100 - 800 < 0$), and abort cleanly, preserving database integrity!
+  The SQL logic will evaluate against the true restored balance ($A = 100$ (\$100)), detect that funds are insufficient ($100 - 800 < 0$), and abort cleanly, preserving database integrity!
 
 #### 3. RUET Exam Insights & Examiner Notes
 

@@ -231,15 +231,16 @@ A functional dependency $\alpha \rightarrow \beta$ asserts that any two tuples a
        $$
      
      - In standard SQL, this is expressed declaratively via an assertion:
-       ```sql
-       CREATE ASSERTION check_total_participation CHECK (
-           NOT EXISTS (
-               SELECT K1 FROM E1
-               EXCEPT
-               SELECT K1 FROM R
-           )
-       );
-       ```
+
+```sql
+CREATE ASSERTION check_total_participation CHECK (
+    NOT EXISTS (
+        SELECT K1 FROM E1
+        EXCEPT
+        SELECT K1 FROM R
+    )
+);
+```
 
 ---
 

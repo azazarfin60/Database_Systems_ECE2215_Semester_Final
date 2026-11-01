@@ -364,30 +364,34 @@ Four standard aggregate functions:
    - `COUNT(*)` counts all rows in the relation, including duplicates and nulls.
    - `COUNT(A)` counts non-null values of attribute $A$.
    - *Example:* Count total instructors:
-     ```sql
-     SELECT COUNT(*) FROM instructor;
-     ```
+
+```sql
+SELECT COUNT(*) FROM instructor;
+```
 
 2. **`SUM()`:**  
    Computes the arithmetic sum of all non-null values in a numeric column.
    - *Example:* Total salary paid to all instructors:
-     ```sql
-     SELECT SUM(salary) FROM instructor;
-     ```
+
+```sql
+SELECT SUM(salary) FROM instructor;
+```
 
 3. **`AVG()`:**  
    Computes the arithmetic mean of all non-null values in a numeric column.
    - *Example:* Average salary of instructors in the ECE department:
-     ```sql
-     SELECT AVG(salary) FROM instructor WHERE dept_name = 'ECE';
-     ```
+
+```sql
+SELECT AVG(salary) FROM instructor WHERE dept_name = 'ECE';
+```
 
 4. **`MIN()` and `MAX()`:**  
    Finds the minimum and maximum values in a column respectively. They operate on numbers, text strings, and dates.
    - *Example:* Lowest and highest salary in the institution:
-     ```sql
-     SELECT MIN(salary) AS min_sal, MAX(salary) AS max_sal FROM instructor;
-     ```
+
+```sql
+SELECT MIN(salary) AS min_sal, MAX(salary) AS max_sal FROM instructor;
+```
 
 ---
 

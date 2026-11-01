@@ -1029,8 +1029,8 @@ Consider a database for a bank where the database system uses snapshot isolation
 ##### Step 1: Define the Banking Database Schema and Invariant
 
 - **Database Items:** Two accounts owned by a single customer or business partners:
-  - Account $A$ (Checking balance): Initial $A = \$100$.
-  - Account $B$ (Savings balance): Initial $B = \$100$.
+  - Account $A$ (Checking balance): Initial $A = 100$ (\$100).
+  - Account $B$ (Savings balance): Initial $B = 100$ (\$100).
 - **Bank Consistency Invariant ($\mathcal{I}$):** The bank offers an overdraft-protection feature where the combined balance must never fall below zero:
   $$
   \mathcal{I} \equiv (A + B \ge 0)
@@ -1066,7 +1066,7 @@ Consider a database for a bank where the database system uses snapshot isolation
    - The first-committer-wins rule triggers only if write-sets intersect. Since neither transaction wrote to the other's modified item, both transactions successfully commit!
 2. **Invariant Breakdown:**
    - Final Database State: $A = -50, B = -50$.
-   - Combined Balance: $A + B = -50 + (-50) = -\$100$.
+   - Combined Balance: $A + B = -50 + (-50) = -100 (-\$100).
    - The bank constraint $A + B \ge 0$ is **severely violated**. The customer has extracted \$300 from a \$200 deposit, creating an unauthorized \$100 uncollateralized overdraft!
 3. **Nonserializability Proof:**
    - In any serial execution ($\langle T_1, T_2 \rangle$ or $\langle T_2, T_1 \rangle$), the first transaction would deduct \$150, leaving combined balance \$50. The second transaction would then see combined balance \$50, fail the condition $A + B \ge 150$, and abort.

@@ -92,13 +92,14 @@ A systematic testing methodology for text input fields involves four progressive
 
 1. **Character Fuzzing & Error Signature Detection:**
    - Input special SQL delimiter characters into the text input box:
-     ```text
-     '
-     "
-     ' OR '1'='1
-     ' OR '1'='2
-     '; --
-     ```
+
+```text
+'
+"
+' OR '1'='1
+' OR '1'='2
+'; --
+```
    - *Observation:* Check if the web response returns an HTTP 500 Internal Server Error, or displays an unhandled database error string such as `You have an error in your SQL syntax`, `Unclosed quotation mark before the character string`, or `ORA-00933: SQL command not properly ended`.
    - *Implication:* The presence of a database error proves the input escaped its data boundary and directly altered the SQL parser tree.
 
@@ -110,11 +111,12 @@ A systematic testing methodology for text input fields involves four progressive
 
 3. **Time-Based Latency Testing:**
    - When no visual or content differences are returned, test for code execution using delay primitives:
-     ```sql
-     '; WAITFOR DELAY '0:0:5'--      (Microsoft SQL Server)
-     ' OR pg_sleep(5)--              (PostgreSQL)
-     ' OR sleep(5)--                 (MySQL)
-     ```
+
+```sql
+'; WAITFOR DELAY '0:0:5'--      (Microsoft SQL Server)
+' OR pg_sleep(5)--              (PostgreSQL)
+' OR sleep(5)--                 (MySQL)
+```
    - *Observation:* If the server response time increases by exactly 5 seconds, the SQL statement was parsed, dynamically injected, and executed.
 
 4. **Automated Fuzzing & Static Analysis:**
@@ -258,25 +260,28 @@ cursor.execute(sql_query)
 1. **Prepared Statements with Parameterized Queries (Primary Defense):**
    - The query structure is pre-compiled by the database engine into an execution tree before runtime data parameters are bound. User input is transmitted across a separate protocol channel as pure data, never evaluated by the SQL parser.
    - **Java / JDBC Example:**
-     ```java
-     String sql = "SELECT * FROM users WHERE username = ? AND password = ?";
-     PreparedStatement pstmt = conn.prepareStatement(sql);
-     pstmt.setString(1, user_input);
-     pstmt.setString(2, pass_input);
-     ResultSet rs = pstmt.executeQuery();
-     ```
+
+```java
+String sql = "SELECT * FROM users WHERE username = ? AND password = ?";
+PreparedStatement pstmt = conn.prepareStatement(sql);
+pstmt.setString(1, user_input);
+pstmt.setString(2, pass_input);
+ResultSet rs = pstmt.executeQuery();
+```
    - **Python DB-API Example:**
-     ```python
-     cursor.execute("SELECT * FROM users WHERE username = %s AND password = %s", (user_input, pass_input))
-     ```
+
+```python
+cursor.execute("SELECT * FROM users WHERE username = %s AND password = %s", (user_input, pass_input))
+```
 
 2. **Input Validation and Whitelisting:**
    - Enforce strict typing, data lengths, and regex patterns (e.g., verifying an `ID` matches `^[0-9]{5}$`).
    - For query components that cannot accept bind parameters (such as table names, column names, or sort directions `ASC`/`DESC`), compare user input against a hardcoded in-memory whitelist:
-     ```python
-     allowed_columns = {"name", "salary", "dept_name"}
-     sort_col = user_col if user_col in allowed_columns else "name"
-     ```
+
+```python
+allowed_columns = {"name", "salary", "dept_name"}
+sort_col = user_col if user_col in allowed_columns else "name"
+```
 
 3. **Use of Stored Procedures:**
    - Parameterized stored procedures encapsulate database operations behind predefined schemas. (Note: dynamic SQL concatenation inside stored procedures must be strictly avoided).

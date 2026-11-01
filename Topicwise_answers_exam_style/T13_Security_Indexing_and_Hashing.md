@@ -84,17 +84,19 @@ query = "SELECT * FROM instructor WHERE name = '" + user_input + "'"
 - **Scenario 1: Authentication Bypass / Data Dumping**
   - **Attacker input:** `' OR '1'='1`
   - **Resulting SQL:**
-    ```sql
-    SELECT * FROM instructor WHERE name = '' OR '1'='1';
-    ```
+
+```sql
+SELECT * FROM instructor WHERE name = '' OR '1'='1';
+```
   - **Mechanism:** The quote closes the name literal. The `'1'='1'` condition is always true. The database returns all records in the `instructor` table.
 
 - **Scenario 2: Destructive Attack (Piggybacked Query)**
   - **Attacker input:** `'; DROP TABLE student; -- `
   - **Resulting SQL:**
-    ```sql
-    SELECT * FROM instructor WHERE name = ''; DROP TABLE student; -- ';
-    ```
+
+```sql
+SELECT * FROM instructor WHERE name = ''; DROP TABLE student; -- ';
+```
   - **Mechanism:** The semicolon terminates the first query. The database engine executes the injected `DROP TABLE student` statement. The trailing `--` treats the remaining query syntax as a comment.
 
 **3. Precautions to Prevent SQL Injection**  

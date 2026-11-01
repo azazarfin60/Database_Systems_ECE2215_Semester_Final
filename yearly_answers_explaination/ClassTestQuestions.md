@@ -1045,22 +1045,22 @@ $$
 
 1. **Atomicity ("All-or-None"):**
    - **Explanation:** Either all operations of the transaction take effect in the database or none do.
-   - **Example:** If a crash happens after $\text{write}(A)$ has executed, $A$ is \$950 but $B$ is still \$2000. Atomicity requires the recovery system to undo the update on $A$ so that $A$ returns to \$1000.
+   - **Example:** If a crash happens after $\text{write}(A)$ has executed, $A$ is \$950 but $B$ is still \$2000. Atomicity requires the recovery system to undo the update on $A$ so that $A$ returns to 1000 (\$1000).
    - **Enforcement:** Recovery system using log-based rollback.
 
 2. **Consistency (Invariant Preservation):**
    - **Explanation:** A transaction running in isolation must preserve database consistency. It moves the database from one valid state to another valid state.
-   - **Example:** The invariant is that total money $A + B = \$3000$. Before $T_1$, $A + B = \$1000 + \$2000 = \$3000$. After $T_1$, $A + B = \$950 + \$2050 = \$3000$. Consistency preserves the total money in the bank.
+   - **Example:** The invariant is that total money $A + B = 3000$. Before $T_1$, $A + B = 1000 + 2000 = 3000$. After $T_1$, $A + B = 950 + 2050 = 3000$. Consistency preserves the total money in the bank.
    - **Enforcement:** Application programmer logic and DBMS integrity constraints.
 
 3. **Isolation (Shielding Concurrent Execution):**
    - **Explanation:** Even though multiple transactions execute concurrently, the system guarantees that each transaction is unaware of other concurrently running transactions. Intermediate results remain hidden.
-   - **Example:** During $T_1$'s execution, after step 3, $A = \$950$ and $B = \$2000$. If transaction $T_2$ runs concurrently to print $A + B$, isolation prevents $T_2$ from reading the intermediate sum \$2950. $T_2$ sees either \$3000 before $T_1$ or \$3000 after $T_1$.
+   - **Example:** During $T_1$'s execution, after step 3, $A = 950$ and $B = 2000$. If transaction $T_2$ runs concurrently to print $A + B$, isolation prevents $T_2$ from reading the intermediate sum $950 + 2000 = 2950$. $T_2$ sees either \$3000 before $T_1$ or \$3000 after $T_1$.
    - **Enforcement:** Concurrency-control manager (two-phase locking or timestamps).
 
 4. **Durability (Permanence across Failures):**
    - **Explanation:** Once a transaction completes successfully and commits, its changes persist in the database, even if system crashes occur.
-   - **Example:** Once $T_1$ executes `commit`, updates $A = \$950$ and $B = \$2050$ are recorded to stable storage. If power fails a second later, the values remain intact upon reboot.
+   - **Example:** Once $T_1$ executes `commit`, updates $A = 950$ and $B = 2050$ are recorded to stable storage. If power fails a second later, the values remain intact upon reboot.
    - **Enforcement:** Recovery system using write-ahead redo logging.
 
 **Check.**  
@@ -1165,7 +1165,7 @@ If concurrency-control management is not implemented properly, uncoordinated int
 | $t_3$ | $\text{write}(A)$ | | Database updated to $A = 450$ |
 | $t_4$ | | $\text{write}(A)$ | $T_2$ performs blind write: $A = 25$ |
 | $t_5$ | $\text{commit}$ | | $T_1$ commits |
-| $t_6$ | | $\text{commit}$ | Final $A = 25$ ($T_1$'s $-\$50$ update is lost!) |
+| $t_6$ | | $\text{commit}$ | Final $A = 25$ ($T_1$'s $-50$ update is lost!) |
 
 2. **Dirty Read Problem (Temporary Update Problem):**
    - **Concept:** Occurs when a transaction reads a data item updated by another transaction that has not yet committed and later fails and rolls back.
@@ -1180,7 +1180,7 @@ If concurrency-control management is not implemented properly, uncoordinated int
 | $t_5$ | | $A := A - 50$ | $T_2$ computes $A = 150$ |
 | $t_6$ | | $\text{write}(A)$ | Database $A = 150$ |
 | $t_7$ | | $\text{commit}$ | $T_2$ commits with invalid data |
-| $t_8$ | **Failure / Rollback** | | $T_1$ fails; log restores $A = 100$ |
+| $t_8$ | $\text{abort}$ (Rollback) | | $T_1$ fails; log restores $A = 100$ |
 
 $T_2$ based its computation on a temporary value that never officially existed, leaving the database inconsistent.
 
@@ -1207,9 +1207,20 @@ $T_2$ based its computation on a temporary value that never officially existed, 
 | $t_2$ | $\text{delete}(A)$ | | $T_1$ deletes data item $A$ and commits |
 | $t_3$ | | $\text{read}(A)$ | $T_2$ attempts to read $A$ again, but item does not exist |
 
-5. **Incorrect Summary Problem:**
+5. **Incorrect Summary Problem (Inconsistent Analysis):**
    - **Concept:** An aggregate transaction calculates a summary across items while another transaction updates them. The aggregate reads some items before the update and others after, yielding an inaccurate summary.
-   - **Example:** $T_1$ transfers \$50 from $A$ to $B$. If $T_2$ reads $A$ after the deduction ($A = \$950$) but reads $B$ before the addition ($B = \$1000$), its computed sum is \$1950 instead of \$2000.
+   - **Schedule ($A = 1000, B = 1000, C = 1000$ initially; $T_1$ transfers 50 from $A$ to $B$ while $T_2$ calculates average):**
+
+| Time | Transaction $T_1$ | Transaction $T_2$ | Database / Summary State |
+| :--- | :--- | :--- | :--- |
+| $t_1$ | $\text{read}(A)$<br>$A := A - 50$<br>$\text{write}(A)$ | | $T_1$ updates $A$ to $950$ on disk |
+| $t_2$ | | $\text{sum} := 0$<br>$\text{read}(C)$<br>$\text{sum} := \text{sum} + C$ | $T_2$ reads $C = 1000 \implies \text{sum} = 1000$ |
+| $t_3$ | | $\text{read}(A)$<br>$\text{sum} := \text{sum} + A$ | $T_2$ reads updated $A = 950 \implies \text{sum} = 1950$ |
+| $t_4$ | | $\text{read}(B)$<br>$\text{sum} := \text{sum} + B$ | $T_2$ reads old $B = 1000 \implies \text{sum} = 2950$ |
+| $t_5$ | | $\text{avg} := \text{sum} / 3$<br>$\text{commit}$ | $T_2$ reports $\text{avg} = 2950 / 3 \approx 983.33$ |
+| $t_6$ | $\text{read}(B)$<br>$B := B + 50$<br>$\text{write}(B)$<br>$\text{commit}$ | | $T_1$ adds 50 to $B$ ($B = 1050$ on disk) |
+
+   - **Result:** True average should be $(950 + 1050 + 1000)/3 = 3000/3 = 1000$. Because $T_2$ read $A$ after the deduction but $B$ before the deposit, the calculated average is $983.33$ (an inconsistent summary).
 
 *Variant for 2024 Q.8(a) (3 marks):*  
 List the five anomalies, then provide the full schedule tables for Lost Update and Dirty Read.

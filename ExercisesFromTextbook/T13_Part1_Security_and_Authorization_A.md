@@ -230,7 +230,7 @@ An attacker can exploit this loophole using simple browser tools:
    <input type="hidden" name="price" value="0.01">
    ```
 2. Or intercept the HTTP POST request using a local proxy (e.g., OWASP ZAP or Burp Suite) and rewrite the payload to `price=0.01`.
-3. The server computes the bill as $0.01 \times 1 = \$0.01$, processes the charge, and dispatches an $\$85.00$ textbook for one cent.
+3. The server computes the bill as $0.01 \times 1 = 0.01$ (\$0.01), processes the charge, and dispatches an \$85.00 textbook for one cent.
 
 ##### 2. Secure Architectural Remediation
 To eliminate this loophole, the server must maintain **authoritative ownership of transactional business rules**:
@@ -440,15 +440,17 @@ To diagnose a connection pool leak using `netstat`:
    - If the servlet fails to return borrowed connections to the pool, after the first $N$ requests, **all $N$ pool connections become permanently checked out (leaked)**.
    - When request $N+1$ arrives, the pool has no available connections. The thread blocks indefinitely waiting for a connection to be returned.
    - Run `netstat` monitoring the **HTTP port** of the web application server:
-     ```bash
-     netstat -an | grep :8080 | grep ESTABLISHED
-     ```
+
+```bash
+netstat -an | grep :8080 | grep ESTABLISHED
+```
    - **Diagnosis:** New incoming client HTTP connections hang and remain frozen in `ESTABLISHED` state until they hit web server gateway timeouts ($504\text{ Gateway Timeout}$).
 4. **Inspect DBMS Backend Socket Activity:**
    - On the database host, run:
-     ```bash
-     netstat -anp | grep :5432
-     ```
+
+```bash
+netstat -anp | grep :5432
+```
    - All $N$ pooled connections remain continuously `ESTABLISHED`, but cross-referencing with database process views (`pg_stat_activity` or `information_schema.processlist`) reveals they are in state `IDLE in transaction` or idle waiting for input, yet the application pool reports 100% exhaustion.
 5. **Definitive Test (The Freeze Test):** Once the pool leaks all $N$ connections, subsequent requests to *any* other database-dependent page on the application server will immediately block and fail to complete, confirming pool exhaustion.
 
@@ -494,11 +496,11 @@ A database relation may have the values of certain attributes encrypted for secu
 
 2. **Randomized Encryption Destroys Equality Matching:**
    - To defeat dictionary attacks and frequency analysis, database encryption standards prepend a unique random salt or Initialization Vector (IV) to each attribute value prior to encryption.
-   - If two employees both earn $\$75{,}000$, their encrypted values will be:
+   - If two employees both earn \$75{,}000, their encrypted values will be:
      $$
-     E_K(\$75{,}000 \parallel \text{IV}_1) \ne E_K(\$75{,}000 \parallel \text{IV}_2)
+     E_K(75{,}000 \parallel \text{IV}_1) \ne E_K(75{,}000 \parallel \text{IV}_2)
      $$
-   - A hash index or $B^+$-tree search for $E_K(\$75{,}000)$ cannot find matches because identical plaintexts do not yield identical ciphertexts.
+   - A hash index or $B^+$-tree search for $E_K(75{,}000)$ cannot find matches because identical plaintexts do not yield identical ciphertexts.
    *(Note: While deterministic encryption without IVs permits equality lookups, it severely weakens security by revealing data frequency distributions to eavesdroppers).*
 
 ##### 2. Why Database Systems Do Not Allow Encryption of Primary-Key Attributes
@@ -1038,9 +1040,10 @@ At first glance, it might appear that creating a foreign key only constrains the
    - Suppose User 1 (owner of $r_1$) is allowed to reference relation $r_2$ (`department`) without authorization.
    - User 1 inserts a tuple into $r_1$ referencing `'Geology'`.
    - Now, consider the legitimate owner or authorized administrators of $r_2$. If the department administrator attempts to delete the `'Geology'` department or change its name:
-     ```sql
-     DELETE FROM department WHERE dept_name = 'Geology';
-     ```
+
+```sql
+DELETE FROM department WHERE dept_name = 'Geology';
+```
    - The database engine will **intercept and abort the deletion** with a referential integrity violation error:
      $$
      \texttt{ERROR: update or delete on table "department" violates foreign key constraint}

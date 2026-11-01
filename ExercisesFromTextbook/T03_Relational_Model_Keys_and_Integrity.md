@@ -713,10 +713,11 @@ Assume the current database instance contains:
 
 1. **Violating `INSERT` on `instructor`:**
    - Attempting to insert an instructor assigned to a department that does not exist in the `department` table:
-     ```sql
-     INSERT INTO instructor (ID, name, dept_name, salary)
-     VALUES ('99999', 'Rahman', 'Bioengineering', 75000);
-     ```
+
+```sql
+INSERT INTO instructor (ID, name, dept_name, salary)
+VALUES ('99999', 'Rahman', 'Bioengineering', 75000);
+```
    - **Reason for Violation:** The value `'Bioengineering'` does not exist in `department(dept_name)`. Accepting this insertion would create an orphan instructor tuple referencing a non-existent department.
    - **DBMS Action:** The DBMS immediately aborts the transaction and returns a referential integrity violation error (e.g., MySQL Error 1452).
 
@@ -727,9 +728,10 @@ Assume the current database instance contains:
 
 1. **Violating `DELETE` on `department`:**
    - Attempting to delete a department tuple that is currently referenced by one or more instructors:
-     ```sql
-     DELETE FROM department WHERE dept_name = 'Comp. Sci.';
-     ```
+
+```sql
+DELETE FROM department WHERE dept_name = 'Comp. Sci.';
+```
    - **Reason for Violation:** Instructor `'10101'` (Srinivasan) currently references `'Comp. Sci.'`. Deleting this parent row would leave Srinivasan referencing a deleted department, breaking referential integrity.
    - **DBMS Action:** Under the default `RESTRICT` (or `NO ACTION`) setting, the DBMS rejects the delete command. If `ON DELETE CASCADE` is configured, the DBMS automatically deletes Srinivasan as well. If `ON DELETE SET NULL` is configured, Srinivasan's `dept_name` becomes `NULL`.
 
