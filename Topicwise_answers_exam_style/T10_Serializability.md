@@ -552,7 +552,7 @@ Let the consistency requirement be P=5 or Q=5 with P=Q=5 the initial values.
 
 **Answer.**
 
-*Assumption: Sub-question (ii) repeats (i) due to a printing error, and the IF conditions test P = 10 / Q = 10 while initial values are P = Q = 5; we answer as printed, and also show the intended reading modeled on the Silberschatz consistency exercise.*
+*Assumption: In the printed 2019 paper, sub-question (i) misprinted "non-serializable" as "serializable" (making (i) and (ii) ask the same thing), and the IF conditions test P = 10 / Q = 10 while initial values are P = Q = 5. Below we address both the intended Silberschatz Exercise 17.15 reading and the literal printed text.*
 
 #### 1. What is Concurrency Control?
 
@@ -564,58 +564,59 @@ Let the consistency requirement be P=5 or Q=5 with P=Q=5 the initial values.
 
 Initial values: $P = 5, Q = 5$. Consistency condition: $P = 5 \vee Q = 5$.
 
-##### (a) As Printed Analysis (with $P = Q = 5$)
+- **As printed (`if P=10` and `if Q=10`):** Since $P$ and $Q$ start at $5$, both `P = 10` in $T_1$ and `Q = 10` in $T_2$ evaluate to **false**. Neither variable changes, so $T_1$ writes $Q = 5$ and $T_2$ writes $P = 5$.
+- **Intended textbook guards (`if P=5` and `if Q=5`):**
+  - Serial $\langle T_1, T_2 \rangle$: $T_1$ sees $P=5$, sets $Q := 5 - 5 = 0$, writes $Q=0$. $T_2$ then sees $Q=0 \neq 5$, leaves $P=5$. Final state: $P=5, Q=0$ (consistent).
+  - Serial $\langle T_2, T_1 \rangle$: $T_2$ sees $Q=5$, sets $P := 5 + 5 = 10$, writes $P=10$. $T_1$ then sees $P=10 \neq 5$, leaves $Q=5$. Final state: $P=10, Q=5$ (consistent).
 
-Because initial values are 5:
-- In $T_1$, $P$ is read as 5. The condition `P = 10` evaluates to **false**. $Q$ is not changed, so $T_1$ writes $Q = 5$.
-- In $T_2$, $Q$ is read as 5. The condition `Q = 10` evaluates to **false**. $P$ is not changed, so $T_2$ writes $P = 5$.
+---
 
-The values of $P$ and $Q$ remain 5 in all executions. Consistency ($P = 5 \vee Q = 5$) is always maintained.
+#### 3. Part (i): Concurrent Execution (Intended Non-Serializable Schedule & Serial Baseline)
 
-##### (b) Part (i): Concurrent Execution Producing a Serializable Schedule
+##### (a) Intended Reading: Interleaved Execution Producing a Non-Serializable Schedule
 
-To make a concurrent execution serializable, one transaction must complete its accesses on the shared item before the other transaction accesses it:
+Because Part (i) in Silberschatz Exercise 17.15 (and 2017 Q.5c) asks for a **non-serializable** concurrent schedule, we interleave $T_1$ and $T_2$ so both read before either writes:
 
-| Step | $T_1$ | $T_2$ |
-| :--: | :-- | :-- |
-| 1 | `read(P);` | |
-| 2 | `read(Q);` | |
-| 3 | `if P=10 then Q:=Q-5;`<br>`write(Q);` | |
-| 4 | | `read(Q);` |
-| 5 | | `read(P);` |
-| 6 | | `if Q=10 then P:=P+5;`<br>`write(P);` |
-
-- Conflicts: $T_1: \text{write}(Q)$ precedes $T_2: \text{read}(Q) \implies T_1 \to T_2$.
-- $T_1: \text{read}(P)$ precedes $T_2: \text{write}(P) \implies T_1 \to T_2$.
-- Precedence graph: $T_1 \to T_2$. The graph is **acyclic**.
-- The schedule is **serializable**, with equivalent serial execution order:
-$$
-\boxed{\langle T_1, T_2 \rangle}
-$$
-
-##### (c) Part (ii): Non-Serializable Interleaving and General Concurrent Behavior
-
-If sub-question (ii) intended to ask whether an interleaved concurrent execution can be non-serializable (or if condition matches initial state as in the textbook):
-
-Consider an interleaved schedule where both read before writing:
-
-| Step | $T_1$ | $T_2$ |
-| :--: | :-- | :-- |
-| 1 | `read(P);` | |
-| 2 | | `read(Q);` |
-| 3 | `read(Q);` | |
-| 4 | | `read(P);` |
-| 5 | `write(Q);` | |
-| 6 | | `write(P);` |
+| Step | $T_1$ | $T_2$ | Action (Intended `if P=5` / `if Q=5`) | Action (As-Printed `if P=10` / `if Q=10`) |
+| :--: | :-- | :-- | :-- | :-- |
+| 1 | `read(P);` | | $T_1$ reads $P = 5$ | $T_1$ reads $P = 5$ |
+| 2 | | `read(Q);` | $T_2$ reads $Q = 5$ | $T_2$ reads $Q = 5$ |
+| 3 | `read(Q);` | | $T_1$ reads $Q = 5$ | $T_1$ reads $Q = 5$ |
+| 4 | | `read(P);` | $T_2$ reads $P = 5$ | $T_2$ reads $P = 5$ |
+| 5 | `write(Q);` | | $P=5$ is true $\implies$ writes $Q = 0$ | $P=10$ is false $\implies$ writes $Q = 5$ |
+| 6 | | `write(P);` | $Q=5$ is true $\implies$ writes $P = 10$ | $Q=10$ is false $\implies$ writes $P = 5$ |
 
 ![2019 Q.4(a) Precedence Graph showing cycle between T1 and T2](diagrams/T10_2019_Q4a_precedence_graph.jpg)
 
-- $T_1$ reads $P$ before $T_2$ writes $P \implies T_1 \to T_2$.
-- $T_2$ reads $Q$ before $T_1$ writes $Q \implies T_2 \to T_1$.
-- Cycle: $T_1 \longleftrightarrow T_2$.
-- This schedule is **NOT conflict serializable**.
+- $T_1$ reads $P$ (step 1) before $T_2$ writes $P$ (step 6) $\implies T_1 \to T_2$.
+- $T_2$ reads $Q$ (step 2) before $T_1$ writes $Q$ (step 5) $\implies T_2 \to T_1$.
+- Cycle: $T_1 \longleftrightarrow T_2$. Thus, this schedule is **NOT conflict serializable** (and under the intended guards produces $P = 10, Q = 0$, violating $P = 5 \vee Q = 5$).
 
-**Conclusion:** Genuinely interleaved executions where both transactions read before either writes always create a cycle $T_1 \longleftrightarrow T_2$. Therefore, interleaved concurrent executions are non-serializable.
+##### (b) Literal Reading: Serial Schedule $\langle T_1, T_2 \rangle$
+
+As proven in Part (ii) below, **no genuinely interleaved (concurrent) schedule of $T_1$ and $T_2$ can be conflict-serializable**. Only a non-interleaved **serial** schedule where $T_1$ finishes completely before $T_2$ begins (or vice versa) has an acyclic precedence graph ($T_1 \to T_2$, order $\boxed{\langle T_1, T_2 \rangle}$):
+
+| Step | $T_1$ | $T_2$ | Local Actions (As Printed) |
+| :--: | :-- | :-- | :-- |
+| 1 | `read(P);` | | $T_1$ reads $P = 5$ |
+| 2 | `read(Q);` | | $T_1$ reads $Q = 5$ |
+| 3 | `if P=10 then Q:=Q-5;`<br>`write(Q);` | | Condition false; writes $Q = 5$ |
+| 4 | | `read(Q);` | $T_2$ reads $Q = 5$ |
+| 5 | | `read(P);` | $T_2$ reads $P = 5$ |
+| 6 | | `if Q=10 then P:=P+5;`<br>`write(P);` | Condition false; writes $P = 5$ |
+
+---
+
+#### 4. Part (ii): Can a Concurrent Execution Produce a Serializable Schedule?
+
+**No** (not for conflict serializability).
+
+**Proof:**
+For an execution to be genuinely concurrent (interleaved), both transactions must start before either finishes:
+- **Conflict on $P$:** $T_1$'s first instruction is `read(P)` and $T_2$'s last instruction is `write(P)`. If $T_2$ wrote $P$ before $T_1$ read $P$, $T_2$ would have finished completely before $T_1$ started (serial schedule $\langle T_2, T_1 \rangle$). Thus, in any interleaved run, $T_1$ reads $P$ before $T_2$ writes $P \implies T_1 \to T_2$.
+- **Conflict on $Q$:** Symmetrically, $T_2$'s first instruction is `read(Q)` and $T_1$'s last instruction is `write(Q)`. If $T_1$ wrote $Q$ before $T_2$ read $Q$, $T_1$ would have finished completely before $T_2$ started (serial schedule $\langle T_1, T_2 \rangle$). Thus, in any interleaved run, $T_2$ reads $Q$ before $T_1$ writes $Q \implies T_2 \to T_1$.
+
+Every genuinely interleaved execution forces both $T_1 \to T_2$ and $T_2 \to T_1$, creating the cycle $T_1 \longleftrightarrow T_2$. Therefore, **no concurrent execution of $T_1$ and $T_2$ is conflict-serializable**; only the strictly serial schedules $\langle T_1, T_2 \rangle$ and $\langle T_2, T_1 \rangle$ are conflict-serializable.
 
 ---
 
