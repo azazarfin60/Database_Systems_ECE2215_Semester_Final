@@ -660,7 +660,16 @@ $$
 
 **Question.** Determine whether the schedule is conflict serializable or not. If it is serializable, give the equivalent serial order.
 
-<table border="1" style="border-collapse: collapse; text-align: center; margin-top: 6px; margin-bottom: 6px;"><thead><tr><th style="padding: 4px 16px;">$T_1$</th><th style="padding: 4px 16px;">$T_2$</th><th style="padding: 4px 16px;">$T_3$</th></tr></thead><tbody><tr><td style="padding: 3px 12px;">$\text{Write}(A)$</td><td></td><td></td></tr><tr><td></td><td style="padding: 3px 12px;">$\text{Read}(A)$</td><td></td></tr><tr><td></td><td></td><td style="padding: 3px 12px;">$\text{Write}(B)$</td></tr><tr><td style="padding: 3px 12px;">$\text{Write}(B)$</td><td></td><td></td></tr><tr><td></td><td></td><td style="padding: 3px 12px;">$\text{Write}(B)$</td></tr><tr><td></td><td style="padding: 3px 12px;">$\text{Write}(A)$</td><td></td></tr><tr><td></td><td></td><td style="padding: 3px 12px;">$\text{Read}(B)$</td></tr><tr><td></td><td style="padding: 3px 12px;">$\text{Read}(B)$</td><td></td></tr></tbody></table>
+| $T_1$ | $T_2$ | $T_3$ |
+| :---: | :---: | :---: |
+| $\text{Write}(A)$ | | |
+| | $\text{Read}(A)$ | |
+| | | $\text{Write}(B)$ |
+| $\text{Write}(B)$ | | |
+| | | $\text{Write}(B)$ |
+| | $\text{Write}(A)$ | |
+| | | $\text{Read}(B)$ |
+| | $\text{Read}(B)$ | |
 
 **Answer.**
 
