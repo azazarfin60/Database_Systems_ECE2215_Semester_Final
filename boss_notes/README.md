@@ -16,7 +16,7 @@ Every single note in this folder was built so that once you read it, **you never
 
 | Metric | Count | Details |
 | :--- | :---: | :--- |
-| **Boss Note Files** | **89** | **86** subtopic notes (`T01.01`–`T13.04`) + `00_Index.md` + `README.md` + `99_Master_Formula_and_Syntax_Sheet.md` |
+| **Boss Note Files** | **90** | **87** subtopic notes (`T01.01`–`T13.04`) + `00_Index.md` + `README.md` + `99_Master_Formula_and_Syntax_Sheet.md` |
 | **Course Taxonomy** | **13 Topics / 77 Subtopics** | Complete coverage of RUET's 8-unit syllabus (`T01` through `T13`) |
 | **Past Finals Solved Inline** | **7 Papers (100%)** | `2017`, `2018`, `2019`, `2020`, `2021`, `2023`, `2024` (**56** main questions, **148** sub-questions, **637** printed marks) |
 | **Class Tests Solved Inline** | **4 Sets (100%)** | `CT-01` through `CT-04` (**15** main questions, **26** parts, **80** marks) |
@@ -30,7 +30,7 @@ Every subtopic file follows a strict, predictable layout so you can study at ful
 
 1. **Header Block:** Tells you the parent topic, data-driven exam priority (`🔴` / `🟠` / `🟡` / `🟢`), exact exam frequency across the 7 finals and 4 CTs, and exact textbook/slide/class-note source citations.
 2. **Why This Topic Matters:** A 2–4 sentence briefing on how RUET examiners test the subtopic and where it sits in Section A or Section B.
-3. **📝 Key Definitions:** Direct, word-for-word quotes from Silberschatz, Korth & Sudarshan's *Database System Concepts* (7th Ed.) with section and printed page numbers cited. Use these verbatim definitions to open your exam answers and secure full definition marks.
+3. **📝 Key Definitions:** Crisp, self-contained, exam-ready definitions written in plain, direct language following our writing guidelines. Write these straight onto your exam answer sheet to secure full definition marks without textbook fluff.
 4. **Core Theory & Step-by-Step Mechanics:** Conversational, zero-fluff explanations of every rule, algorithm, SQL clause, relational algebra operator, normalization test, and concurrency protocol, paired with verified diagrams.
 5. **Worked Examples & Exam Variants Table:** Step-by-step walkthroughs of the flagship exam problem plus a quick-reference table comparing every year's data variant and final result.
 6. **🏆 Golden Questions (Past Exam Archive) / 🔮 Likely Questions:** Every single past semester-final and class-test question for that subtopic, quoted **character-for-character** from the question paper (preserving original tables and notes) and followed by a **complete, exam-ready explanation-style solution written inline**. For slide/blueprint subtopics that have never appeared in a final (`⭐`), we provide 2–3 high-probability **Likely Questions** with full inline answers.
