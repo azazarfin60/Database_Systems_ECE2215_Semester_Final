@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram representation of relationship set advisor connecting instructor and student entity sets",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 24.0,
+    "bottom": 52.8,
+    "left": 8.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 160,
+    "y1": 360,
+    "x2": 1680,
+    "y2": 792
+  },
+  "crop_size": {
+    "width": 1520,
+    "height": 432
+  },
+  "figure_id": "Fig_L05_p11_01"
+}

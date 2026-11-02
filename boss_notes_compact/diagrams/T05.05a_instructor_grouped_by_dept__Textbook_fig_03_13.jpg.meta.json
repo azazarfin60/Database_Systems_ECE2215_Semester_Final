@@ -1,0 +1,21 @@
+{
+  "description": "Tuples of the instructor relation, grouped by the dept_name attribute",
+  "source_image": "page_029.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 43.0,
+    "left": 20.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 295,
+    "y1": 182,
+    "x2": 1371,
+    "y2": 784
+  },
+  "crop_size": {
+    "width": 1076,
+    "height": 602
+  },
+  "figure_id": "Fig_3.13"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing roles course_id and prereq_id on relationship prereq connected to entity course",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 32.0,
+    "bottom": 63.6,
+    "left": 21.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 420,
+    "y1": 480,
+    "x2": 1700,
+    "y2": 954
+  },
+  "crop_size": {
+    "width": 1280,
+    "height": 474
+  },
+  "figure_id": "Fig_L05_p14_01"
+}

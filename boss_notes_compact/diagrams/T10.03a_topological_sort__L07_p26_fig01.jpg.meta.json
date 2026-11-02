@@ -1,0 +1,21 @@
+{
+  "description": "Precedence graph DAG (a) and its two possible topological sorting orders (b) and (c)",
+  "source_image": "page_026.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 92.2,
+    "left": 68.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 1813,
+    "y1": 135,
+    "x2": 2560,
+    "y2": 1383
+  },
+  "crop_size": {
+    "width": 747,
+    "height": 1248
+  },
+  "figure_id": "Fig_L07_p26_01"
+}

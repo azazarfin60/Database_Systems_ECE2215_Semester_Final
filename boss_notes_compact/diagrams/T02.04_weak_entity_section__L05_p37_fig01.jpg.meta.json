@@ -1,0 +1,21 @@
+{
+  "description": "ER diagram showing weak entity set section with double rectangle and dashed underline discriminator connected via double diamond sec_course to strong entity set course",
+  "source_image": "page_037.jpg",
+  "crop_percentages": {
+    "top": 47.0,
+    "bottom": 72.4,
+    "left": 12.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 240,
+    "y1": 705,
+    "x2": 1800,
+    "y2": 1086
+  },
+  "crop_size": {
+    "width": 1560,
+    "height": 381
+  },
+  "figure_id": "Fig_L05_p37_01"
+}

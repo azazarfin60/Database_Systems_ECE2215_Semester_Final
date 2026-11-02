@@ -1,0 +1,6 @@
+{
+  "description": "Relational schema diagram for ECE with 5 tables (Students, Courses, Instructors, Classroom, Results) showing primary keys and foreign key constraints",
+  "figure_id": "T03_CT01_Q02_ece_schema_diagram",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T03_CT01_Q02_ece_schema_diagram.py"
+}

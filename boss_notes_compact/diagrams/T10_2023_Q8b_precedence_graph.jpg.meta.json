@@ -1,0 +1,6 @@
+{
+  "description": "Precedence graph for 2023 Q.8(b) Precedence Graph (T1, T2, T3, T4): Acyclic DAG (3 possible topological sorts)",
+  "figure_id": "T10_2023_Q8b_precedence_graph",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T10_diagrams.py"
+}

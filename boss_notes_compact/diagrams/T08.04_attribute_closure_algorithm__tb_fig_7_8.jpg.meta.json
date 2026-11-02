@@ -1,0 +1,21 @@
+{
+  "description": "An algorithm to compute alpha+, the closure of alpha under F",
+  "source_image": "page_021.jpg",
+  "crop_percentages": {
+    "top": 70.0,
+    "bottom": 96.7,
+    "left": 17.0,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 250,
+    "y1": 1277,
+    "x2": 1342,
+    "y2": 1764
+  },
+  "crop_size": {
+    "width": 1092,
+    "height": 487
+  },
+  "figure_id": "Fig_7.8"
+}

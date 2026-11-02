@@ -1,0 +1,21 @@
+{
+  "description": "The same log shown at three different times: (a) after write(B) of T0, (b) after write(C) of T1, and (c) after commit of T1",
+  "source_image": "page_014.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 26.4,
+    "left": 22.0,
+    "right": 79.0
+  },
+  "crop_pixels": {
+    "x1": 324,
+    "y1": 173,
+    "x2": 1165,
+    "y2": 481
+  },
+  "crop_size": {
+    "width": 841,
+    "height": 308
+  },
+  "figure_id": "Fig_19.4"
+}

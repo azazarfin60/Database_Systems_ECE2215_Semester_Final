@@ -1,0 +1,21 @@
+{
+  "description": "Traditional file system approach showing isolated files for Account Dept and Exam Dept duplicating student attributes",
+  "source_image": "page_005.jpg",
+  "crop_percentages": {
+    "top": 20.0,
+    "bottom": 37.2,
+    "left": 3.0,
+    "right": 99.0
+  },
+  "crop_pixels": {
+    "x1": 49,
+    "y1": 467,
+    "x2": 1636,
+    "y2": 870
+  },
+  "crop_size": {
+    "width": 1587,
+    "height": 403
+  },
+  "figure_id": "p005_fig01"
+}

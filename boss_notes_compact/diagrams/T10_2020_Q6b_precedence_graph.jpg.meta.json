@@ -1,0 +1,6 @@
+{
+  "description": "Precedence graph for 2020 Q.6(b) Precedence Graph (T1, T2): Acyclic, serial order T1 \u2192 T2 (View & Conflict Serializable)",
+  "figure_id": "T10_2020_Q6b_precedence_graph",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/generate_T10_diagrams.py"
+}

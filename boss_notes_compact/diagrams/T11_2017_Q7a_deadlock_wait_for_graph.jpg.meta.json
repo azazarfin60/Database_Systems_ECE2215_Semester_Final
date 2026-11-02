@@ -1,0 +1,6 @@
+{
+  "description": "Wait-for graph and schedule execution illustrating deadlock cycle T1 -> T2 -> T1 under 2PL for 2017 Q.7(a)",
+  "figure_id": "Fig_T11_2017_Q7a",
+  "source_image": "generated",
+  "generator": "Topicwise_answers_exam_style/diagrams/_scripts/T11_2017_Q7a_deadlock_wait_for_graph.py"
+}

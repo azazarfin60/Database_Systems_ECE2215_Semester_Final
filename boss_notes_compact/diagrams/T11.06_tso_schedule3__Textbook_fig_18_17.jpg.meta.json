@@ -1,0 +1,21 @@
+{
+  "description": "Schedule 3 showing timestamp-ordering schedule for T25 and T26",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 9.4,
+    "bottom": 38.6,
+    "left": 36.5,
+    "right": 65.5
+  },
+  "crop_pixels": {
+    "x1": 538,
+    "y1": 171,
+    "x2": 966,
+    "y2": 704
+  },
+  "crop_size": {
+    "width": 428,
+    "height": 533
+  },
+  "figure_id": "Fig_18.17"
+}

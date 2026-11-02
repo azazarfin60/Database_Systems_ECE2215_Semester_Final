@@ -1,0 +1,21 @@
+{
+  "description": "Comparison of (a) Two-tier architecture where client application directly calls database system over network and (b) Three-tier architecture where client talks to an application server which accesses the database system",
+  "source_image": "page_030.jpg",
+  "crop_percentages": {
+    "top": 16.0,
+    "bottom": 84.4,
+    "left": 20.0,
+    "right": 80.0
+  },
+  "crop_pixels": {
+    "x1": 533,
+    "y1": 240,
+    "x2": 2133,
+    "y2": 1266
+  },
+  "crop_size": {
+    "width": 1600,
+    "height": 1026
+  },
+  "figure_id": "Fig_L01_p30_01"
+}
